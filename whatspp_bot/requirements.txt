@@ -1,0 +1,3 @@
+selenium
+phonenumbers
+Chrome driver #installed globally via pip
