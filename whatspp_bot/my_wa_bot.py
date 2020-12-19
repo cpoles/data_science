@@ -5,7 +5,6 @@
 from whatsapp_api import  WhatsApp
 from time import sleep
 
-
 # create the WhatsApp object
 wp = WhatsApp()
 
@@ -22,13 +21,12 @@ for first_name, full_name, product in zip (first_names, contact_names, product_l
     #search contact
     wp.search_contact(full_name)
     sleep(3)
-    
+
     #create message
     msg = "Hi, {first_name}. Thanks for buying {product}!"
-    
+
     #send message
     wp.send_message(msg)
-
 
 #wait 10 seconds befor closing Chrome
 sleep(10)
