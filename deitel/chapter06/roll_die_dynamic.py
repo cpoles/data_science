@@ -26,6 +26,7 @@ def update(frame_number, rolls, faces, frequencies):
         text_x = bar.get_x() + bar.get_width() / 2.0
         text_y = bar.get_height()
         text = f'{frequency:,}\n{frequency / sum(frequencies):.3%}'
+        axes.text(text_x, text_y, text, ha='center', va='bottom')
 
 # read command-line arguments for number of frames and rolls per frame
 number_of_frames = int(sys.argv[1])
