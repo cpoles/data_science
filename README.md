@@ -1,5 +1,6 @@
-# Python 
+# **Python**
 
-## tutorials
-## general learning
-## learning projects
+
+* ### tutorials
+* ### general learning
+* ### learning projects
