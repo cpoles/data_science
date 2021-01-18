@@ -62,7 +62,7 @@ def print_board(board):
         for column in row:
             board_str += f' {column} |'
         print(board_str)
-        print('------------')
+        print('-------------')
         board_str = ''
 
 
@@ -105,6 +105,7 @@ def game():
                 else:
                     print('Player 2 Wins!')
 
+                print()
                 print_board(board)
                 break
         else:
