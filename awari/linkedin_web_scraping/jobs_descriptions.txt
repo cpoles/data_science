@@ -1,0 +1,1299 @@
+At Yelp, it’s our mission to connect people with great local businesses. Yelp’s unique dataset contains billions of interactions between users and local business around the globe, from a user reviewing a neighborhood coffee shop to requesting a repair quote with a photo of a leaky faucet. Data Scientists at Yelp work to make sense of these interactions to deliver impactful analyses and products to our users, business partners and the general public.
+
+The Data Science team performs analyses, builds models, and designs experiments that directly impact Yelp’s business and users. Our centralized team is the most wide-ranging consumer of data at Yelp, adept at tasks from modeling content growth and user behavior to sharing insights about the health of local economies. With varied backgrounds and expertise, we strive for learning and growth in a collaborative environment.
+
+We’d love to have you apply, even if you don't feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+
+
+
+
+
+
+
+
+
+
+CCPA Privacy Notice
+
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer SoftwareInternetMarketing and Advertising
+Summary
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming outstanding products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+
+Apple's Strategic Data Solutions (SDS) team is looking for a talented individual who is passionate about crafting, implementing, and operating analytical solutions that have direct and measurable impact to Apple and its customers.
+
+
+As an SDS data scientist, you will employ predictive modeling and statistical analysis techniques to build end-to-end solutions for improving security, fraud prevention, and operational efficiency across the company, from manufacturing to fulfillment to apps and services.
+
+
+Apple's dedication to customer privacy, the adversarial nature of fraud, and the enormous scale of the business present exciting challenges to traditional machine learning and data science techniques. On this team, you will push the limits of existing data science methods while delivering tangible business value.
+
+
+
+
+Practical experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+
+Working knowledge of relational databases, including SQL, and large-scale distributed systems such as Hadoop and Spark
+
+Ability to implement data science pipelines and applications in a general programming language such as Python, Scala, or Java
+
+Ability to comprehend and debug complex systems integrations spanning toolchains and teams
+
+Ability to extract meaningful business insights from data and identify the stories behind the patterns
+
+Excellent presentation skills, distilling complex analysis and concepts into concise business-focused takeaways
+
+Creativity to engineer novel features and signals, and to push beyond current tools and approaches
+
+
+
+
+• Engage with business teams to find opportunities, understand requirements, and translate those requirements into technical solutions
+
+• Design data science approach, applying tried-and-true techniques or developing custom algorithms as needed by the business problem
+
+• Collaborate with data engineers and platform architects to implement robust production real-time and batch decisioning solutions
+
+• Ensure operational and business metric health by monitoring production decision points
+
+• Investigate adversarial trends, identify behavior patterns, and respond with agile logic changes
+
+• Communicate results of analyses to business partners and executives
+
+• Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team
+
+
+
+
+• Ph.D. in Computer Science, Machine Learning, Statistics, Operations Research or related field; or
+
+• Ph.D. in Math, Engineering, Economics, or hard science with data science fellowship; or
+
+• M.S. in related field with 3+ years experience applying data science to real business problems
+
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Consumer Electronics
+Calling All Data Scientists!
+
+Data science at IDEO is growing, and as a result we are continually on the lookout for great colleagues in this space. If you’d like to be considered for a future data science opportunity at IDEO, please submit an application indicating which locations you’d be most interested in exploring. We will review applications on a rolling basis and reach out to qualified candidates to begin the conversation!
+
+
+
+Data scientists at IDEO play an integral role in our design process and in scaling our business: proposal writing, client relationship development, user research, concept development, prototyping, project management, and design stewardship. We also count on our data science colleagues to lead their project teams in data-driven thinking and provide expertise on the positive potential of intersecting intelligent technologies with human-centered design.
+
+
+
+
+
+
+We're looking for people who demonstrate visible experience writing reusable code (probably mostly Python) to do exploratory data analysis, simulation, data visualization, and various machine learning and optimization techniques. This could mean a portfolio of open source contributions, personal projects, presentations, or other things that show that you were passionate about a subject, took some initiative to learn about it, and applied it to a real problem.
+
+
+
+
+
+
+Tell us about a project on which you wrote data analysis code as part of a team. What went well on the project and what would you do differently next time? URLs to examples (slides, reports, apps, code) are encouraged.
+
+What excites you about applying data science at IDEO?
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingComputer SoftwareInternet
+Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing. Tinder’s Analytics Team is looking for a Data Scientist with expertise in Analytics.
+
+Our analytics team takes ownership of the decisions being made from our data – we develop a deep understanding of both the business and its data and establish close working relationships with all teams - including Product, Marketing, Engineering, and Finance – so that we can provide recommendations and make proposals regarding prioritization of initiatives, product launches, A/B tests, and company performance.
+
+As a data scientist in this role, you will be a partner to the Analytics team, providing support for A/B test design and analysis as well as data-driven insights through ad-hoc analyses, presentations, and automated reports and dashboards. This role will require extensive experience with SQL, data wrangling, statistics, and A/B testing as well as the ability to work in cross-functional teams to drive actionable insights. Experience with user growth and acquisition across consumer products is a plus.
+
+
+
+
+
+
+
+
+
+
+
+At Tinder, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our product, and our community. We strive to make our workplace an inclusive and diverse environment, giving people from all walks of life the opportunity to have a voice. We champion and encourage those who bring different perspectives, ideas, and creativity to join our team dedicated to bringing people together across the globe. Tinder is proud to be an equal opportunity workplace where we welcome all people regardless of sex, gender identity, race, ethnicity, disability, or other lived experience.
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingComputer SoftwareInternet
+Come and join the Microsoft Browser Data Science & Experimentation team where we thrive on data to solve high impact business problems! Help develop capabilities focused on A/B experimentation, staged rollout, and metric design. You will work with key teams across Microsoft to deliver the infrastructure, push the culture, and analyze the outcomes for accelerated business growth through consumer experimentation. We are a small team that owns the evangelism and support for the entire Edge Browser team’s experimentation efforts. We partner with other experimentation teams in Microsoft to build and advance a common solution while partnering with our business partners to ensure that treatment effects are thoroughly understood and decisions are made to optimize for growth and business success. We are part of a broader data science team within Edge providing insights that help us understand our customers and their desires and inherent behaviors. Work with data from diverse structured and unstructured data sources in a variety of formats. You’ll have direct interaction with experts in machine learning, software development and partner product teams, on the vision, scenario/feature planning, execution and delivery of transformative solutions for the web.
+
+We’re looking for a Senior Data Scientist who is highly motivated, extremely passionate about driving a data culture, has a proven track record of designing high quality metrics and experiments, and is excellent at working across disciplines to build high quality software. We hire great people with diverse multi-disciplinary backgrounds, engineering and analytical skills, business experience, relentless curiosity, and a motivation to improve product quality and business outcomes with data. You should have a clear record of using data to improve the world around you and demonstrate an aptitude for mentoring others. Our work is highly varied and offers a chance to focus on many different data science techniques and aspects of the Edge business.
+
+As an expert in data science, you will guide the team, helping feature teams formulate approaches to solve challenging problems using well-defined algorithms and data sources in context of customer, engineering, and business needs. You will become an expert in browser telemetry and the experimentation system used by many of the most successful teams within Microsoft. You will also help teams interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve. You will engage with peers to produce clear, compelling, and actionable insights that influence product and service improvements; and guide the decision making of our leadership and executives as we crafting the experience hundreds of millions of customers have with Edge. You will also engage in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results.
+
+
+
+
+
+
+
+
+
+
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+//edgejobs
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Other
+Industries
+Computer HardwareComputer SoftwareInformation Technology and Services
+Company Description
+
+Twitter serves the public conversation by encouraging people all over the world to connect, learn, debate, and solve problems together. We believe conversation can change the world, and that’s why Tweeps (that’s what we call Twitter employees) come to work every day.
+
+
+
+You will work closely with our partners in Product, Engineering, Design, and Research to understand customer behavior, inform product decisions, and increase healthy participation on Twitter.
+
+You will support the entire product development lifecycle from product ideation to opportunity sizing, from measurement design to experimentation, from causal analysis to post-launch learning, and iteration into the next development cycle. You will analyze how changes to the platform affect customer behavior and business outcomes. You will also communicate findings to cross-functional partners and use data to improve the team’s strategy.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Internet
+Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 286 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+
+Our Global Credit Risk team is looking for a Data Scientist with strong knowledge of data science and modeling methodologies to work on our next generation CECL/IFRS9-compliant loss forecasting models. Leveraging various credit loss modeling techniques, together with PayPal’s huge proprietary database, you will help articulate, predict, quantify, and communicate account-level credit risk which will drive PayPal’s credit-related loss reserves. You will be required to interact with a cross functional team, including finance, accounting, operations, technology, and risk. Having a strong sense of accountability coupled with a passion for delivering crisp data insights and the ability to tell stories through data are essential. Experience with IFRS9 and understanding of CECL loss forecasting models is a plus. Ideal candidates have a credit risk background and experience with complex big data environments and model development.
+
+
+Specific Responsibilities
+
+
+
+Functional Skills & Behaviors
+
+
+
+
+
+
+
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.
+
+REQ ID R0065504
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer SoftwareFinancial ServicesInternet
+THE ROLE
+
+Tesla's mission is to accelerate the world's transition to sustainable energy. Tesla’s Finance Analytics team sits at the intersection of financial analysis, business intelligence, data engineering, and data science to support this mission by converting raw data into actionable insights.
+
+We are looking for a senior data scientist who can play a foundational role in measuring, predicting, and managing risk across Tesla.
+
+
+
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+AutomotiveRenewables & EnvironmentUtilities
+We are looking for a data scientist to partner with our Money Movement engineering team to understand and optimize all of the funds handled by Stripe. The Money Movement team is building the platform to abstract the complexity of the global financial system for Stripe’s users. Data Scientists and engineers work closely to ensure that Stripe can move funds safely and efficiently at massive scale.
+
+In this role you will have the opportunity to solve complex modeling and optimization problems that are at the heart of Stripe’s business. We’re looking for a data scientist with a strong technical background, interest in learning the nitty details of how money moves around the world, and who can work with technical leaders to design highly efficient financial systems.
+
+
+
+
+
+
+
+
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer SoftwareFinancial ServicesInternet
+Data Scientist (NY)
+
+The Data Science team works closely with our product, customer success, and sales teams; we work to make sure teams are asking the right questions and then find those answers. Our data informs us of the impact we are having on the world, and our team is crucial to architecting and building our data infrastructure. We also design and use data analysis tools that increase our data’s scalability, accuracy, and accessibility. We understand our company’s goals and proactively inform their direction with data so that our product can help more teams do great things.
+
+As a Data Scientist at Asana, you’ll help us ask the right questions and answer them rigorously. You’ll work closely with our Product and Business teams to understand their goals and proactively inform their direction with data. You’ll keep taking on new responsibilities as you grow—from defining core metrics to building machine learning models and keeping the data flowing in our pipelines.
+
+
+
+
+
+
+
+
+
+At Asana, we're building a better way to work, fueled by transparency, inclusion, and technology that is a force for positive change. Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives, so they can move faster and accomplish more with less. For the past 5 years, we've been named a top workplace, including top 10 Great Place to Work Best Small & Medium Workplaces, #1 Fortune Best Workplace in the Bay Area for four years in a row, #8 Fortune Best Workplaces for Women, #14 Glassdoor Best Place to Work , and one of Ireland's Best Workplaces . With offices all over the world, we are always looking for curious, collaborative, and mission-driven people to help us enable the world’s teams to work together effortlessly.
+
+We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status.
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information Technology and ServicesComputer SoftwareInternet
+Grammarly is continuing to grow our team during the COVID-19 pandemic, conducting fully remote hiring and onboarding processes. All Grammarly team members can work remotely until August 2021. Read more about how we’re supporting our team and communities.
+The opportunity
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. 30 million people around the world use our AI-powered writing assistant every day. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+We’re looking for a Data Scientist to help us drive decision-making, find bigger opportunities, and improve our product. As a consumer internet company, we produce huge amounts of data, and in this role, you will have outsize opportunities to develop the insights to make it actionable. You will have broad impact and exposure across Grammarly, working with team members from our Product, Research, Marketing, Engineering, and Finance teams.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog .
+
+As a Data Scientist at Grammarly, you will help our team make better decisions by advocating for data-driven approaches across the organization. Your analysis will contribute to our strategy across the business in areas such as user acquisition, engagement, retention, and more.
+
+
+
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. Grammarly is an equal opportunity employer and participant in the U.S. Federal E-Verify program.
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information Technology and ServicesComputer SoftwareInternet
+Data Scientist
+
+Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your analytical skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our Government & Public Services (GPS) Strategy and Analytics team brings deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client’s most complex business problems. Join our team and play a key role in helping to design our clients’ roadmap to the future and help transform the GPS marketplace
+
+
+
+The Data Scientist will join a team responsible for developing advanced analytics products; applying data visualization and statistical programming tools to enterprise data to advance and enable key mission outcomes. In this role, they will support all phases of analytic work product development, from the identification of key business questions to ETL, from performing analyses to delivery of insights to decision-makers, with particular attention to the interplay between data and the business processes that produce and consume it.
+
+Travel up to 10% (While 10% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice.)
+
+
+
+Analytics & Cognitive
+
+In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.
+
+The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career. Explore Deloitte University, The Leadership Center.
+
+
+
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.
+
+
+
+Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives. Learn more about Life at Deloitte.
+
+
+
+Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities. Learn more about Deloitte’s impact on the world.
+
+
+
+We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you’re applying to. Check out recruiting tips from Deloitte professionals.
+
+As used in this posting, “Deloitte” means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see www.deloitte.com/us/about for a detailed description of the legal structure of Deloitte LLP and its subsidiaries. Certain services may not be available to attest clients under the rules and regulations of public accounting.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+
+Requisition code: E21ROSCACSMG002SA
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+ManagementStrategy/PlanningConsulting
+Industries
+AccountingInformation Technology and ServicesManagement Consulting
+Job Title
+
+Data Scientist
+
+Requisition ID
+
+R004570
+
+
+
+: Data Scientist
+
+Senior Data Science Manager, Mobile Analytics
+
+: Global Analytics
+
+Santa Monica, CA
+
+
+
+Founded in 1979, Activision has continuously disrupted the world of entertainment as a leader in the videogame industry. With a history of delivering iconic game changers -- like , ™ and® -- our obsession is delighting our players around the globe. Focused and committed to innovation, we consistently deliver the most beloved, engaging and successful entertainment.
+
+And while we have world-class franchises, infrastructure and resources, our success comes from a passionate, talented and diverse team of people producing greatness together. So, if you’re interested in our biggest priority, it’s our people.
+
+We’re currently driving the next era for our company and community by creating amazing experiences for fans and continuing to make Activision an inclusive place where everyone can thrive.
+
+Join us, make history. To learn more, check us out at www.activision.com, www.activisiongamesblog.com or @Activision on Instagram, Twitter, Facebook and LinkedIn.
+
+
+
+
+
+The Mobile Analytics Team is adding a talented Data Scientist. As part of the team, your mission is to put science into decision making.
+
+
+
+
+We are seeking a leader who will contribute to team success by embodying all the characteristics of our culture
+
+
+
+
+Possess a unique blend of project skills and business savvy; a passion for exceptional execution within a dynamic environment and the flexibility and focus to achieve result
+
+
+
+
+Activision Blizzard, Inc. (NASDAQ: ATVI), is one of the world's largest and most successful interactive entertainment companies and is at the intersection of media, technology and entertainment. We are home to some of the most beloved entertainment franchises including ®, , ®, ®, ™ and ™. Our combined entertainment network delights hundreds of millions of monthly active users in 196 countries, making us the largest gaming network on the planet!
+
+Our ability to build immersive and innovate worlds is only enhanced by diverse teams working in an inclusive environment. We aspire to have a culture where everyone can thrive in order to connect and engage the world through epic entertainment. We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!
+
+
+
+Activision is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law and will not be discriminated against on the basis of disability.
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingInformation Technology and ServicesComputer Software
+Verily, an Alphabet company, lives at the intersection of technology, data science and healthcare. Our mission is to make the world’s health data useful so that people enjoy longer and healthier lives.
+
+Our team combines expertise in healthcare, data science and technology to improve the health and well-being of our communities. We are developing the infrastructure and solutions to harness the profusion of health information for good. Our data-driven solutions span three primary areas: research, care and innovation. Programs include Project Baseline - our research initiative to increase participation and evidence generation in clinical research; Onduo - our personalized virtual care platform, which includes connected tools, lifestyle coaching and clinical support; and Debug - our effort to reduce the threat of mosquito-borne diseases by combining machine learning with sterile insect technique. We’re also actively working to combat the spread of COVID-19 through new programs like Healthy at Work.
+
+
+
+Our Data Science group specializes in analyzing and building models to help make sense of large datasets resulting from bio-sensors, digital pathology, clinical informatics, molecular assays, and patient surveys. We combine domain knowledge and programming expertise with statistical and machine learning skills to build scalable models and solutions that help power Verily’s various product areas.
+
+In this position, you will work cross-functionally with Verily's clinical, software, product, and science teams to develop and productionize models for disease progression, digital phenotyping and risk stratification. To enable real-world impact, you will deliver key analyses for motivating product direction, build reusable analysis tools and work closely with software engineers, product managers, and clinicians to deliver user-facing products.
+
+
+
+
+
+
+Minimum Qualifications:
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer SoftwareBiotechnologyHospital & Health Care
+About the role
+A career at ClassPass is an opportunity for you to join a rapidly growing company committed to helping over 1 million users across 20 countries reach their fitness goals. We have an exciting opportunity for a highly self-motivated, detail-oriented Data Scientist to work on the Pricing & Inventory team, which manages the two-sided marketplace between our users and our fitness & wellness partners, and leads on testing new pricing, packaging and supply acquisition strategies. 
+Show more
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Consumer ServicesHealth, Wellness and Fitness
+Direct message the job poster from LinkedIn
+Graydon Klassen
+TA Engagement Manager, LinkedIn Recruiting For Good at LinkedIn
+Description
+
+Staff Data Scientist:
+
+LinkedIn was built to help professionals achieve more in their careers, and every day millions of people use our products to make connections, discover opportunities and gain insights. Our global reach means we get to make a direct impact on the world’s workforce in ways no other company can. We’re much more than a digital resume – we transform lives through innovative products and technology.
+
+LinkedIn’s Data Science team leverages big data to empower business decisions and deliver data-driven insights, metrics, and tools in order to drive member engagement, business growth, and monetization efforts. With over 500 million members around the world, a focus on great user experience, and a mix of B2B and B2C programs, a career at LinkedIn offers countless ways for an ambitious data scientist to have an impact.
+
+We are now looking for a talented and driven individual to accelerate our efforts and be a major part of our data-centric culture. It is expected that this person understands experimentation and/or machine learning techniques to be able to implement from scratch and have the ability to extend and enhance these techniques to specific applications like business problems. Successful candidates will exhibit technical acumen on inference and algorithms, and the business savvy to use these technical skills to drive better business decision-making.
+
+Responsibilities
+
+Work with a team of high-performing analytics, data science professionals, and cross-functional teams to identify business opportunities and develop algorithms and methodologies to address them.
+Analyze large-scale structured and unstructured data.
+Conduct in-depth and rigorous causal analysis and develop causal methodology and machine learning models to drive member value and customer success.
+Develop methodologies to enhance LinkedIn’s product and platform capabilities.
+Engage with technology partners to build, prototype and validate scalable tools/applications end to end (backend, frontend, data) for converting data to insights
+Promote and enable adoption of technical advances in Data Science; elevate the art of Data Science practice at LinkedIn.
+Improve LinkedIn’s ability to measure and credibly speak to labor market trends and other economic phenomena.
+Initiate and drive projects to completion independently
+Act as a thought partner to senior leaders to prioritize/scope projects, provide recommendations and evangelize data-driven business decisions in support of strategic goals
+Partner with cross-functional teams to initiate, lead or contribute to large-scale/complex strategic projects for team, department, and company
+Provide technical guidance and mentorship to junior team members on solution design as well as lead code/design reviews
+
+Basic Qualifications
+
+Masters or Ph.D. degree in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc.
+5+ years relevant industry or relevant academia experience in Analytics/Data Science working with large amounts of data.
+Experience with SQL/Relational databases
+Background in at least one programming language (eg. R, Python, Java, Ruby, Scala/Spark or Perl)
+Experience in applied statistics and statistical modeling in at least one statistical software package, (eg. R, Python)
+Research experience related to one of the following domains: Experimentation and causal inference, Machine Learning, Differential Privacy, Forecasting, Econometrics, Operations Research, or related area, with publications in top tier conferences.
+
+Preferred Qualifications
+
+BS and 7+ years of relevant work experience, MS and 5+ years of relevant work experience, or Ph.D. and 3+ years of relevant work experience in relevant industry/academia
+Experience in one of the domains - product analytics, marketing analytics, or sales analytics
+Experience with manipulating massive-scale structured and unstructured data.
+Experience with Hadoop or other MapReduce paradigms, and associated languages such as Pig, Hive, etc.
+Working knowledge of Unix and Unix-like systems, git and code review.
+
+You will Benefit from our Culture:
+
+We strongly believe in the well-being of our employees and their families. That is why we offer generous health and wellness programs and time away for employees of all levels
+
+Equal Opportunity Statement
+LinkedIn is committed to diversity in its workforce and is proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. LinkedIn is an Affirmative Action and Equal Opportunity Employer as described in our equal opportunity statement here: https://lnkd.in/equalemploymentopportunity2017. Please reference http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf and https://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf for more information.
+
+LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.
+
+If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at accommodations@linkedin.com and describe the specific accommodation requested for a disability-related limitation.
+
+Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:
+
+-Documents in alternate formats or read aloud to you
+-Having interviews in an accessible location
+-Being accompanied by a service dog
+-Having a sign language interpreter present for the interview
+
+A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.
+
+LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.
+
+Pay Transparency Policy Statement
+As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency.
+
+Global Data Privacy Notice for Job Candidates
+This document provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://lnkd.in/GlobalDataPrivacyNotice
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Analyst
+Industries
+InternetInformation Technology and Services
+Waymo is an autonomous driving technology company with a mission to make it safe and easy for people and things to get where they’re going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the World’s Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our fully autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 20 billion miles of simulation testing.
+
+Waymo takes an integrated approach to building the world’s first self-driving car, with researchers, designers, product managers, and technical program managers working side by side. We seek to understand the needs of our users and the opportunities of the technology to ensure we build the best product. From self driving behavior to user interfaces, we work to inspire the product vision and then make it a reality.
+
+
+
+
+
+
+
+
+
+
+We appreciate your interest in Waymo. Waymo is an equal employment opportunity employer. Waymo’s policy is not to discriminate against any applicant or employee based on race, color, sex, religion, national origin, age, disability, military status, genetic information or any other characteristic protected by law. Waymo also prohibits harassment of applicants or employees based on any of these protected categories. Waymo will also consider for employment qualified applicants with criminal records in accordance with applicable law. Waymo also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+
+Waymo is committed to maintaining the same safe and inclusive environment for candidates as for our team members. Addressing you by the correct pronoun is an important part of this commitment.
+
+Waymo Candidate Privacy Policy
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information Technology and ServicesComputer SoftwareAutomotive
+About The Team
+
+The Analytics team is looking for experienced Data Scientists to guide measurement, strategy, and tactical decision-making across the company across a variety of teams and levels. Data Scientists at DoorDash work to uncover insights and turn them into relevant recommendations, driving decisions for the entire organization. Analytics is integral to all operational areas at DoorDash.
+
+
+
+
+As a Data Scientist at DoorDash, you'll use your quantitative background to mentor other scientists and dive into large datasets to guide decision-making. We tackle a multitude of exciting challenges including customer acquisition, fraud and support, marketing, balancing supply and demand, new city launches, marketplace efficiency, and more. If you enjoy finding patterns amidst chaos, and have experience using analytics to affect revenue, growth, operations or beyond, we’re looking for someone like you!
+
+
+
+
+
+
+
+
+
+
+
+DoorDash is a technology company that connects customers with their favorite local and national businesses in over 4,000 cities and all 50 states across the United States and Canada. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the or at www.doordash.com.
+
+
+
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information Technology and ServicesComputer SoftwareInternet
+Direct message the job poster from Acorns
+Mary Claire Anderson
+Sr. Talent Acquisition Manager
+Data Scientist | Acorns
+
+At Acorns, we're building a financial wellness system that enables everyday Americans to save and invest every day. We are transforming the category and recruiting a team that is relentless at fulfilling our mission. The Acorns team comes together every day to deliver a revolutionary product to its customers, the up-and-coming. If you thrive in an environment where you can push yourself beyond all previous thresholds of possibility, come join us at Acorns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Analyst
+Industries
+Financial Services
+Job Description
+
+Janssen Pharmaceuticals, Inc., a member of Johnson & Johnson's Family of Companies, is recruiting for a Data Scientist in Janssen Business Technology located in Titusville, NJ, Raritan, NJ or Horsham, PA.
+
+At the Janssen Pharmaceutical Companies of Johnson & Johnson, what matters most is helping people live full and healthy lives. We focus on treating, curing and preventing some of the most devastating and complex diseases of our time. And we pursue the most promising science, wherever it might be found.
+
+The Janssen Pharmaceutical Companies of Johnson & Johnson provide medicines for an array of health concerns in several therapeutic areas. Our ultimate goal is to help people live healthy lives. We have produced and marketed many first-in-class prescription medications and are poised to serve the broad needs of the healthcare market - from patients to practitioners, from clinics to hospitals. For more about the Pharmaceutical Companies of Johnson & Johnson, visit: http://www.janssenpharmaceuticalsinc.com/.
+
+We are Janssen. Our mission drives us. Our patients inspire us. We collaborate with the world for the health of everyone in it.
+
+The Commercial Data Sciences & Data Management team within Janssen Pharmaceuticals Business Technology organization is looking for an extraordinary scientist who is passionate about crafting, developing, and fielding data science solutions that drive impact for patients and for Janssen. There are many ways to explore and analyze data, and this powers the excitement and passion of data scientists at Janssen as many business units are eager to use the data to build business value.
+
+In this role you will be someone who stays on the cutting edge of artificial intelligence, data science and advanced analytics research through novel project execution and development of algorithms that influence decisions at various levels in the organization, including but not limited to patient journey and disease progression analysis, sales and patient support program optimization, healthcare provider and payer analytics, and related commercially-focused model development. The role requires both a broad knowledge of existing AI-type algorithms and the creativity to invent and customize when necessary. You will partner with matrixed teams to deliver projects and develop solutions that in turn deliver insights. You will be part of a dynamic, accomplished organization that will support multiple therapeutic areas and commercial functions.
+
+
+
+
+
+
+
+
+
+Thriving on a diverse company culture, celebrating the uniqueness of our employees and committed to inclusion, J&J is proud to be an equal opportunity employer.
+
+#JNJDataScience
+
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Hospital & Health CareMedical DevicesPharmaceuticals
+Kraft Heinz, The Company
+
+As one of the world’s largest food and beverage companies, we are proud to spark joy around mealtimes with a global portfolio of more than 200 brands. Some are iconic master brands like Heinz, Kraft and Planters. Others are fast growing new sensations that defy status quo like DEVOUR and Primal Kitchen. No matter the brand, we are united under one vision To Be the Best Food Company, Growing a Better World. Bringing this vision to life are our 36,000+ teammates around the world, making food people love.
+
+Together, we help provide meals to those in need through our global partnership and commitment with Rise Against Hunger. And we also stand committed to sustainability, and the health of our planet and its people.
+
+Every day, we are transforming the food industry with bold thinking and unprecedented results. If you’re passionate like us -- and ready to create the future, build on a storied legacy, and participate as a conscientious global citizen -- there’s one thing to do join us.
+
+
+
+We're not afraid to think differently. Embrace new ideas. Dream big. It all comes down to the way we empower our people to own their work. It’s true Our employees are our competitive advantage.
+
+As part of the Kraft Heinz family you’re supported to grow and achieve. You’re recognized and rewarded for outstanding performance at every level. You’re given the opportunity to leave your mark and build legacies. But you won’t do it alone. This is where our values and teamwork thrives and collaborative spirit fuels every day.
+
+
+
+
+
+We're one of the world's largest food and beverage companies and a trusted producer of high-quality- great-tasting- nutritious foods. We daily earn a spot on 97% of American tables- and as guardians of beloved brands and creators of innovative products- we're dedicated To Make Life Delicious for our consumers.
+
+Today- Kraft Heinz is building a new legacy by investing in a robust Digital infrastructure to revolutionize the food industry. We're embracing Agile ways of working and immersing ourselves in Advanced Analytics to connect meaningful insights to our consumer experiences - all while honoring a 150-year heritage and a portfolio of 200 iconic brands. Every day- we gather huge amounts of data into a robust data infrastructure. Now- we are on a mission to transform that data into Digital products that inform our decisions and drive tangible impact. Our tech stack includes Python- Azure- Snowflake and ReactJS.
+
+
+
+As a Data Scientist you will be a core member of one of our nimble- cross-functional teams – disrupting from inside of a global powerhouse. You will help build our next generation of advanced analytics products using AI- Data Science- and Machine Learning. Examples of problems you will solve include helping R&D determine the next generation of household products- revolutionizing consumer engagement with personally relevant content- and reinventing our supply chain to eliminate food waste. Furthermore- you will
+
+
+
+
+
+
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Science
+Industries
+Food & BeveragesConsumer GoodsFood Production
+At Everlane, we want the right choice to be as easy as putting on a great T-shirt. That’s why we partner with ethical factories around the world. Work with high quality and more sustainably sourced materials. And share the true cost of every product we make. But there's a lot more work to be done, and we're excited to be growing a team of motivated humans that are up for the challenge.
+
+
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+RetailLogistics and Supply Chain
+Minimum qualifications:
+Master's degree in Operations Research, Industrial Engineering, Statistics, related field, or equivalent practical experience.
+2 years of relevant work experience (e.g., as a data scientist) or equivalent. Analytical engagements outside class work while at school can be included.
+
+
+Preferred qualifications:
+
+
+
+
+At Google, data drives all of our decision-making. Data Scientists work all across the organization to help shape Google's business and technical strategies by processing, analyzing and interpreting huge data sets. Using analytical rigor and statistical methods, you mine through data to identify opportunities for Google and our clients to operate more efficiently, from enhancing advertising efficacy to network infrastructure optimization to studying user behavior. As an analyst, you do more than just crunch the numbers. You work with Engineers, Product Managers, Sales Associates and Marketing teams to adjust Google's practices according to your findings. Identifying the problem is only half the job; you also figure out the solution.
+
+As a member of the Operations Data Science team, you will apply operations research and statistical methods to solve challenges related to compute, storage, network, and datacenter capacity for both Google’s internal services and Google Cloud Platform. You will work broadly across Google’s Platforms Engineering, Systems Infrastructure, and Site Reliability Engineering teams to optimize our deployment of resources and drive innovation in our software stack, allowing for efficient use of resources.
+
+As a Data Scientist, you will think critically and strategically about Google’s cloud as a technology, a business, and as an operation. You will be comfortable discussing total cost of management with hardware engineers, resource optimization with software engineers, or reviewing fleet plans and deployment policies with operations executives, all based upon the analytical models that you will be developing.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form .
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information ServicesInternet
+Job Title
+
+Data Scientist
+
+Requisition ID
+
+R004570
+
+
+
+: Data Scientist
+
+Senior Data Science Manager, Mobile Analytics
+
+: Global Analytics
+
+Santa Monica, CA
+
+
+
+Founded in 1979, Activision has continuously disrupted the world of entertainment as a leader in the videogame industry. With a history of delivering iconic game changers -- like , ™ and® -- our obsession is delighting our players around the globe. Focused and committed to innovation, we consistently deliver the most beloved, engaging and successful entertainment.
+
+And while we have world-class franchises, infrastructure and resources, our success comes from a passionate, talented and diverse team of people producing greatness together. So, if you’re interested in our biggest priority, it’s our people.
+
+We’re currently driving the next era for our company and community by creating amazing experiences for fans and continuing to make Activision an inclusive place where everyone can thrive.
+
+Join us, make history. To learn more, check us out at www.activision.com, www.activisiongamesblog.com or @Activision on Instagram, Twitter, Facebook and LinkedIn.
+
+
+
+
+
+The Mobile Analytics Team is adding a talented Data Scientist. As part of the team, your mission is to put science into decision making.
+
+
+
+
+We are seeking a leader who will contribute to team success by embodying all the characteristics of our culture
+
+
+
+
+Possess a unique blend of project skills and business savvy; a passion for exceptional execution within a dynamic environment and the flexibility and focus to achieve result
+
+
+
+
+Activision Blizzard, Inc. (NASDAQ: ATVI), is one of the world's largest and most successful interactive entertainment companies and is at the intersection of media, technology and entertainment. We are home to some of the most beloved entertainment franchises including ®, , ®, ®, ™ and ™. Our combined entertainment network delights hundreds of millions of monthly active users in 196 countries, making us the largest gaming network on the planet!
+
+Our ability to build immersive and innovate worlds is only enhanced by diverse teams working in an inclusive environment. We aspire to have a culture where everyone can thrive in order to connect and engage the world through epic entertainment. We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!
+
+
+
+Activision is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law and will not be discriminated against on the basis of disability.
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingInformation Technology and ServicesComputer Software
+About Us
+
+Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We’re always live at Twitch. Stay up to date on all things Twitch on LinkedIn , Twitter and on our Blog .
+
+
+
+The Marketing team at Twitch is looking for an outstanding Data Scientist with demonstrated experience delivering insights from complex data. You will guide growth in areas that are underserved in marketing like campaign attribution, media mix modeling and other similar problems, creating strategies to re-engage and excite existing viewers while also finding new avenues to profitably acquire new viewers. You will combine domain-knowledge with data-science skills to work with these challenges and many more like them and help implement scalable solutions. You will report into the Marketing Science & Analytics team.
+
+
+
+
+
+
+We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Internet
+“The front page of the internet," Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities.
+
+We are looking for a Principal Data Scientist to work with our Economy team. The Economy team is focused on Direct-To-Consumer revenue and is crucial for the further monetization of Reddit. Our current efforts include awarding on the platform, exploring more uses for coin, and scaling Reddit Premium. Our vision is to enrich engagement and build a new revenue pillar to complement Ads revenue. As the Principal DS embedded on the team, you will be essential in helping us dig through the massive amounts of Reddit data and identify monetization opportunities. This is a truly unique zero-to-one data opportunity. If you enjoy white space and using data to find monetization opportunities, look no further.
+
+
+
+You’ll be the expert in ensuring we understand what users are doing on the platform and what they would be willing to pay money for. You will help us make the right product decisions based on data insights, play with the massive amounts of data from one of the largest websites, and help define the culture and frameworks for future team members. Reddit sits in a unique place, where there are still a lot of low hanging fruit opportunities that will immediately impact millions of users and make a visible difference in our business KPIs.
+
+
+
+
+
+
+
+
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingComputer SoftwareInternet
+Description
+
+Olive is healthcare’s first intelligent digital workforce and has been successfully deployed at numerous healthcare systems across the country. Olive helps streamline and automate the most high-volume, repetitive tasks so healthcare professionals can concentrate on their patients and solving healthcare’s most challenging problems. Olive’s promise to her customers is that she finds out where she can make an impact, onboards quickly, shows up to work everyday, does her job extremely well, and gets smarter over time.
+
+Are you passionate about the use of advanced analytics methods to enable Olive to get smarter overtime while delivering value directly to health systems? As a Data Scientist, you will be responsible for designing and leading implementation of analytic solutions, including predictive modeling, machine learning, data visualization, insight tools development, and data infrastructure improvements. You will collaborate with analytic partners and business partners from product, customer success, data strategy, and infrastructure to develop effective solutions for our customers.
+
+Great candidates for this position will have a passion for delivering business value throughout all phases of the analytics lifecycle and find fulfillment in enabling a data-driven business.
+
+
+
+
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Information Technology and ServicesComputer SoftwareHospital & Health Care
+Address
+
+200 W Adams Street
+
+Job Family Group
+
+Data Analytics & Reporting
+Applies knowledge of advanced analytic algorithms and technologies (e.g. machine learning, deep learning, artificial intelligence) to deliver better predictions and/or intelligent automation that enables smarter business decisions, improved customer experience, and drives productivity. Applies strong communication and story-telling skills to summarize statistical/algorithmic findings, draw business conclusions, and present actionable insight in a way that resonates with business/groups. Drives innovation through the development of Data & AI products that can be leveraged across the organization and establishes best practices in in alignment with Data & AI governance frameworks of BMO.
+
+
+
+
+
+At BMO Harris Bank we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+
+As a member of the BMO Harris Bank team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+
+To find out more visit us at https://jobs.bmoharris.com .
+
+BMO Harris Bank is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. BMO Harris Bank N.A. is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+BankingFinancial Services
+Embedded in the NYC Tech Hub, we are building a cross-functional team of data scientists, analysts and engineers with the mission to bring the modeling and analytical capabilities of our marketing organization to the next level.
+
+As a Data Scientist, you will support the analytic needs of our Growth organization comprising Technology, Digital Product and Marketing. You will play a pivotal role in helping us continue to succeed as the leading global meal kit provider. This role will solve challenging problems using vast repositories of customer data to provide detailed and actionable insights; core responsibilities include the development and automation of Marketing BI tools, predictive modeling, professional-grade dashboarding and reporting for some of our most critical initiatives and enhancing and facilitating the information extraction process.
+
+To succeed in this role, you must demonstrate a desire to improve on existing techniques and processes and have a passion for data storytelling. You should strive to drive opportunities on experimentation and predictive modeling, and recommend improvements on strategies used by our marketing team across million dollars campaigns.
+
+
+
+
+
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingInformation Technology and ServicesInternet
+At Noom, we use scientifically proven methods to help our users create healthier lifestyles, and manage important conditions like Type-II Diabetes, Obesity, and Hypertension. Our Engineering team is at the forefront of this challenge, solving complex technical and UX problems on our mobile apps that center around habits, behavior, and lifestyle.
+
+We are looking for a Data Scientist to join our Data team and help us ensure that we apply the best approaches to data analysis and research, artificial intelligence, and machine learning.
+
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingComputer SoftwareInternet
+Responsibilities
+
+We are looking for an individual who is ready to demonstrate how we can best engage and grow NBC News Digital by mining opportunities for growth through analysis of behavioral data. This role will contribute directly to the success of our current and future NBC News Digital products and will define the next generation of content strategy for the business. Your expertise and background will be leveraged to innovate and develop new use cases for our data and deliver insights to the larger business.
+
+This role will be embedded within the Data Engineering and Business Intelligence team but will interface across the business. Candidates should have extensive experience developing, implementing and refining models into production environment.
+
+You will have demonstrated ability to work with Data and Machine Learning Engineers. You will lead data science projects from planning stages through execution and delivery. You’ll maintain and develop tools and processes to standardize and automate recurring procedures/tasks.
+
+This role is based in Seattle but can work remote during the pandemic.
+
+
+
+Statistics, Mathematics, Engineering, Economics or
+relevant field
+
+advanced data science techniques
+
+Domo)
+
+motivate, collaborate and influence
+
+deadlines
+
+resourceful
+
+
+
+
+strong plus
+
+News Digital
+
+Experienced
+
+Seattle
+
+Washington
+
+United States
+
+
+
+At NBCUniversal, we believe in the talent of our people. It’s our passion and commitment to excellence that drives NBCU’s vast portfolio of brands to succeed. From broadcast and cable networks, news and sports platforms, to film, world-renowned theme parks and a diverse suite of digital properties, we take pride in all that we do and all that we represent. It’s what makes us uniquely NBCU. Here you can create the extraordinary. Join us.
+
+
+
+NBCUniversal’s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Broadcast MediaEntertainmentMedia Production
+Job Description
+
+General Description
+
+JP Morgan Asset Management is a global investment manager with over $1.4 trillion in assets under management.
+
+The Operations technology team is a global team, with technology staff in NY, Delaware, the UK, the Far East and India. The team is responsible for supporting all functions of the Operations business –Trade settlement and confirmation, portfolio accounting, cash management, reconciliations, fee billing, compliance and regulatory reporting, etc. To support these platforms, the organization has invested heavily in a number of strategic programs to support a complex and demanding business. As part of the evolution of the group, the team is aggressively exploring machine learning and artificial intelligence to streamline and automate processes. The team is seeking a strong developer to build and apply machine learning to automate and transform processes. Please note that this role will entail partnering with Operations, other business lines and Technology members.
+
+
+
+
+
+The work environment is one of conflicting demands and tight deadlines. The successful candidate will need to be able to juggle multiple projects with frequent changes in priority.
+
+This requires the ability to interact effectively with the following types of stakeholders:
+
+
+
+
+The following technical skills are required;
+
+
+
+The successful candidate will demonstrate a strong financial background, including a strong working knowledge of products, trade lifecycle, assets, and referential data, with specific Operations functional knowledge a plus.
+
+
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans
+
+
+
+J.P. Morgan Asset & Wealth Management delivers industry-leading investment management solutions. Asset Management provides individuals, advisors and institutions with strategies and expertise that span the full spectrum of asset classes through our global network of investment professionals. Wealth Management helps individuals, families and foundations take a more intentional approach to their wealth or finances to better define, focus and realize their goals.
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+BankingFinancial ServicesInvestment Banking
+Job # 552503
+
+What You’ll Be Doing...
+
+The WAIV team is a fast-paced AI/ML team, prototyping software as operational Beta Proof of Concepts. The role will primarily be focused on data science, but will often take on all the lifecycle functions of an AI/ML prototype, from working with SMEs that translate, medium-scale or small-scale data engineering, model training and testing, and installing the code into Verizon directional systems. Projects can be self-planned and executed, giving the structure and flexibility to innovate. As these projects are new inventions, the data science role will also be skilled at presenting and describing their works in written form. Publications are expected to be created with other team members in the form of internal blog posts, intellectual property, industry papers, conference presentations or collaborations with universities. This role will understand the cutting-edge concepts and capabilities of AI/ML and utilize them to create innovative enhancements to engineering tools not previously envisioned. You will be a strong communicator to win over Verizon’s brightest SMEs to new thinking and also process-minded to guide their assigned projects to completion.
+
+
+
+
+
+
+
+
+
+
+
+
+Verizon is a leading provider of technology, communications, information and entertainment products, transforming the way we connect across the globe. We’re a diverse network of people driven by our ambition and united in our shared purpose to shape a better future. Here, we have the ability to learn and grow at the speed of technology, and the space to create within every role. Together, we are moving the world forward - and you can too. Dream it. Build it. Do it here.
+
+
+
+At Verizon, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our page to learn more.
+
+
+
+We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.
+
+Job Family: TEC
+
+Business Unit: STDBU
+Show more
+Seniority level
+Director
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+TelecommunicationsInformation Technology and ServicesComputer & Network Security
+You will collaborate with the brightest technical minds in building futuristic products, researching groundbreaking concepts, and influencing new ideas to transform retail. If you want to make meaningful contributions and reinvent the retail space that will impact millions of guests, Target is for you.About This Opportunity: Responsible for the development of high performance, distributed computing tasks using Big Data technologies such as Hadoop, NoSQL, text mining and other distributed environment technologies based on the needs of the organization. Designs and drives the creation of new standards and best practices in the use of statistical data modeling, big data and optimization tools. Deploy data-science and technology based algorithmic solutions to address business needs for our customers Utilize recommender systems, collaborative filtering techniques, propensity modeling to drive our customer's business prioritiesQualifications: Msc - Statistics / Math or PhD in any streamExperience : 0 to 2 yearsRequirements Experience / Strong Knowledge of Regression/Linear Analysis Familiarity with any of Deep Learning, Distributed RF, Generalized Linear Model,K-Mean and naive Bayes Familiarity with designing algorithms on Hadoop ecosystem Experience / Strong Knowledge with recommendation systems A strong passion for empirical research and for answering hard questions with data Excellent written and verbal communication skillsFor applying for these positions email your resume on careers@analytos.com
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer Software
+Do you believe that creators should have the ability to get paid for the value they give to their fans?
+
+We do, which is why we're building Patreon, a platform that powers membership services for creators with established followings. Patreon strives to provide creators with insight, education, and tools that make it possible to retain creative control while running their creative business, so creators can focus on creating and energizing their fanbases.
+
+Our creator base has doubled in the last year alone, and we have paid over a billion dollars directly to creators on our platform. To support this growth, Patreon is looking for a Data Scientist.
+
+We work fast and emphasize impact. We inform product, team, and company strategy with data-driven research and analytics. Our work culture is highly autonomous. We believe that hiring smart, ambitious people and giving them strong ownership of their work leads to the best results. Your work will ensure that teams at Patreon have the data they need to make great decisions about what to build next.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At Patreon, you'll join a high-performing and highly-empathetic team of people who proudly work on fulfilling our mission of funding the creative class. Our culture of creator-first, thoughtful teammates keeps work creative, stretching, and rewarding.
+
+
+
+
+Show more
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Computer SoftwareInternetFinancial Services
+The Data Analytics Lead Analyst is a strategic professional who stays abreast of developments within own field and contributes to directional strategy by considering their application in own job and the business. Recognized technical authority for an area within the business. Requires basic commercial awareness. There are typically multiple people within the business that provide the same level of subject matter expertise. Developed communication and diplomacy skills are required in order to guide, influence and convince others, in particular colleagues in other areas and occasional external customers. Significant impact on the area through complex deliverables. Provides advice and counsel related to the technology or operations of the business. Work impacts an entire area, which eventually affects the overall performance and effectiveness of the sub-function/job family.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+
+
+
+Technology
+
+
+
+Data Analytics
+
+
+
+Full time
+
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review .
+
+View the "" poster. View the .
+
+View the .
+
+View the
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+BankingFinancial ServicesInvestment Banking
+Direct message the job poster from eBay
+Tom Quoc Nguyen
+Empowering your passion at eBay
+Looking to make an impact on the future of global commerce? Do you want to shape how millions of people buy, sell, and engage around the world?
+
+Our Team:
+This role entails an opportunity to understand search core-ranking algorithms, search experimentation and most importantly, drive innovation in search metrics that are foundational to informing the Search roadmap. The candidate will have ample exposure to product analytics/data science senior leadership through weekly insights forum and to search engineering/product leadership through bi-weekly search insights forums. The candidate is be expected to partner closely with the search product development team and mine insights to influence the search roadmap. Search is a vast domain that involves ad hoc projects ranging from listing optimization to shipping. The candidate will get to witness close collaboration between search and other product domains and will be expected to get data science methodologies peer reviewed by specialists within the product data science group (not limited to search).
+
+
+
+
+
+
+Show more
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+EngineeringInformation TechnologyResearch
+Industries
+Marketing and AdvertisingInformation Technology and ServicesInternet
+Company Description
+
+As an Etsy employee, you can do the work you love, be yourself, and make an impact in the lives of millions. Our commitments to diversity and inclusion, team culture and the spaces where we work all reflect our mission to keep commerce human.
+
+
+
+The Product Analytics team is responsible for helping drive the success of product efforts at Etsy by providing actionable insights, industry-leading measurement techniques, and access to the metrics, data, and tools needed for decision-making and optimization. We partner with cross-functional peers through all stages of development: identifying initial opportunities, refining the user experience, analyzing the impact of our efforts, and highlighting improvement areas. Ultimately, the team’s work strengthens Etsy and helps continuously improve the Etsy experience!
+
+Learning new skills and techniques is not only a requirement but a perk of the job! We are always looking for opportunities to grow. Our mission is to guide product with data-driven insights, telling the story of how we improve the experience for our users, to teams, to senior management, and to the community.
+
+This role is part of our Analytics and Strategic Finance team, and has flexibility to be based in Brooklyn, NY or San Francisco, CA.
+
+
+
+
+
+
+Additional Information
+At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We welcome people from all backgrounds, ethnicities, cultures, and experiences. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skillsets.
+Show more
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+InternetInformation Technology and ServicesRetail
+Spotify is seeking a Data Scientist to operationalize advanced statistical models to quantify the impact of our marketing spend. You’ll play a key role in expanding Spotify’s marketing measurement abilities, and collaborate closely with senior data scientists on the team. The role reports into the Marketing Analytics team lead and there will be significant cross-functional collaboration. In addition, you’ll have the opportunity to leverage Spotify’s world-class user data infrastructure and collaborate with a global community of hundreds of data scientists.
+
+
+
+
+
+
+
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 320 million users.
+Show more
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+EngineeringInformation Technology
+Industries
+Marketing and AdvertisingComputer SoftwareInternet
+
+
+
+
+
+
+
+
+
+
