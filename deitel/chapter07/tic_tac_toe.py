@@ -72,7 +72,6 @@ def game():
     p2_count = 0
     board = np.full((3, 3), ' ')  # fills the board with empty spaces
     p1_turn = False
-    # p2_turn = False
     letter = ''
     print_board(board)  # print initial board
 
@@ -85,7 +84,6 @@ def game():
             print(f"Player's 1 turn. Letter: {letter}. Round {p1_count}.")
         else:
             p1_turn = False
-            # p2_turn = True
             p2_count += 1
             letter = 'O'
             print(f"Player's 2 turn. Letter: {letter}. Round {p2_count}.")
