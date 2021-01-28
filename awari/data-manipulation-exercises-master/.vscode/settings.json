@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/carlospoles/opt/anaconda3/bin/python",
+
+    // Controls whether suggestions should automatically show up while typing.
+	"editor.quickSuggestions": {
+		"other": true,
+		"comments": false,
+		"strings": false
+	}
+}
