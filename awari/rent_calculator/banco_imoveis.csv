@@ -1,0 +1,1103 @@
+,aluguel,quartos,endereco,banheiro,vaga,area,bairro,rua
+0,   R$ 7.000 /Mês  ,  2   Quartos  ,"Rua Volta Redonda, 757 - Campo Belo, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  276   m²  ,,
+1,   R$ 1.650 /Mês  ,  2   Quartos  ,"Rua Professor Demóstenes Batista Figueira Marques, 10 - Cambuci, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  ,,
+2,   R$ 2.400 /Mês  ,  1   Quarto  ,"Rua Cristiano Viana, 463 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  ,,
+3,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua Afonso Pena, 560 - Bom Retiro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  ,,
+4,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua Araquém, 19 - Vila Mascote, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  84   m²  ,,
+5,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua Adolfo Gordo, 52 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  37   m²  ,,
+6,   R$ 3.400 /Mês  ,  2   Quartos  ,"Rua Caconde, 310 - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  130   m²  ,,
+7,   R$ 3.400 /Mês  ,  2   Quartos  ,"Rua Oscar Caravelas, 280 - Sumarezinho, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  88   m²  ,,
+8,   R$ 4.200 /Mês  ,  2   Quartos  ,"Rua Helena, 52 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  60   m²  ,,
+9,   R$ 2.500 /Mês  ,  1   Quarto  ,"Avenida Vereador José Diniz, 3100 - Santo Amaro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  ,,
+10,   R$ 1.800 /Mês  ,  2   Quartos  ,"Avenida Itaboraí - Bosque da Saúde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  62   m²  ,,
+11,   R$ 4.574 /Mês  ,  3   Quartos  ,"Rua Viradouro, 96 - Itaim Bibi, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  100   m²  ,,
+12,   R$ 2.000 /Mês  ,  3   Quartos  ,"Rua Eli - Vila Maria Baixa, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  73   m²  ,,
+13,   R$ 4.800 /Mês  ,  3   Quartos  ,"Rua Barão de Jaceguai, 1305 - Campo Belo, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  130   m²  ,,
+14,   R$ 2.700 /Mês  ,  1   Quarto  ,"Rua da Consolação, 1515 - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  ,,
+15,   R$ 5.400 /Mês  ,  2   Quartos  ,"Rua Peixoto Gomide, 596 - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  72   m²  ,,
+16,   R$ 2.900 /Mês    R$ 960.000   ,  3   Quartos  ,"Avenida Moaci, 780 - Planalto Paulista, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  99   m²  ,,
+17,   R$ 1.800 /Mês  ,  2   Quartos  ,"Rua Dom Constantino Barradas, 120 - Vila Gumercindo, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  80   m²  ,,
+18,   R$ 4.985 /Mês  ,  2   Quartos  ,"Rua Silva Correia, 125 - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  86   m²  ,,
+19,   R$ 2.600 /Mês  ,  2   Quartos  ,"Rua Pamplona - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  91   m²  ,,
+20,   R$ 3.800 /Mês    R$ 720.000   ,  1   Quarto  ,"Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  44   m²  ,,
+21,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Judith Zumkeller, 870 - Parque Mandaqui, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  ,,
+22,   R$ 2.950 /Mês  ,  2   Quartos  ,"Rua Padre Carvalho, 68 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  60   m²  ,,
+23,   R$ 10.000 /Mês  ,  4   Quartos  ,"Rua Caiubi, 1159 - Perdizes, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  180   m²  ,,
+24,   R$ 8.500 /Mês  ,  3   Quartos  ,"Rua Pelotas, 209 - Vila Mariana, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  142   m²  ,,
+25,   R$ 14.485 /Mês  ,  3   Quartos  ,"Rua Inajaroba, 17 - Vila Nova Conceição, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  211   m²  ,,
+26,   R$ 1.800 /Mês    R$ 420.000   ,  1   Quarto  ,"Rua dos Caciques - Vila da Saúde, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  37   m²  ,,
+27,   R$ 3.800 /Mês  ,  2   Quartos  ,"Rua Faustolo, 724 - Lapa, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  64   m²  ,,
+28,   R$ 5.500 /Mês    R$ 1.650.000   ,  3   Quartos  ,"Avenida Padre Pereira de Andrade, 545 - Boaçava, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  165   m²  ,,
+29,   R$ 2.000 /Mês  ,  2   Quartos  ,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  ,,
+30,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua João Ramalho, 717 - Perdizes, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  60   m²  ,,
+31,   R$ 6.100 /Mês    R$ 1.295.000   ,  2   Quartos  ,"Rua Sansão Alves dos Santos, 343 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  75   m²  ,,
+32,   R$ 2.400 /Mês  ,  2   Quartos  ,"Rua Paris, 415 - Sumaré, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  54   m²  ,,
+33,   R$ 12.000 /Mês  ,  3   Quartos  ,"Rua Visconde de Taunay, 627 - Vila Cruzeiro, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  220   m²  ,,
+34,   R$ 3.100 /Mês  ,  2   Quartos  ,"Avenida Fagundes Filho - Vila Monte Alegre, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  70   m²  ,,
+35,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Martim Francisco, 67 - Santa Cecília, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  50   m²  ,,
+36,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Diana, 675 - Perdizes, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  94   m²  ,,
+37,   R$ 1.700 /Mês  ,  2   Quartos  ,"Avenida Santa Catarina, 1531 - Vila Mascote, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  54   m²  ,,
+38,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Doutor Seng, 152 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  36   m²  ,,
+39,   R$ 5.500 /Mês  ,  2   Quartos  ,"Rua Henri Dunant, 792 - Santo Amaro, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  78   m²  ,,
+40,   R$ 4.500 /Mês  ,  2   Quartos  ,"Rua Dona Antônia de Queirós, 505 - Consolação, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  60   m²  ,,
+41,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  97   m²  ,,
+42,   R$ 1.400 /Mês  ,  2   Quartos  ,"Rua João Ferreira de Abreu - Vila Arriete, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  ,,
+43,   R$ 2.880 /Mês  ,  1   Quarto  ,"Rua Henri Dunant, 1066 - Santo Amaro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  ,,
+44,   R$ 1.900 /Mês  ,  1   Quarto  ,"Pinheiros, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  ,,
+45,   R$ 1.800 /Mês  ,  3   Quartos  ,"Avenida Yervant Kissajikian - Vila Constança, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  ,,
+46,   R$ 850 /Mês  ,  1   Quarto  ,"Rua Plínio Salgado, 245 - Jardim Peri Peri, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  15   m²  ,,
+47,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  ,,
+48,   R$ 2.900 /Mês  ,  2   Quartos  ,"Alameda Santos, 1018 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  75   m²  ,,
+49,   R$ 9.990 /Mês    R$ 2.199.900   ,  3   Quartos  ,"Rua Pensilvânia, 442 - Cidade Monções, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  156   m²  ,,
+50,   R$ 3.000 /Mês  ,  2   Quartos  ,"Rua Teodoro Sampaio, 498 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  75   m²  ,,
+51,   R$ 6.385 /Mês  ,  2   Quartos  ,"Rua Casa do Ator, 996 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  100   m²  ,,
+52,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua João Cachoeira - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  90   m²  ,,
+53,   R$ 7.485 /Mês  ,  2   Quartos  ,"Rua Manuel Guedes, 264 - Jardim Europa, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  110   m²  ,,
+54,   R$ 3.900 /Mês  ,  2   Quartos  ,"Rua Caio Prado, 363 - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  54   m²  ,,
+55,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Kansas, 1700 - Brooklin Paulista, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  100   m²  ,,
+56,   R$ 5.485 /Mês  ,  3   Quartos  ,"Rua Nebraska, 420 - Brooklin Novo, São Paulo - SP",  1   Banheiro  ,  3   Vagas  ,  121   m²  ,,
+57,   R$ 2.002 /Mês  ,  1   Quarto  ,"Rua Brás Cardoso, , 654 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  ,,
+58,   R$ 1.100 /Mês  ,  1   Quarto  ,"Avenida Afonso Mariano Fagundes, 725 - Saúde, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  12   m²  ,,
+59,   R$ 1.430 /Mês  ,  2   Quartos  ,"Rua Nossa Senhora do Bom Conselho, 451 - Chácara Nossa Senhora do Bom Conselho, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  54   m²  ,,
+60,   R$ 1.150 /Mês  ,  2   Quartos  ,"Rua Inocêncio de Camargo, 41 - Pedreira, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  46   m²  ,,
+61,   R$ 3.100 /Mês  ,  3   Quartos  ,"Avenida Bernardino de Campos, 210 - Paraíso, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  128   m²  ,,
+62,   R$ 3.500 /Mês    R$ 1.100.000   ,  2   Quartos  ,"Alameda Barros - Santa Cecília, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  78   m²  ,,
+63,   R$ 1.050 /Mês  ,  1   Quarto  ,"Cidade Vargas, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  10   m²  ,,
+64,   R$ 1.500 /Mês    R$ 310.000   ,  3   Quartos  ,"Rua Jorge Ogushi - Jardim Vila Formosa, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  63   m²  ,,
+65,   R$ 2.300 /Mês  ,  1   Quarto  ,"Praça da República, 401 - República, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  ,,
+66,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Tabapuã, 665 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  85   m²  ,,
+67,   R$ 1.800 /Mês  ,  2   Quartos  ,"Rua Tamandaré, 464 - Liberdade, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  46   m²  ,,
+68,   R$ 5.885 /Mês    R$ 1.799.900   ,  3   Quartos  ,"Rua Brasília, 45 - Itaim Bibi, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  120   m²  ,,
+69,   R$ 5.485 /Mês  ,  3   Quartos  ,"Rua Marechal Deodoro, 500 - Santo Amaro, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  126   m²  ,,
+70,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Raul Pompéia, 745 - Vila Pompéia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  81   m²  ,,
+71,   R$ 8.000 /Mês  ,  3   Quartos  ,"Alameda dos Arapanés, 628 - Moema, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  198   m²  ,,
+72,   R$ 1.600 /Mês  ,  2   Quartos  ,"Rua Guarani, 460 - Bom Retiro, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  ,,
+73,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Barão de Santa Branca - Parque Colonial, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  ,,
+74,   R$ 15.000 /Mês  ,  4   Quartos  ,"Rua Edson, 728 - Campo Belo, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  230   m²  ,,
+75,   R$ 4.000 /Mês  ,  3   Quartos  ,"Rua Sócrates, 161 - Vila Sofia, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  105   m²  ,,
+76,   R$ 3.050 /Mês  ,  1   Quarto  ,"Rua Luís Correia de Melo, 92 - Vila Cruzeiro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  ,,
+77,   R$ 4.000 /Mês  ,  1   Quarto  ,"Rua Eugênio de Medeiros, 288 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  ,,
+78,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Camillo Nader, 175 - Vila Morumbi, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  125   m²  , Vila Morumbi,"Rua Camillo Nader, 175"
+79,   R$ 990 /Mês  ,  1   Quarto  ,"Rua Chico Pontes, 184 - Carandiru, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  24   m²  , Carandiru,"Rua Chico Pontes, 184"
+80,   R$ 2.250 /Mês  ,  1   Quarto  ,"Rua Dona Antônia de Queirós - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  39   m²  , Consolação,Rua Dona Antônia de Queirós
+81,   R$ 9.990 /Mês    R$ 2.199.800   ,  3   Quartos  ,"Rua Pensilvânia, 442 - Cidade Monções, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  156   m²  , Cidade Monções,"Rua Pensilvânia, 442"
+82,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Ipanema, 67 - Mooca, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  63   m²  , Mooca,"Rua Ipanema, 67"
+83,   R$ 2.200 /Mês  ,  2   Quartos  ,"Rua Agostinho Gomes, 1326 - Ipiranga, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  62   m²  , Ipiranga,"Rua Agostinho Gomes, 1326"
+84,   R$ 4.250 /Mês  ,  1   Quarto  ,"Rua George Ohm, 330 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  52   m²  , Cidade Monções,"Rua George Ohm, 330"
+85,   R$ 4.000 /Mês  ,  1   Quarto  ,"Rua Nova York, 245 - Brooklin Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Brooklin Paulista,"Rua Nova York, 245"
+86,   R$ 2.800 /Mês  ,  3   Quartos  ,"Rua Galvão Bueno, 499 - Liberdade, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  79   m²  , Liberdade,"Rua Galvão Bueno, 499"
+87,   R$ 1.000 /Mês  ,  1   Quarto  ,"Rua Doutor Cesário Mota Júnior - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  26   m²  , Vila Buarque,Rua Doutor Cesário Mota Júnior
+88,   R$ 2.700 /Mês  ,  3   Quartos  ,"Avenida Albert Bartholome, 472 - Jardim das Vertentes, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  82   m²  , Jardim das Vertentes,"Avenida Albert Bartholome, 472"
+89,   R$ 700 /Mês  ,  1   Quarto  ,"Rua Humaitá, 619 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  32   m²  , Bela Vista,"Rua Humaitá, 619"
+90,   R$ 2.200 /Mês  ,  1   Quarto  ,"Rua Itararé - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Bela Vista,Rua Itararé
+91,   R$ 6.000 /Mês  ,  1   Quarto  ,"Rua Eugênio de Medeiros, 288 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  60   m²  , Pinheiros,"Rua Eugênio de Medeiros, 288"
+92,   R$ 2.290 /Mês  ,  2   Quartos  ,"Avenida Onze de Junho, 730 - Vila Clementino, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  53   m²  , Vila Clementino,"Avenida Onze de Junho, 730"
+93,   R$ 7.985 /Mês    R$ 1.499.800   ,  3   Quartos  ,"Rua Nova York, 539 - Brooklin Paulista, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  120   m²  , Brooklin Paulista,"Rua Nova York, 539"
+94,   R$ 2.190 /Mês  ,  1   Quarto  ,"Rua Cristiano Viana, 950 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Cerqueira César,"Rua Cristiano Viana, 950"
+95,   R$ 2.100 /Mês  ,  2   Quartos  ,"Rua João Miguel Jarra, 298 - Vila Madalena, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Vila Madalena,"Rua João Miguel Jarra, 298"
+96,   R$ 4.500 /Mês  ,  2   Quartos  ,"Rua João Cachoeira, 250 - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  90   m²  , Vila Nova Conceição,"Rua João Cachoeira, 250"
+97,   R$ 2.500 /Mês    R$ 750.000   ,  2   Quartos  ,"Rua Fidalga, 720 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  62   m²  , Pinheiros,"Rua Fidalga, 720"
+98,   R$ 2.500 /Mês  ,  1   Quarto  ,"Rua Aurora, 756 - Santa Efigênia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Santa Efigênia,"Rua Aurora, 756"
+99,   R$ 1.550 /Mês  ,  2   Quartos  ,"Avenida Escola Politécnica, 2200 - Rio Pequeno, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  57   m²  , Rio Pequeno,"Avenida Escola Politécnica, 2200"
+100,   R$ 4.200 /Mês    R$ 1.059.990   ,  3   Quartos  ,"Avenida Doutor Mário Vilas Boas Rodrigues, 161 - Jardim Dom Bosco, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  130   m²  , Jardim Dom Bosco,"Avenida Doutor Mário Vilas Boas Rodrigues, 161"
+101,   R$ 4.400 /Mês  ,  3   Quartos  ,"Rua Arruda Alvim - Pinheiros, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  120   m²  , Pinheiros,Rua Arruda Alvim
+102,   R$ 5.785 /Mês  ,  3   Quartos  ,"Rua Itapicuru, 380 - Perdizes, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  116   m²  , Perdizes,"Rua Itapicuru, 380"
+103,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Comendador Miguel Calfat, 62 - Vila Nova Conceição, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  56   m²  , Vila Nova Conceição,"Rua Comendador Miguel Calfat, 62"
+104,   R$ 4.700 /Mês  ,  3   Quartos  ,"Rua Carlos Weber, 499 - Vila Leopoldina, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  125   m²  , Vila Leopoldina,"Rua Carlos Weber, 499"
+105,   R$ 14.490 /Mês  ,  3   Quartos  ,"Rua Inajaroba, 17 - Vila Nova Conceição, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  211   m²  , Vila Nova Conceição,"Rua Inajaroba, 17"
+106,   R$ 5.790 /Mês  ,  3   Quartos  ,"Rua Itapicuru, 380 - Perdizes, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  116   m²  , Perdizes,"Rua Itapicuru, 380"
+107,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Gomes de Carvalho, 1005 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Vila Olímpia,"Rua Gomes de Carvalho, 1005"
+108,   R$ 3.300 /Mês  ,  3   Quartos  ,"Rua Conselheiro Brotero, 823 - Santa Cecília, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  88   m²  , Santa Cecília,"Rua Conselheiro Brotero, 823"
+109,   R$ 1.200 /Mês    R$ 222.000   ,  2   Quartos  ,"Cidade Satélite Santa Bárbara, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  47   m²  , SP,"Cidade Satélite Santa Bárbara, São Paulo"
+110,   R$ 4.500 /Mês  ,  3   Quartos  ,"Rua Sabará, 410 - Higienópolis, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  120   m²  , Higienópolis,"Rua Sabará, 410"
+111,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Luís Góis, 2172 - Mirandópolis, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Mirandópolis,"Rua Luís Góis, 2172"
+112,   R$ 1.300 /Mês    R$ 350.000   ,  2   Quartos  ,"Rua Padre Bento Ibañez - Jardim Prudência, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Jardim Prudência,Rua Padre Bento Ibañez
+113,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Iaiá - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Itaim Bibi,Rua Iaiá
+114,   R$ 7.400 /Mês  ,  3   Quartos  ,"Rua Araguari - Vila Uberabinha, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  124   m²  , Vila Uberabinha,Rua Araguari
+115,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Ática, 420 - Jardim Brasil (Zona Sul), São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Brasil (Zona Sul),"Rua Ática, 420"
+116,   R$ 4.500 /Mês  ,  1   Quarto  ,"Rua Doutor Virgílio de Carvalho Pinto, 262 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Pinheiros,"Rua Doutor Virgílio de Carvalho Pinto, 262"
+117,   R$ 4.990 /Mês  ,  2   Quartos  ,"Rua Capote Valente, 467 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  72   m²  , Pinheiros,"Rua Capote Valente, 467"
+118,   R$ 4.000 /Mês    R$ 1.190.000   ,  1   Quarto  ,"Avenida Chibarás, 44 - Moema, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  68   m²  , Moema,"Avenida Chibarás, 44"
+119,   R$ 55.000 /Mês    R$ 23.000.000   ,  4   Quartos  ,"Rua Inhambú - Vila Uberabinha, São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  403   m²  , Vila Uberabinha,Rua Inhambú
+120,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Major Sertório, 321 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  37   m²  , Vila Buarque,"Rua Major Sertório, 321"
+121,   R$ 5.044 /Mês    R$ 1.115.000   ,  2   Quartos  ,"Rua Pais Leme, 400 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  68   m²  , Pinheiros,"Rua Pais Leme, 400"
+122,   R$ 3.500 /Mês  ,  3   Quartos  ,"Alameda Ribeirão Preto, 118 - Bela Vista, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  100   m²  , Bela Vista,"Alameda Ribeirão Preto, 118"
+123,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Marquês de Itu, 181 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Vila Buarque,"Rua Marquês de Itu, 181"
+124,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua Constantino de Sousa, 1032 - Campo Belo, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  45   m²  , Campo Belo,"Rua Constantino de Sousa, 1032"
+125,   R$ 2.800 /Mês  ,  3   Quartos  ,"Rua Artur Prado, 275 - Bela Vista, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  78   m²  , Bela Vista,"Rua Artur Prado, 275"
+126,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Cubatão, 1140 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Vila Mariana,"Rua Cubatão, 1140"
+127,   R$ 1.350 /Mês  ,  1   Quarto  ,"Rua da Consolação, 927 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  27   m²  , Consolação,"Rua da Consolação, 927"
+128,   R$ 7.000 /Mês  ,  4   Quartos  ,"Rua França Pinto, 537 - Vila Mariana, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  160   m²  , Vila Mariana,"Rua França Pinto, 537"
+129,   R$ 2.200 /Mês  ,  2   Quartos  ,"Rua Antônio de Macedo Soares, 1234 - Campo Belo, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Campo Belo,"Rua Antônio de Macedo Soares, 1234"
+130,   R$ 4.000 /Mês  ,  2   Quartos  ,"Alameda Tietê, 353 - Cerqueira César, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  100   m²  , Cerqueira César,"Alameda Tietê, 353"
+131,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Guarará - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Jardim Paulista,Rua Guarará
+132,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Santa Crescência, 85 - Ferreira, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  65   m²  , Ferreira,"Rua Santa Crescência, 85"
+133,   R$ 4.040 /Mês    R$ 999.800   ,  3   Quartos  ,"Rua Cristiano Viana, 505 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  85   m²  , Cerqueira César,"Rua Cristiano Viana, 505"
+134,   R$ 2.150 /Mês  ,  1   Quarto  ,"Rua Júlio Diniz, 145 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  56   m²  , Vila Olímpia,"Rua Júlio Diniz, 145"
+135,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua José Antônio Coelho, 407 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  61   m²  , Vila Mariana,"Rua José Antônio Coelho, 407"
+136,   R$ 3.300 /Mês  ,  2   Quartos  ,"Avenida Moaci - Planalto Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Planalto Paulista,Avenida Moaci
+137,   R$ 2.700 /Mês  ,  3   Quartos  ,"Rua José Ramon Urtiza, 181 - Vila Andrade, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  95   m²  , Vila Andrade,"Rua José Ramon Urtiza, 181"
+138,   R$ 1.050 /Mês  ,  1   Quarto  ,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  31   m²  , Bela Vista,"Rua Santo Amaro, 240"
+139,   R$ 3.200 /Mês  ,  2   Quartos  ,"Rua Alvorada - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Vila Olímpia,Rua Alvorada
+140,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua da Glória - Liberdade, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Liberdade,Rua da Glória
+141,   R$ 1.500 /Mês  ,  2   Quartos  ,"Avenida Ramalho Ortigão, 200 - Vila Gumercindo, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  100   m²  , Vila Gumercindo,"Avenida Ramalho Ortigão, 200"
+142,   R$ 1.000 /Mês  ,  2   Quartos  ,"Rua Ataualpa, 144 - Parque Novo Mundo, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Parque Novo Mundo,"Rua Ataualpa, 144"
+143,   R$ 3.700 /Mês  ,  3   Quartos  ,"Rua Moreira Cardoso - Jardim Aeroporto, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  150   m²  , Jardim Aeroporto,Rua Moreira Cardoso
+144,   R$ 12.000 /Mês    R$ 1.900.000   ,  4   Quartos  ,"Rua Topázio, 947 - Vila Mariana, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  390   m²  , Vila Mariana,"Rua Topázio, 947"
+145,   R$ 900 /Mês  ,  2   Quartos  ,"Avenida Professor Cardozo de Mello Neto, 136 - Jardim Santa Terezinha (Pedreira), São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  50   m²  , Jardim Santa Terezinha (Pedreira),"Avenida Professor Cardozo de Mello Neto, 136"
+146,   R$ 20.000 /Mês    R$ 4.000.000   ,  4   Quartos  ,"Rua Palmares, 650 - Brooklin Paulista, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  647   m²  , Brooklin Paulista,"Rua Palmares, 650"
+147,   R$ 1.300 /Mês  ,  3   Quartos  ,"Rua Rifaina, 550 - Vila Anglo Brasileira, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Vila Anglo Brasileira,"Rua Rifaina, 550"
+148,   R$ 45.000 /Mês    R$ 8.900.000   ,  4   Quartos  ,"Jardim Europa, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  445   m²  , SP,"Jardim Europa, São Paulo"
+149,   R$ 6.500 /Mês    R$ 2.050.000   ,  4   Quartos  ,"Rua Frei Henrique de Coimbra - Água Branca, São Paulo - SP",  3   Banheiros  ,  5   Vagas  ,  400   m²  , Água Branca,Rua Frei Henrique de Coimbra
+150,   R$ 8.000 /Mês  ,  2   Quartos  ,"Rua Cerro Corá, 100 - Vila Romana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  90   m²  , Vila Romana,"Rua Cerro Corá, 100"
+151,   R$ 2.200 /Mês  ,  3   Quartos  ,"Rua Clotilde Orsolini Morana, 112 - Jardim Sandra, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  340   m²  , Jardim Sandra,"Rua Clotilde Orsolini Morana, 112"
+152,   R$ 9.500 /Mês  ,  2   Quartos  ,"Rua Bernarda Luiz, 164 - Vila Madalena, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  180   m²  , Vila Madalena,"Rua Bernarda Luiz, 164"
+153,   R$ 8.000 /Mês  ,  11   Quartos  ,"Rua Estevão Baião - Vila Congonhas, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  369   m²  , Vila Congonhas,Rua Estevão Baião
+154,   R$ 4.500 /Mês    R$ 1.100.000   ,  2   Quartos  ,"Rua Enxovia - Vila São Francisco (Zona Sul), São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  160   m²  , Vila São Francisco (Zona Sul),Rua Enxovia
+155,   R$ 3.000 /Mês    R$ 397.000   ,  5   Quartos  ,"Rua César Pena Ramos, 1744 - Vila Santa Maria, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  165   m²  , Vila Santa Maria,"Rua César Pena Ramos, 1744"
+156,   R$ 1.100 /Mês  ,  1   Quarto  ,"Parque São Luís, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , SP,"Parque São Luís, São Paulo"
+157,   R$ 3.200 /Mês    R$ 785.000   ,  2   Quartos  ,"Rua Lydia Simões Cabral - Indianópolis, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  90   m²  , Indianópolis,Rua Lydia Simões Cabral
+158,   R$ 1.096 /Mês  ,  1   Quarto  ,"Rua Barão de Melgaço, 29 - Real Parque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Real Parque,"Rua Barão de Melgaço, 29"
+159,   R$ 30.000 /Mês    R$ 6.500.000   ,  4   Quartos  ,"Vila Morumbi, São Paulo - SP",  5   Banheiros  ,  10   Vagas  ,  713   m²  , SP,"Vila Morumbi, São Paulo"
+160,   R$ 20.000 /Mês  ,  4   Quartos  ,"Rua Simpatia - Jardim das Bandeiras, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  650   m²  , Jardim das Bandeiras,Rua Simpatia
+161,   R$ 4.300 /Mês    R$ 990.000   ,  3   Quartos  ,"Rua dos Chanes - Indianópolis, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  106   m²  , Indianópolis,Rua dos Chanes
+162,   R$ 1.250 /Mês  ,  2   Quartos  ,"Rua Joaquim do Lago, 182 - Balneário Mar Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Balneário Mar Paulista,"Rua Joaquim do Lago, 182"
+163,   R$ 7.000 /Mês    R$ 1.590.000   ,  3   Quartos  ,"Avenida Cardeal Motta - City América, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  350   m²  , City América,Avenida Cardeal Motta
+164,   R$ 13.000 /Mês    R$ 1.990.000   ,  4   Quartos  ,"Rua Jorge Tibiriçá - Vila Mariana, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  182   m²  , Vila Mariana,Rua Jorge Tibiriçá
+165,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Correia de Lemos - Chácara Inglesa, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  90   m²  , Chácara Inglesa,Rua Correia de Lemos
+166,   R$ 11.000 /Mês    R$ 2.600.000   ,  4   Quartos  ,"Rua Fonseca da Costa - Bosque da Saúde, São Paulo - SP",  6   Banheiros  ,  12   Vagas  ,  650   m²  , Bosque da Saúde,Rua Fonseca da Costa
+167,   R$ 45.000 /Mês    R$ 8.900.000   ,  4   Quartos  ,"Rua Campo Verde - Jardim Europa, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  490   m²  , Jardim Europa,Rua Campo Verde
+168,   R$ 2.900 /Mês  ,  2   Quartos  ,"Rua Rondinha, 101 - Chácara Inglesa, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  325   m²  , Chácara Inglesa,"Rua Rondinha, 101"
+169,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Jorge Dias, 94 - Socorro, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Socorro,"Rua Jorge Dias, 94"
+170,   R$ 2.990 /Mês  ,  5   Quartos  ,"Rua Piraí - Alto da Lapa, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  100   m²  , Alto da Lapa,Rua Piraí
+171,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Francisco Riva - Conjunto Habitacional Barreira Grande, São Paulo - SP",  1   Banheiro  ,  3   Vagas  ,  120   m²  , Conjunto Habitacional Barreira Grande,Rua Francisco Riva
+172,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Estado de Pernambuco, 317 - Jardim Egle, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , Jardim Egle,"Rua Estado de Pernambuco, 317"
+173,   R$ 10.000 /Mês  ,  3   Quartos  ,"Rua Ubiracica - Boaçava, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  350   m²  , Boaçava,Rua Ubiracica
+174,   R$ 2.600 /Mês  ,  2   Quartos  ,"Rua República do Iraque, 88 - Brooklin Paulista, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  120   m²  , Brooklin Paulista,"Rua República do Iraque, 88"
+175,   R$ 50.000 /Mês    R$ 9.000.000   ,  4   Quartos  ,"Rua Dom Tomás Costa e Lima, 97 - Vila Tramontano, São Paulo - SP",  5   Banheiros  ,  14   Vagas  ,  1075   m²  , Vila Tramontano,"Rua Dom Tomás Costa e Lima, 97"
+176,   R$ 12.000 /Mês    R$ 3.395.000   ,  4   Quartos  ,"Rua Pires de Oliveira, 530 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  700   m²  , Chácara Santo Antônio (Zona Sul),"Rua Pires de Oliveira, 530"
+177,   R$ 990 /Mês  ,  1   Quarto  ,"Vila Palmeiras, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , SP,"Vila Palmeiras, São Paulo"
+178,   R$ 750 /Mês  ,  1   Quarto  ,"Rua Soldado João Rodrigues, 112 - Jardim Japão, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Jardim Japão,"Rua Soldado João Rodrigues, 112"
+179,   R$ 90.000 /Mês    R$ 20.000.000   ,  5   Quartos  ,"Retiro Morumbi, São Paulo - SP",  11   Banheiros  ,  30   Vagas  ,  2000   m²  , SP,"Retiro Morumbi, São Paulo"
+180,   R$ 5.000 /Mês  ,  2   Quartos  ,"Rua Flórida, *** - Cidade Monções, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  98   m²  , Cidade Monções,"Rua Flórida, ***"
+181,   R$ 12.000 /Mês    R$ 2.300.000   ,  4   Quartos  ,"Rua Itamarati - Pacaembu, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  465   m²  , Pacaembu,Rua Itamarati
+182,   R$ 600 /Mês  ,  1   Quarto  ,"Vila Carbone, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , SP,"Vila Carbone, São Paulo"
+183,   R$ 4.950 /Mês    R$ 2.300.000   ,  3   Quartos  ,"Rua Paris - Sumaré, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  177   m²  , Sumaré,Rua Paris
+184,   R$ 30.000 /Mês    R$ 7.900.000   ,  4   Quartos  ,"Jardim Cordeiro, São Paulo - SP",  6   Banheiros  ,  14   Vagas  ,  941   m²  , SP,"Jardim Cordeiro, São Paulo"
+185,   R$ 10.000 /Mês    R$ 3.000.000   ,  4   Quartos  ,"Rua Carlos Rath - Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  400   m²  , Alto de Pinheiros,Rua Carlos Rath
+186,   R$ 2.600 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus - Indianópolis, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  50   m²  , Indianópolis,Alameda dos Anapurus
+187,   R$ 8.000 /Mês  ,  4   Quartos  ,"Rua Demóstenes - Campo Belo, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  200   m²  , Campo Belo,Rua Demóstenes
+188,   R$ 16.000 /Mês  ,  3   Quartos  ,"Rua Turquia - Jardim Europa, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  260   m²  , Jardim Europa,Rua Turquia
+189,   R$ 2.200 /Mês  ,  2   Quartos  ,"Rua Artur Thiré, 1085 - Vila da Saúde, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  80   m²  , Vila da Saúde,"Rua Artur Thiré, 1085"
+190,   R$ 8.000 /Mês  ,  3   Quartos  ,"Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  450   m²  , SP,"Alto de Pinheiros, São Paulo"
+191,   R$ 16.000 /Mês  ,  4   Quartos  ,"Rua Nebraska - Brooklin Novo, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  200   m²  , Brooklin Novo,Rua Nebraska
+192,   R$ 11.500 /Mês  ,  3   Quartos  ,"Rua Professor Filadelfo Azevedo - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  213   m²  , Vila Nova Conceição,Rua Professor Filadelfo Azevedo
+193,   R$ 600 /Mês  ,  1   Quarto  ,"Rua Timóteo, 49 - Jardim Paraguaçu, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Jardim Paraguaçu,"Rua Timóteo, 49"
+194,   R$ 20.000 /Mês    R$ 6.000.000   ,  4   Quartos  ,"Rua Ceará - Consolação, São Paulo - SP",  8   Banheiros  ,  5   Vagas  ,  550   m²  , Consolação,Rua Ceará
+195,   R$ 10.000 /Mês  ,  2   Quartos  ,"Rua Maestro Chiaffarelli - Jardim Paulista, São Paulo - SP",  4   Banheiros  ,  1   Vaga  ,  170   m²  , Jardim Paulista,Rua Maestro Chiaffarelli
+196,   R$ 20.000 /Mês    R$ 4.500.000   ,  4   Quartos  ,"Rua Bennet - Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  451   m²  , Alto de Pinheiros,Rua Bennet
+197,   R$ 4.112 /Mês  ,  4   Quartos  ,"Vila São Francisco, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  350   m²  , SP,"Vila São Francisco, São Paulo"
+198,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua Barretos, 363 - Alto da Mooca, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Alto da Mooca,"Rua Barretos, 363"
+199,   R$ 30.000 /Mês  ,  4   Quartos  ,"Jardim Europa, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  350   m²  , SP,"Jardim Europa, São Paulo"
+200,   R$ 2.250 /Mês    R$ 435.800   ,  1   Quarto  ,"Rua Rubens Meireles, 99 - Várzea da Barra Funda, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  41   m²  , Várzea da Barra Funda,"Rua Rubens Meireles, 99"
+201,   R$ 10.900 /Mês    R$ 3.500.000   ,  4   Quartos  ,"Rua Abegoaria - Jardim das Bandeiras, São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  420   m²  , Jardim das Bandeiras,Rua Abegoaria
+202,   R$ 100.000 /Mês    R$ 33.000.000   ,  6   Quartos  ,"Rua Antônio de Andrade Rebelo - Retiro Morumbi, São Paulo - SP",  6   Banheiros  ,  10   Vagas  ,  1700   m²  , Retiro Morumbi,Rua Antônio de Andrade Rebelo
+203,   R$ 9.000 /Mês    R$ 2.250.000   ,  3   Quartos  ,"Rua Escobar Ortiz - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  190   m²  , Vila Nova Conceição,Rua Escobar Ortiz
+204,   R$ 38.000 /Mês    R$ 5.000.000   ,  4   Quartos  ,"Jardim Morumbi, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  1000   m²  , SP,"Jardim Morumbi, São Paulo"
+205,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Fernandes Moreira, 306 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  134   m²  , Chácara Santo Antônio (Zona Sul),"Rua Fernandes Moreira, 306"
+206,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Maracá, 168 - Vila Guarani (Z Sul), São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  72   m²  , Vila Guarani (Z Sul),"Rua Maracá, 168"
+207,   R$ 6.800 /Mês    R$ 1.650.000   ,  3   Quartos  ,"Rua Rita Joana de Sousa - Campo Belo, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  175   m²  , Campo Belo,Rua Rita Joana de Sousa
+208,   R$ 4.500 /Mês  ,  2   Quartos  ,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  100   m²  , Vila Olímpia,Avenida Doutor Cardoso de Melo
+209,   R$ 8.000 /Mês    R$ 2.300.000   ,  4   Quartos  ,"Rua Maria Luísa de Pinho - Parque da Mooca, São Paulo - SP",  4   Banheiros  ,  6   Vagas  ,  520   m²  , Parque da Mooca,Rua Maria Luísa de Pinho
+210,   R$ 6.800 /Mês    R$ 2.400.000   ,  4   Quartos  ,"Rua Icádio, 1 - City América, São Paulo - SP",  5   Banheiros  ,  8   Vagas  ,  600   m²  , City América,"Rua Icádio, 1"
+211,   R$ 13.000 /Mês    R$ 3.500.000   ,  4   Quartos  ,"Rua Pedro Ortiz - Sumarezinho, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  312   m²  , Sumarezinho,Rua Pedro Ortiz
+212,   R$ 1.600 /Mês  ,  2   Quartos  ,"Vila São Francisco (Zona Leste), São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  137   m²  , SP,"Vila São Francisco (Zona Leste), São Paulo"
+213,   R$ 6.985 /Mês  ,  4   Quartos  ,"Rua José dos Santos Júnior, 405 - Campo Belo, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  370   m²  , Campo Belo,"Rua José dos Santos Júnior, 405"
+214,   R$ 780 /Mês  ,  1   Quarto  ,"Rua Maria Antonieta - Vila Matilde, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Vila Matilde,Rua Maria Antonieta
+215,   R$ 800 /Mês  ,  2   Quartos  ,"Avenida Rodrigues Montemor, 786 - Cidade Domitila, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Cidade Domitila,"Avenida Rodrigues Montemor, 786"
+216,   R$ 3.000 /Mês    R$ 800.000   ,  2   Quartos  ,"Rua Joel Jorge de Melo - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  120   m²  , Vila Mariana,Rua Joel Jorge de Melo
+217,   R$ 1.570 /Mês  ,  3   Quartos  ,"Rua Lituânia - Alto da Mooca, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  78   m²  , Alto da Mooca,Rua Lituânia
+218,   R$ 1.050 /Mês  ,  1   Quarto  ,"Rua Tenente Otávio Gomes, 330 - Aclimação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  34   m²  , Aclimação,"Rua Tenente Otávio Gomes, 330"
+219,   R$ 5.585 /Mês  ,  2   Quartos  ,"Rua Fernão Dias, 323 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  84   m²  , Pinheiros,"Rua Fernão Dias, 323"
+220,   R$ 5.500 /Mês  ,  3   Quartos  ,"Rua João Lourenço, 763 - Vila Nova Conceição, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Vila Nova Conceição,"Rua João Lourenço, 763"
+221,   R$ 2.890 /Mês  ,  1   Quarto  ,"Rua Artur Prado, 433 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Bela Vista,"Rua Artur Prado, 433"
+222,   R$ 6.490 /Mês  ,  3   Quartos  ,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  107   m²  , Vila Gertrudes,"Rua Bacaetava, 66"
+223,   R$ 3.350 /Mês  ,  3   Quartos  ,"Avenida Paulista, 37 - Bela Vista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  116   m²  , Bela Vista,"Avenida Paulista, 37"
+224,   R$ 1.800 /Mês    R$ 550.000   ,  3   Quartos  ,"Rua Dankmar Adler - Vila Suzana, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  80   m²  , Vila Suzana,Rua Dankmar Adler
+225,   R$ 3.400 /Mês  ,  2   Quartos  ,"Rua Oscar Freire, 1735 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Pinheiros,"Rua Oscar Freire, 1735"
+226,   R$ 3.500 /Mês  ,  4   Quartos  ,"Vila Santo Estevão, São Paulo - SP",  2   Banheiros  ,  4   Vagas  ,  145   m²  , SP,"Vila Santo Estevão, São Paulo"
+227,   R$ 7.985 /Mês    R$ 1.499.900   ,  3   Quartos  ,"Rua Nova York, 539 - Brooklin Paulista, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  120   m²  , Brooklin Paulista,"Rua Nova York, 539"
+228,   R$ 1.800 /Mês  ,  2   Quartos  ,"Rua das Palmeiras - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  55   m²  , Vila Buarque,Rua das Palmeiras
+229,   R$ 3.385 /Mês  ,  2   Quartos  ,"Rua Francisco Leitão, 381 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  101   m²  , Pinheiros,"Rua Francisco Leitão, 381"
+230,   R$ 3.100 /Mês  ,  1   Quarto  ,"Rua Manuel da Nóbrega, 646 - Paraíso, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  50   m²  , Paraíso,"Rua Manuel da Nóbrega, 646"
+231,   R$ 4.100 /Mês  ,  3   Quartos  ,"Avenida Mofarrej, 275 - Vila Leopoldina, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  96   m²  , Vila Leopoldina,"Avenida Mofarrej, 275"
+232,   R$ 4.500 /Mês  ,  3   Quartos  ,"Rua Mourato Coelho - Pinheiros, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  215   m²  , Pinheiros,Rua Mourato Coelho
+233,   R$ 4.200 /Mês  ,  1   Quarto  ,"Travessa Dona Paula - Higienópolis, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  120   m²  , Higienópolis,Travessa Dona Paula
+234,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Fortaleza, 186 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  86   m²  , Bela Vista,"Rua Fortaleza, 186"
+235,   R$ 2.300 /Mês  ,  4   Quartos  ,"Rua Eduardo Ferreira Franca, 259 - Água Funda, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  100   m²  , Água Funda,"Rua Eduardo Ferreira Franca, 259"
+236,   R$ 6.999 /Mês    R$ 2.500.000   ,  3   Quartos  ,"Rua Gregório Paes de Almeida - Vila Madalena, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  270   m²  , Vila Madalena,Rua Gregório Paes de Almeida
+237,   R$ 900 /Mês  ,  1   Quarto  ,"Parque São Luís, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , SP,"Parque São Luís, São Paulo"
+238,   R$ 3.200 /Mês  ,  2   Quartos  ,"Rua Pascal - Campo Belo, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Campo Belo,Rua Pascal
+239,   R$ 24.000 /Mês  ,  4   Quartos  ,"Cerqueira César, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  250   m²  , SP,"Cerqueira César, São Paulo"
+240,   R$ 4.900 /Mês    R$ 1.048.000   ,  4   Quartos  ,"Rua Breno Pinheiro - Jardim Morumbi, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  296   m²  , Jardim Morumbi,Rua Breno Pinheiro
+241,   R$ 9.000 /Mês    R$ 1.200.000   ,  4   Quartos  ,"Jardim Monte Kemel, São Paulo - SP",  6   Banheiros  ,  10   Vagas  ,  379   m²  , SP,"Jardim Monte Kemel, São Paulo"
+242,   R$ 3.000 /Mês  ,  3   Quartos  ,"Avenida Miruna - Indianópolis, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  120   m²  , Indianópolis,Avenida Miruna
+243,   R$ 750 /Mês  ,  1   Quarto  ,"Rua Teodoro Horst - Tucuruvi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  70   m²  , Tucuruvi,Rua Teodoro Horst
+244,   R$ 2.200 /Mês  ,  2   Quartos  ,"Rua Comendador Sousa - Água Branca, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  80   m²  , Água Branca,Rua Comendador Sousa
+245,   R$ 9.000 /Mês  ,  4   Quartos  ,"Mooca, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  608   m²  , SP,"Mooca, São Paulo"
+246,   R$ 30.000 /Mês    R$ 10.000.000   ,  4   Quartos  ,"Vila Morumbi, São Paulo - SP",  5   Banheiros  ,  15   Vagas  ,  952   m²  , SP,"Vila Morumbi, São Paulo"
+247,   R$ 1.100 /Mês  ,  2   Quartos  ,"Rua Joaquim Oliveira Freitas, 508 - Vila Mangalot, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Vila Mangalot,"Rua Joaquim Oliveira Freitas, 508"
+248,   R$ 5.000 /Mês  ,  2   Quartos  ,"Rua Capote Valente - Pinheiros, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  170   m²  , Pinheiros,Rua Capote Valente
+249,   R$ 8.726 /Mês    R$ 1.399.000   ,  3   Quartos  ,"Rua Galeno de Almeida, 309 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  110   m²  , Pinheiros,"Rua Galeno de Almeida, 309"
+250,   R$ 27.500 /Mês  ,  6   Quartos  ,"Rua Camargo, 130 - Butantã, São Paulo - SP",  4   Banheiros  ,  13   Vagas  ,  500   m²  , Butantã,"Rua Camargo, 130"
+251,   R$ 15.000 /Mês    R$ 3.990.000   ,  3   Quartos  ,"Rua Teodoro Ramos, 75 - Pacaembu, São Paulo - SP",  6   Banheiros  ,  2   Vagas  ,  268   m²  , Pacaembu,"Rua Teodoro Ramos, 75"
+252,   R$ 20.000 /Mês    R$ 3.500.000   ,  3   Quartos  ,"Avenida Diógenes Ribeiro de Lima - Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  449   m²  , Alto de Pinheiros,Avenida Diógenes Ribeiro de Lima
+253,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Rocha Galvão - Jardim da Glória, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  90   m²  , Jardim da Glória,Rua Rocha Galvão
+254,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua Capote Valente, 697 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  90   m²  , Pinheiros,"Rua Capote Valente, 697"
+255,   R$ 1.450 /Mês  ,  1   Quarto  ,"Rua Alfaia - Alto da Lapa, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , Alto da Lapa,Rua Alfaia
+256,   R$ 1.600 /Mês  ,  3   Quartos  ,"Vila Palmeiras, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  90   m²  , SP,"Vila Palmeiras, São Paulo"
+257,   R$ 14.000 /Mês    R$ 3.000.000   ,  3   Quartos  ,"Rua Iraci - Jardim Paulistano, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  220   m²  , Jardim Paulistano,Rua Iraci
+258,   R$ 14.380 /Mês  ,  3   Quartos  ,"Jardim Paulista, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  250   m²  , SP,"Jardim Paulista, São Paulo"
+259,   R$ 1.200 /Mês  ,  1   Quarto  ,"Chora Menino, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , SP,"Chora Menino, São Paulo"
+260,   R$ 6.990 /Mês  ,  4   Quartos  ,"Rua José dos Santos Júnior, 405 - Campo Belo, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  370   m²  , Campo Belo,"Rua José dos Santos Júnior, 405"
+261,   R$ 3.000 /Mês  ,  2   Quartos  ,"Rua Costa Aguiar - Ipiranga, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  131   m²  , Ipiranga,Rua Costa Aguiar
+262,   R$ 2.600 /Mês  ,  2   Quartos  ,"Rua Alves de Almeida - Chácara Belenzinho, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  155   m²  , Chácara Belenzinho,Rua Alves de Almeida
+263,   R$ 13.000 /Mês    R$ 3.690.000   ,  4   Quartos  ,"Alameda Calicut - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  4   Banheiros  ,  8   Vagas  ,  450   m²  , Chácara Santo Antônio (Zona Sul),Alameda Calicut
+264,   R$ 15.000 /Mês  ,  10   Quartos  ,"Avenida Lineu de Paula Machado, 1054 - Jardim Everest, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  600   m²  , Jardim Everest,"Avenida Lineu de Paula Machado, 1054"
+265,   R$ 18.000 /Mês    R$ 6.500.000   ,  4   Quartos  ,"Jardim Paulista, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  450   m²  , SP,"Jardim Paulista, São Paulo"
+266,   R$ 8.500 /Mês  ,  3   Quartos  ,"Rua Professor José Leite e Oiticica, 240 - Vila Gertrudes, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  150   m²  , Vila Gertrudes,"Rua Professor José Leite e Oiticica, 240"
+267,   R$ 3.200 /Mês  ,  1   Quarto  ,"Rua Doutor Fadlo Haidar, 75 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Vila Olímpia,"Rua Doutor Fadlo Haidar, 75"
+268,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Coronel Camisão, 409 - Vila Gomes, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  72   m²  , Vila Gomes,"Rua Coronel Camisão, 409"
+269,   R$ 1.400 /Mês  ,  3   Quartos  ,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 400 - Jardim Esmeralda, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  72   m²  , Jardim Esmeralda,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 400"
+270,   R$ 4.200 /Mês    R$ 770.000   ,  1   Quarto  ,"Rua George Ohm, 330 - Cidade Monções, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Cidade Monções,"Rua George Ohm, 330"
+271,   R$ 2.250 /Mês  ,  2   Quartos  ,"Avenida Padre Antônio José dos Santos, 1666 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  86   m²  , Cidade Monções,"Avenida Padre Antônio José dos Santos, 1666"
+272,   R$ 2.750 /Mês  ,  2   Quartos  ,"Rua Maestro Cardim, 1211 - Bela Vista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  90   m²  , Bela Vista,"Rua Maestro Cardim, 1211"
+273,   R$ 1.750 /Mês  ,  1   Quarto  ,"Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , SP,"Bela Vista, São Paulo"
+274,   R$ 1.100 /Mês  ,  2   Quartos  ,"Avenida do Oratório, 5923 - Jardim Ângela (Zona Leste), São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  122   m²  , Jardim Ângela (Zona Leste),"Avenida do Oratório, 5923"
+275,   R$ 5.500 /Mês  ,  2   Quartos  ,"Alameda Joaquim Eugênio de Lima, 113 - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  77   m²  , Jardim Paulista,"Alameda Joaquim Eugênio de Lima, 113"
+276,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Bela Cintra, 450 - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Consolação,"Rua Bela Cintra, 450"
+277,   R$ 3.300 /Mês  ,  2   Quartos  ,"Rua Gonçalo da Cunha - Chácara Inglesa, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  68   m²  , Chácara Inglesa,Rua Gonçalo da Cunha
+278,   R$ 2.700 /Mês  ,  3   Quartos  ,"Avenida Interlagos, 4455 - Jardim Umuarama, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  72   m²  , Jardim Umuarama,"Avenida Interlagos, 4455"
+279,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua João Miguel Jarra, 298 - Vila Madalena, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Vila Madalena,"Rua João Miguel Jarra, 298"
+280,   R$ 1.700 /Mês  ,  1   Quarto  ,"Avenida Jabaquara, 144 - Mirandópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Mirandópolis,"Avenida Jabaquara, 144"
+281,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Doutor Diogo de Faria - Vila Clementino, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Clementino,Rua Doutor Diogo de Faria
+282,   R$ 1.600 /Mês  ,  1   Quarto  ,"Alameda dos Nhambiquaras - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Indianópolis,Alameda dos Nhambiquaras
+283,   R$ 990 /Mês  ,  1   Quarto  ,"Rua Doutor Clementino - Belenzinho, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  21   m²  , Belenzinho,Rua Doutor Clementino
+284,   R$ 2.900 /Mês  ,  1   Quarto  ,"Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Bela Vista,"Avenida Brigadeiro Luís Antônio, 499"
+285,   R$ 5.485 /Mês    R$ 1.179.900   ,  2   Quartos  ,"Avenida Doutor Cardoso de Melo, 1046 - Vila Olímpia, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  82   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 1046"
+286,   R$ 8.800 /Mês  ,  3   Quartos  ,"Rua Pensilvânia, 1342 - Cidade Monções, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  130   m²  , Cidade Monções,"Rua Pensilvânia, 1342"
+287,   R$ 2.800 /Mês  ,  1   Quarto  ,"Rua Pintassilgo, 480 - Vila Uberabinha, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Vila Uberabinha,"Rua Pintassilgo, 480"
+288,   R$ 12.000 /Mês    R$ 1.890.000   ,  4   Quartos  ,"Rua Júlio Verne, 258 - Jardim Hípico, São Paulo - SP",  6   Banheiros  ,  2   Vagas  ,  288   m²  , Jardim Hípico,"Rua Júlio Verne, 258"
+289,   R$ 15.000 /Mês    R$ 4.900.000   ,  4   Quartos  ,"Jardim Luzitânia, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  436   m²  , SP,"Jardim Luzitânia, São Paulo"
+290,   R$ 3.000 /Mês  ,  2   Quartos  ,"Rua Cipriano Lopes França, 66 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  160   m²  , Cidade Monções,"Rua Cipriano Lopes França, 66"
+291,   R$ 9.000 /Mês  ,  3   Quartos  ,"Rua Sader Macul - Itaim Bibi, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  150   m²  , Itaim Bibi,Rua Sader Macul
+292,   R$ 1.300 /Mês  ,  2   Quartos  ,"Vila Iório, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  70   m²  , SP,"Vila Iório, São Paulo"
+293,   R$ 8.000 /Mês    R$ 1.900.000   ,  4   Quartos  ,"Rua Doutor Mário Freire, 88 - Retiro Morumbi, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  245   m²  , Retiro Morumbi,"Rua Doutor Mário Freire, 88"
+294,   R$ 12.750 /Mês    R$ 4.300.000   ,  4   Quartos  ,"Cidade Jardim, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  720   m²  , SP,"Cidade Jardim, São Paulo"
+295,   R$ 3.850 /Mês    R$ 899.000   ,  2   Quartos  ,"Vila Clementino, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  92   m²  , SP,"Vila Clementino, São Paulo"
+296,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Ouvidor Peleja, 792 - Vila Mariana, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  200   m²  , Vila Mariana,"Rua Ouvidor Peleja, 792"
+297,   R$ 8.000 /Mês  ,  3   Quartos  ,"Rua Manduri, 164 - Jardim Paulistano, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  280   m²  , Jardim Paulistano,"Rua Manduri, 164"
+298,   R$ 30.000 /Mês    R$ 6.500.000   ,  5   Quartos  ,"Alto de Pinheiros, São Paulo - SP",  2   Banheiros  ,  8   Vagas  ,  750   m²  , SP,"Alto de Pinheiros, São Paulo"
+299,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Guaicurus, 614 - Água Branca, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  100   m²  , Água Branca,"Rua Guaicurus, 614"
+300,   R$ 6.500 /Mês  ,  4   Quartos  ,"Rua Conde de Itu - Jardim Santo Amaro, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  307   m²  , Jardim Santo Amaro,Rua Conde de Itu
+301,   R$ 20.000 /Mês  ,  3   Quartos  ,"Vila Nova Conceição, São Paulo - SP",  5   Banheiros  ,  1   Vaga  ,  330   m²  , SP,"Vila Nova Conceição, São Paulo"
+302,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua Lourenço Marques - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  101   m²  , Vila Olímpia,Rua Lourenço Marques
+303,   R$ 700 /Mês  ,  1   Quarto  ,"Avenida Jacobus Baldi, 201 - Jardim Iracema, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Jardim Iracema,"Avenida Jacobus Baldi, 201"
+304,   R$ 25.000 /Mês    R$ 8.850.000   ,  6   Quartos  ,"Rua Cardoso de Melo Júnior - Alto de Pinheiros, São Paulo - SP",  9   Banheiros  ,  11   Vagas  ,  1000   m²  , Alto de Pinheiros,Rua Cardoso de Melo Júnior
+305,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Professor Tranquilli - Vila Mariana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  50   m²  , Vila Mariana,Rua Professor Tranquilli
+306,   R$ 1.200 /Mês  ,  1   Quarto  ,"Travessa Professor Nilo Campos Gomes, 41 - Vila Nair, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Vila Nair,"Travessa Professor Nilo Campos Gomes, 41"
+307,   R$ 2.200 /Mês  ,  4   Quartos  ,"Avenida Cupecê, 3633 - Jardim Prudência, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  120   m²  , Jardim Prudência,"Avenida Cupecê, 3633"
+308,   R$ 2.000 /Mês  ,  3   Quartos  ,"Rua Saguairu - Casa Verde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  120   m²  , Casa Verde,Rua Saguairu
+309,   R$ 2.700 /Mês  ,  2   Quartos  ,"Rua Oliveira Alves - Ipiranga, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  130   m²  , Ipiranga,Rua Oliveira Alves
+310,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Lessing, 675 - Chácara Belenzinho, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  , Chácara Belenzinho,"Rua Lessing, 675"
+311,   R$ 20.000 /Mês    R$ 6.500.000   ,  4   Quartos  ,"Avenida George Saville Dodd, 279 - Jardim Guedala, São Paulo - SP",  5   Banheiros  ,  8   Vagas  ,  550   m²  , Jardim Guedala,"Avenida George Saville Dodd, 279"
+312,   R$ 1.200 /Mês  ,  2   Quartos  ,"Rua Artur Felice, 148 - Jordanópolis, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Jordanópolis,"Rua Artur Felice, 148"
+313,   R$ 1.500 /Mês  ,  2   Quartos  ,"Vila Ede, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  80   m²  , SP,"Vila Ede, São Paulo"
+314,   R$ 3.500 /Mês  ,  3   Quartos  ,"Campo Belo, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  200   m²  , SP,"Campo Belo, São Paulo"
+315,   R$ 28.000 /Mês    R$ 8.000.000   ,  3   Quartos  ,"Rua Atlântica - Jardim América, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  600   m²  , Jardim América,Rua Atlântica
+316,   R$ 8.500 /Mês  ,  3   Quartos  ,"Alameda Uananá - Planalto Paulista, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  200   m²  , Planalto Paulista,Alameda Uananá
+317,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Costa Aguiar, 1839 - Ipiranga, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  55   m²  , Ipiranga,"Rua Costa Aguiar, 1839"
+318,   R$ 9.000 /Mês  ,  2   Quartos  ,"Rua São Paulino, 9 - Vila Mariana, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  247   m²  , Vila Mariana,"Rua São Paulino, 9"
+319,   R$ 13.000 /Mês    R$ 3.300.000   ,  4   Quartos  ,"Butantã, São Paulo - SP",  7   Banheiros  ,  4   Vagas  ,  490   m²  , SP,"Butantã, São Paulo"
+320,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Eugênio de Medeiros, 456 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , Pinheiros,"Rua Eugênio de Medeiros, 456"
+321,   R$ 1.600 /Mês  ,  2   Quartos  ,"Rua Mariazinha Vicenzzoto - Jardim Aricanduva, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Jardim Aricanduva,Rua Mariazinha Vicenzzoto
+322,   R$ 5.500 /Mês    R$ 1.927.000   ,  4   Quartos  ,"Sumarezinho, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  388   m²  , SP,"Sumarezinho, São Paulo"
+323,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Cardeal Enrico Dante, 66 - Vila Nova Mazzei, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , Vila Nova Mazzei,"Rua Cardeal Enrico Dante, 66"
+324,   R$ 4.500 /Mês    R$ 900.000   ,  4   Quartos  ,"Rua Pitangueiras - Mirandópolis, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  144   m²  , Mirandópolis,Rua Pitangueiras
+325,   R$ 4.500 /Mês    R$ 1.300.000   ,  3   Quartos  ,"Rua Doutor Numa Pereira do Vale - Aclimação, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  212   m²  , Aclimação,Rua Doutor Numa Pereira do Vale
+326,   R$ 900 /Mês  ,  1   Quarto  ,"Vila Maria, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , SP,"Vila Maria, São Paulo"
+327,   R$ 16.000 /Mês    R$ 3.000.000   ,  3   Quartos  ,"Morumbi, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  481   m²  , SP,"Morumbi, São Paulo"
+328,   R$ 1.300 /Mês  ,  1   Quarto  ,"Vila Bertioga, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  70   m²  , SP,"Vila Bertioga, São Paulo"
+329,   R$ 7.000 /Mês    R$ 2.300.000   ,  3   Quartos  ,"Vila Sônia, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  480   m²  , SP,"Vila Sônia, São Paulo"
+330,   R$ 1.000 /Mês  ,  1   Quarto  ,"Rua Jaupaci - Vila Paulistana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Vila Paulistana,Rua Jaupaci
+331,   R$ 850 /Mês  ,  1   Quarto  ,"Rua dos Operários - Vila Brasilina, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  98   m²  , Vila Brasilina,Rua dos Operários
+332,   R$ 13.200 /Mês    R$ 5.900.000   ,  4   Quartos  ,"Rua Bauru, 247 - Pacaembu, São Paulo - SP",  8   Banheiros  ,  10   Vagas  ,  840   m²  , Pacaembu,"Rua Bauru, 247"
+333,   R$ 1.950 /Mês  ,  2   Quartos  ,"Rua Celso Ramos, 145 - Vila Andrade, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  47   m²  , Vila Andrade,"Rua Celso Ramos, 145"
+334,   R$ 1.700 /Mês  ,  3   Quartos  ,"Rua Domingos da Costa Mata, 275 - Santana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  62   m²  , Santana,"Rua Domingos da Costa Mata, 275"
+335,   R$ 3.100 /Mês  ,  3   Quartos  ,"Rua Giovani Recordati, 153 - Parque São Domingos, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  74   m²  , Parque São Domingos,"Rua Giovani Recordati, 153"
+336,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua São Vicente de Paulo, 401 - Santa Cecília, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  90   m²  , Santa Cecília,"Rua São Vicente de Paulo, 401"
+337,   R$ 5.380 /Mês  ,  2   Quartos  ,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  163   m²  , Cerqueira César,"Rua Lisboa, 159"
+338,   R$ 990 /Mês  ,  1   Quarto  ,"Rua Pereira do Lago, 309 - Vila Gomes, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Vila Gomes,"Rua Pereira do Lago, 309"
+339,   R$ 3.500 /Mês  ,  3   Quartos  ,"Alameda Itu - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  115   m²  , Jardim Paulista,Alameda Itu
+340,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Maria Antônia, 173 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  26   m²  , Vila Buarque,"Rua Maria Antônia, 173"
+341,   R$ 1.100 /Mês  ,  2   Quartos  ,"Rua Sílvio de Sousa - Vila Santa Clara, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  , Vila Santa Clara,Rua Sílvio de Sousa
+342,   R$ 2.400 /Mês  ,  1   Quarto  ,"Rua Antônio de Macedo Soares, 878 - Campo Belo, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Campo Belo,"Rua Antônio de Macedo Soares, 878"
+343,   R$ 3.146 /Mês  ,  2   Quartos  ,"Rua Alvorada - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  67   m²  , Vila Olímpia,Rua Alvorada
+344,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua Manuel da Nóbrega, 638 - Paraíso, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  80   m²  , Paraíso,"Rua Manuel da Nóbrega, 638"
+345,   R$ 3.000 /Mês  ,  3   Quartos  ,"Rua Aimberê, 1898 - Sumaré, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  115   m²  , Sumaré,"Rua Aimberê, 1898"
+346,   R$ 1.900 /Mês  ,  2   Quartos  ,"Estrada de Itapecerica, 1528 - Vila Prel, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Vila Prel,"Estrada de Itapecerica, 1528"
+347,   R$ 3.000 /Mês  ,  3   Quartos  ,"Rua Doutor Eduardo de Souza Aranha, 140 - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  96   m²  , Vila Nova Conceição,"Rua Doutor Eduardo de Souza Aranha, 140"
+348,   R$ 3.900 /Mês  ,  2   Quartos  ,"Rua Peixoto Gomide - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Jardim Paulista,Rua Peixoto Gomide
+349,   R$ 1.800 /Mês  ,  1   Quarto  ,"Rua Balthazar da Veiga - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  36   m²  , Vila Nova Conceição,Rua Balthazar da Veiga
+350,   R$ 4.500 /Mês  ,  1   Quarto  ,"Rua Haddock Lobo, 1384 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  84   m²  , Cerqueira César,"Rua Haddock Lobo, 1384"
+351,   R$ 1.990 /Mês  ,  1   Quarto  ,"Alameda Franca, 318 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Jardim Paulista,"Alameda Franca, 318"
+352,   R$ 2.000 /Mês  ,  3   Quartos  ,"Rua Eli, 674 - Vila Maria Baixa, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  73   m²  , Vila Maria Baixa,"Rua Eli, 674"
+353,   R$ 5.300 /Mês  ,  3   Quartos  ,"Rua Alves Guimarães - Pinheiros, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  116   m²  , Pinheiros,Rua Alves Guimarães
+354,   R$ 18.700 /Mês    R$ 6.500.000   ,  3   Quartos  ,"Rua Minas Gerais, 145 - Higienópolis, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  347   m²  , Higienópolis,"Rua Minas Gerais, 145"
+355,   R$ 5.500 /Mês    R$ 1.160.000   ,  3   Quartos  ,"Rua Bacaetava, 66 - Vila Gertrudes, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  95   m²  , Vila Gertrudes,"Rua Bacaetava, 66"
+356,   R$ 3.500 /Mês  ,  1   Quarto  ,"Avenida Doutor Cardoso de Melo, 626 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 626"
+357,   R$ 4.300 /Mês  ,  2   Quartos  ,"Rua Bela Cintra, 1538 - Consolação, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  140   m²  , Consolação,"Rua Bela Cintra, 1538"
+358,   R$ 7.950 /Mês    R$ 2.038.000   ,  3   Quartos  ,"Rua Pensilvânia - Cidade Monções, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  172   m²  , Cidade Monções,Rua Pensilvânia
+359,   R$ 2.400 /Mês  ,  2   Quartos  ,"Rua Jacques Félix, 724 - Vila Nova Conceição, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  72   m²  , Vila Nova Conceição,"Rua Jacques Félix, 724"
+360,   R$ 2.250 /Mês  ,  3   Quartos  ,"Rua Ibitirama, 1809 - Vila Prudente, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Vila Prudente,"Rua Ibitirama, 1809"
+361,   R$ 11.000 /Mês  ,  4   Quartos  ,"Rua Aimberê, 233 - Perdizes, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  260   m²  , Perdizes,"Rua Aimberê, 233"
+362,   R$ 2.950 /Mês  ,  1   Quarto  ,"Rua Tucuna, 824 - Perdizes, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Perdizes,"Rua Tucuna, 824"
+363,   R$ 15.000 /Mês    R$ 3.100.000   ,  3   Quartos  ,"Rua Flórida, 1901 - Cidade Monções, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  220   m²  , Cidade Monções,"Rua Flórida, 1901"
+364,   R$ 7.000 /Mês  ,  3   Quartos  ,"Rua Aracari, 177 - Itaim Bibi, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  130   m²  , Itaim Bibi,"Rua Aracari, 177"
+365,   R$ 4.300 /Mês  ,  1   Quarto  ,"Rua Alves Guimarães, 1120 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  45   m²  , Pinheiros,"Rua Alves Guimarães, 1120"
+366,   R$ 2.000 /Mês    R$ 390.000   ,  2   Quartos  ,"Rua Uruçuca, 34 - Vila Antonina, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  57   m²  , Vila Antonina,"Rua Uruçuca, 34"
+367,   R$ 2.900 /Mês  ,  1   Quarto  ,"Praça Júlio Mesquita, 97 - Santa Efigênia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  46   m²  , Santa Efigênia,"Praça Júlio Mesquita, 97"
+368,   R$ 1.000 /Mês  ,  1   Quarto  ,"Rua Oriçanga, 14 - Mirandópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Mirandópolis,"Rua Oriçanga, 14"
+369,   R$ 2.100 /Mês  ,  1   Quarto  ,"Praça Barão de Itaqui, 755 - Vila Gomes Cardim, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Vila Gomes Cardim,"Praça Barão de Itaqui, 755"
+370,   R$ 5.500 /Mês    R$ 1.060.000   ,  3   Quartos  ,"Rua Ministro Ferreira Alves - Perdizes, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  89   m²  , Perdizes,Rua Ministro Ferreira Alves
+371,   R$ 650 /Mês  ,  1   Quarto  ,"Rua Tabor, 255 - Ipiranga, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  16   m²  , Ipiranga,"Rua Tabor, 255"
+372,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Professor Pedro da Cunha, 28 - Perdizes, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  13   m²  , Perdizes,"Rua Professor Pedro da Cunha, 28"
+373,   R$ 690 /Mês  ,  1   Quarto  ,"Rua Doutora Neyde Apparecida Sollitto, 256D - Vila Clementino, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  15   m²  , Vila Clementino,"Rua Doutora Neyde Apparecida Sollitto, 256D"
+374,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Doutor Diogo de Faria, 539 - Vila Clementino, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Clementino,"Rua Doutor Diogo de Faria, 539"
+375,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Tutóia, 839 - Vila Mariana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  78   m²  , Vila Mariana,"Rua Tutóia, 839"
+376,   R$ 3.000 /Mês    R$ 650.000   ,  1   Quarto  ,"Avenida Angélica - Santa Cecília, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Santa Cecília,Avenida Angélica
+377,   R$ 1.800 /Mês  ,  1   Quarto  ,"Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  54   m²  , Bela Vista,"Rua Doutor Plínio Barreto, 95"
+378,   R$ 3.250 /Mês  ,  3   Quartos  ,"Rua Treze de Maio, 1838 - Bela Vista, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  116   m²  , Bela Vista,"Rua Treze de Maio, 1838"
+379,   R$ 4.200 /Mês  ,  2   Quartos  ,"Rua Maestro Cardim, 266 - Liberdade, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  60   m²  , Liberdade,"Rua Maestro Cardim, 266"
+380,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Aurora, 873 - Santa Efigênia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  36   m²  , Santa Efigênia,"Rua Aurora, 873"
+381,   R$ 2.900 /Mês  ,  2   Quartos  ,"Rua Canário, 981 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Moema,"Rua Canário, 981"
+382,   R$ 1.600 /Mês  ,  2   Quartos  ,"Rua Vinte e Cinco de Janeiro - Luz, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  44   m²  , Luz,Rua Vinte e Cinco de Janeiro
+383,   R$ 7.500 /Mês  ,  3   Quartos  ,"Rua Alexandre Dumas, 1410 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  143   m²  , Chácara Santo Antônio (Zona Sul),"Rua Alexandre Dumas, 1410"
+384,   R$ 7.000 /Mês  ,  4   Quartos  ,"Rua Barão do Triunfo, 117 - Brooklin Paulista, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  169   m²  , Brooklin Paulista,"Rua Barão do Triunfo, 117"
+385,   R$ 2.300 /Mês    R$ 575.000   ,  1   Quarto  ,"Rua Balthazar da Veiga - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  37   m²  , Vila Nova Conceição,Rua Balthazar da Veiga
+386,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Guaraiúva - Cidade Monções, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  85   m²  , Cidade Monções,Rua Guaraiúva
+387,   R$ 6.500 /Mês  ,  1   Quarto  ,"Rua Doutor Mário Ferraz, 415 - Jardim Paulistano, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  50   m²  , Jardim Paulistano,"Rua Doutor Mário Ferraz, 415"
+388,   R$ 1.400 /Mês  ,  2   Quartos  ,"Rua Tenente-Coronel Soares Neiva, 95 - Vila Aricanduva, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Vila Aricanduva,"Rua Tenente-Coronel Soares Neiva, 95"
+389,   R$ 6.860 /Mês  ,  3   Quartos  ,"Rua Joaquim dos Reis, 267 - Vila Cruzeiro, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  300   m²  , Vila Cruzeiro,"Rua Joaquim dos Reis, 267"
+390,   R$ 20.000 /Mês    R$ 4.500.000   ,  5   Quartos  ,"Rua Capitão Garcindo - Pacaembu, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  434   m²  , Pacaembu,Rua Capitão Garcindo
+391,   R$ 40.000 /Mês    R$ 9.500.000   ,  5   Quartos  ,"Morumbi, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  660   m²  , SP,"Morumbi, São Paulo"
+392,   R$ 40.000 /Mês    R$ 5.800.000   ,  5   Quartos  ,"Cidade Jardim, São Paulo - SP",  5   Banheiros  ,  8   Vagas  ,  1000   m²  , SP,"Cidade Jardim, São Paulo"
+393,   R$ 40.000 /Mês    R$ 9.500.000   ,  5   Quartos  ,"Rua Oliveira Pimentel - Jardim Paulista, São Paulo - SP",  9   Banheiros  ,  5   Vagas  ,  717   m²  , Jardim Paulista,Rua Oliveira Pimentel
+394,   R$ 1.800 /Mês  ,  2   Quartos  ,"Rua José Zappi - Vila Prudente, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  283   m²  , Vila Prudente,Rua José Zappi
+395,   R$ 9.000 /Mês  ,  3   Quartos  ,"Rua Leonardo Nardez - Vila Nova Conceição, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  221   m²  , Vila Nova Conceição,Rua Leonardo Nardez
+396,   R$ 7.000 /Mês  ,  3   Quartos  ,"Rua Pariquera-Açu, 78 - Indianópolis, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  230   m²  , Indianópolis,"Rua Pariquera-Açu, 78"
+397,   R$ 9.000 /Mês    R$ 1.700.000   ,  4   Quartos  ,"Lar São Paulo, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  512   m²  , SP,"Lar São Paulo, São Paulo"
+398,   R$ 1.200 /Mês  ,  2   Quartos  ,"Rua Cavalieri, 55 - Quarta Parada, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  100   m²  , Quarta Parada,"Rua Cavalieri, 55"
+399,   R$ 80.000 /Mês    R$ 33.800.000   ,  6   Quartos  ,"Retiro Morumbi, São Paulo - SP",  10   Banheiros  ,  11   Vagas  ,  1700   m²  , SP,"Retiro Morumbi, São Paulo"
+400,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Castro Alves, 279 - Aclimação, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  60   m²  , Aclimação,"Rua Castro Alves, 279"
+401,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua Itararé - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  48   m²  , Bela Vista,Rua Itararé
+402,   R$ 3.100 /Mês  ,  3   Quartos  ,"Rua Cristiano Viana, 505 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Cerqueira César,"Rua Cristiano Viana, 505"
+403,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Guarará, 77 - Jardim Paulista, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  140   m²  , Jardim Paulista,"Rua Guarará, 77"
+404,   R$ 3.000 /Mês  ,  2   Quartos  ,"Rua São Venceslau, 243 - Vila Guarani (Z Sul), São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  56   m²  , Vila Guarani (Z Sul),"Rua São Venceslau, 243"
+405,   R$ 6.800 /Mês  ,  3   Quartos  ,"Rua Canário, 1200 - Moema, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  130   m²  , Moema,"Rua Canário, 1200"
+406,   R$ 2.500 /Mês    R$ 650.000   ,  1   Quarto  ,"Rua Turiassu - Perdizes, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  66   m²  , Perdizes,Rua Turiassu
+407,   R$ 3.000 /Mês  ,  3   Quartos  ,"Avenida Mascote - Vila Mascote, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  90   m²  , Vila Mascote,Avenida Mascote
+408,   R$ 3.000 /Mês    R$ 890.000   ,  3   Quartos  ,"Rua Artur de Azevedo - Cerqueira César, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  120   m²  , Cerqueira César,Rua Artur de Azevedo
+409,   R$ 4.500 /Mês    R$ 1.399.990   ,  4   Quartos  ,"Rua Aguaraíba, 159 - Vila Anhangüera, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  300   m²  , Vila Anhangüera,"Rua Aguaraíba, 159"
+410,   R$ 60.000 /Mês    R$ 14.000.000   ,  4   Quartos  ,"Rua Professor Luiz Oliani - Morumbi, São Paulo - SP",  9   Banheiros  ,  18   Vagas  ,  1100   m²  , Morumbi,Rua Professor Luiz Oliani
+411,   R$ 2.600 /Mês  ,  1   Quarto  ,"Rua Bruno Simoni, 170 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  85   m²  , Pinheiros,"Rua Bruno Simoni, 170"
+412,   R$ 5.500 /Mês    R$ 820.000   ,  3   Quartos  ,"Rua Francisco Olandim, 267 - São João Clímaco, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  212   m²  , São João Clímaco,"Rua Francisco Olandim, 267"
+413,   R$ 13.000 /Mês    R$ 3.600.000   ,  3   Quartos  ,"Rua Inglaterra - Jardim Europa, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  200   m²  , Jardim Europa,Rua Inglaterra
+414,   R$ 18.000 /Mês    R$ 4.240.000   ,  6   Quartos  ,"Rua Bernardino Machado, 321 - Granja Julieta, São Paulo - SP",  7   Banheiros  ,  4   Vagas  ,  800   m²  , Granja Julieta,"Rua Bernardino Machado, 321"
+415,   R$ 6.000 /Mês  ,  4   Quartos  ,"Rua Ferreira de Araújo - Pinheiros, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  200   m²  , Pinheiros,Rua Ferreira de Araújo
+416,   R$ 1.150 /Mês  ,  --   Quarto  ,"Alameda Olga, 422 - Barra Funda, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  37   m²  , Barra Funda,"Alameda Olga, 422"
+417,   R$ 1.500 /Mês  ,  --   Quarto  ,"Rua Joaquim Antunes, 767 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  42   m²  , Pinheiros,"Rua Joaquim Antunes, 767"
+418,   R$ 25.000 /Mês  ,  --   Quarto  ,"Rua Santa Cruz, 1168 - Vila Mariana, São Paulo - SP",  10   Banheiros  ,  20   Vagas  ,  500   m²  , Vila Mariana,"Rua Santa Cruz, 1168"
+419,   R$ 1.000 /Mês  ,  --   Quarto  ,"Rua Coriolano, 1926 - Vila Romana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Romana,"Rua Coriolano, 1926"
+420,   R$ 5.800 /Mês  ,  --   Quarto  ,"Rua Barra do Tibaji, 235 - Bom Retiro, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  240   m²  , Bom Retiro,"Rua Barra do Tibaji, 235"
+421,   R$ 6.500 /Mês  ,  5   Quartos  ,"Rua Simão Álvares, 526 - Pinheiros, São Paulo - SP",  4   Banheiros  ,  1   Vaga  ,  120   m²  , Pinheiros,"Rua Simão Álvares, 526"
+422,   R$ 8.500 /Mês  ,  --   Quarto  ,"Rua Pais Leme, 524 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  7   Vagas  ,  150   m²  , Pinheiros,"Rua Pais Leme, 524"
+423,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Doutor Artur Imbassai, 99 - Ferreira, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  22   m²  , Ferreira,"Rua Doutor Artur Imbassai, 99"
+424,   R$ 2.800 /Mês    R$ 750.000   ,  2   Quartos  ,"Rua Aracuípe - Jardim Prudência, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  116   m²  , Jardim Prudência,Rua Aracuípe
+425,   R$ 16.000 /Mês    R$ 4.850.000   ,  3   Quartos  ,"Avenida Jacutinga, 360 - Indianópolis, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  314   m²  , Indianópolis,"Avenida Jacutinga, 360"
+426,   R$ 26.000 /Mês  ,  3   Quartos  ,"Rua Iara - Itaim Bibi, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  235   m²  , Itaim Bibi,Rua Iara
+427,   R$ 2.850 /Mês  ,  2   Quartos  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  90   m²  , Moema,"Avenida Moema, 177"
+428,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Sócrates - Vila Sofia, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  250   m²  , Vila Sofia,Rua Sócrates
+429,   R$ 20.000 /Mês    R$ 5.980.000   ,  4   Quartos  ,"Avenida Açocê, 261 - Indianópolis, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  620   m²  , Indianópolis,"Avenida Açocê, 261"
+430,   R$ 3.000 /Mês    R$ 2.345.000   ,  4   Quartos  ,"Rua Cayowaá, , 1519 - Sumaré, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  343   m²  , Sumaré,"Rua Cayowaá, , 1519"
+431,   R$ 10.000 /Mês    R$ 2.500.000   ,  4   Quartos  ,"Rua Urbanizadora, 118 - Sumaré, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  340   m²  , Sumaré,"Rua Urbanizadora, 118"
+432,   R$ 15.400 /Mês    R$ 3.900.000   ,  2   Quartos  ,"Avenida Angélica, 589 - Santa Cecília, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  381   m²  , Santa Cecília,"Avenida Angélica, 589"
+433,   R$ 9.500 /Mês  ,  2   Quartos  ,"Rua João Cachoeira, 250 - Vila Nova Conceição, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  90   m²  , Vila Nova Conceição,"Rua João Cachoeira, 250"
+434,   R$ 5.500 /Mês    R$ 1.500.000   ,  3   Quartos  ,"Rua Cônego Eugênio Leite - Pinheiros, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  135   m²  , Pinheiros,Rua Cônego Eugênio Leite
+435,   R$ 20.000 /Mês    R$ 7.900.000   ,  4   Quartos  ,"Avenida Jandira - Indianópolis, São Paulo - SP",  4   Banheiros  ,  8   Vagas  ,  575   m²  , Indianópolis,Avenida Jandira
+436,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Professor Picarolo - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  53   m²  , Bela Vista,Rua Professor Picarolo
+437,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Tutóia, 235 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Vila Mariana,"Rua Tutóia, 235"
+438,   R$ 6.600 /Mês  ,  4   Quartos  ,"Rua Maranhão, 208 - Higienópolis, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  350   m²  , Higienópolis,"Rua Maranhão, 208"
+439,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Tutóia, 235 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Vila Mariana,"Rua Tutóia, 235"
+440,   R$ 5.200 /Mês    R$ 970.000   ,  5   Quartos  ,"Rua Antônio Aggio - Jardim Ampliação, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  235   m²  , Jardim Ampliação,Rua Antônio Aggio
+441,   R$ 6.000 /Mês    R$ 1.800.000   ,  3   Quartos  ,"Rua Sousa Lopes, 65 - Lauzane Paulista, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  289   m²  , Lauzane Paulista,"Rua Sousa Lopes, 65"
+442,   R$ 4.500 /Mês  ,  5   Quartos  ,"Rua Doutor Chibata Miyakoshi - Paraíso do Morumbi, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  505   m²  , Paraíso do Morumbi,Rua Doutor Chibata Miyakoshi
+443,   R$ 10.000 /Mês    R$ 2.750.000   ,  3   Quartos  ,"Vila Madalena, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  205   m²  , SP,"Vila Madalena, São Paulo"
+444,   R$ 7.500 /Mês    R$ 2.990.000   ,  3   Quartos  ,"Rua Conselheiro Brotero - Santa Cecília, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  300   m²  , Santa Cecília,Rua Conselheiro Brotero
+445,   R$ 8.500 /Mês    R$ 1.280.000   ,  2   Quartos  ,"Avenida Rouxinol, 850 - Indianópolis, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  82   m²  , Indianópolis,"Avenida Rouxinol, 850"
+446,   R$ 25.000 /Mês    R$ 5.650.000   ,  3   Quartos  ,"Rua Domingos Leme - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  357   m²  , Vila Nova Conceição,Rua Domingos Leme
+447,   R$ 22.000 /Mês    R$ 5.950.000   ,  4   Quartos  ,"Rua Padre João Manuel, 50 - Cerqueira César, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  410   m²  , Cerqueira César,"Rua Padre João Manuel, 50"
+448,   R$ 3.000 /Mês  ,  3   Quartos  ,"Avenida Rebouças, 1490 - Pinheiros, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  93   m²  , Pinheiros,"Avenida Rebouças, 1490"
+449,   R$ 17.000 /Mês    R$ 2.400.000   ,  3   Quartos  ,"Vila Regente Feijó, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  339   m²  , SP,"Vila Regente Feijó, São Paulo"
+450,   R$ 7.000 /Mês    R$ 2.650.000   ,  3   Quartos  ,"Jardim Vila Mariana, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  264   m²  , SP,"Jardim Vila Mariana, São Paulo"
+451,   R$ 12.000 /Mês    R$ 3.200.000   ,  4   Quartos  ,"Rua Jesuíno Arruda - Itaim Bibi, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  300   m²  , Itaim Bibi,Rua Jesuíno Arruda
+452,   R$ 65.000 /Mês    R$ 13.000.000   ,  4   Quartos  ,"Planalto Paulista, São Paulo - SP",  7   Banheiros  ,  8   Vagas  ,  583   m²  , SP,"Planalto Paulista, São Paulo"
+453,   R$ 35.000 /Mês    R$ 7.000.000   ,  5   Quartos  ,"Avenida Jamaris - Planalto Paulista, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  400   m²  , Planalto Paulista,Avenida Jamaris
+454,   R$ 16.000 /Mês  ,  2   Quartos  ,"Rua Constantino de Sousa - Campo Belo, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  200   m²  , Campo Belo,Rua Constantino de Sousa
+455,   R$ 10.000 /Mês  ,  3   Quartos  ,"Rua Madalena - Vila Madalena, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  176   m²  , Vila Madalena,Rua Madalena
+456,   R$ 4.500 /Mês    R$ 1.065.000   ,  2   Quartos  ,"Rua Doutor Hélio Fidélis, 26 - Cidade São Francisco, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  144   m²  , Cidade São Francisco,"Rua Doutor Hélio Fidélis, 26"
+457,   R$ 9.300 /Mês    R$ 4.500.000   ,  4   Quartos  ,"Paraíso, São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  474   m²  , SP,"Paraíso, São Paulo"
+458,   R$ 12.000 /Mês    R$ 2.400.000   ,  3   Quartos  ,"Vila Madalena, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  180   m²  , SP,"Vila Madalena, São Paulo"
+459,   R$ 9.000 /Mês    R$ 2.250.000   ,  3   Quartos  ,"Rua Jamanari - Vila Andrade, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  366   m²  , Vila Andrade,Rua Jamanari
+460,   R$ 2.760 /Mês  ,  1   Quarto  ,"Rua Diogo Jácome, 954 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Vila Nova Conceição,"Rua Diogo Jácome, 954"
+461,   R$ 3.500 /Mês  ,  1   Quarto  ,"Rua Bandeira Paulista, 65 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  75   m²  , Itaim Bibi,"Rua Bandeira Paulista, 65"
+462,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua da Consolação, 1515 - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Consolação,"Rua da Consolação, 1515"
+463,   R$ 3.000 /Mês  ,  1   Quarto  ,"Avenida Brigadeiro Faria Lima, 3989 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  29   m²  , Itaim Bibi,"Avenida Brigadeiro Faria Lima, 3989"
+464,   R$ 10.500 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  65   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+465,   R$ 5.900 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+466,   R$ 2.300 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Indianópolis,"Alameda dos Anapurus, 1661"
+467,   R$ 2.794 /Mês  ,  1   Quarto  ,"Alameda dos Aicás, , 392 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Indianópolis,"Alameda dos Aicás, , 392"
+468,   R$ 1.460 /Mês  ,  1   Quarto  ,"Alameda Campinas, 675 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Paulista,"Alameda Campinas, 675"
+469,   R$ 2.100 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Moema,"Avenida Moema, 177"
+470,   R$ 1.880 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Indianópolis,"Alameda dos Anapurus, 1661"
+471,   R$ 1.350 /Mês  ,  1   Quarto  ,"Avenida Rouxinol, 55 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Indianópolis,"Avenida Rouxinol, 55"
+472,   R$ 3.000 /Mês    R$ 320.000   ,  1   Quarto  ,"Rua Doutor Diogo de Faria, 1201 - Vila Clementino, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Vila Clementino,"Rua Doutor Diogo de Faria, 1201"
+473,   R$ 2.700 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  , Moema,"Avenida Moema, 177"
+474,   R$ 550 /Mês  ,  5   Quartos  ,"Rua Ribeiro do Vale, 1458 - Brooklin Paulista, São Paulo - SP",  4   Banheiros  ,  --   Vaga  ,  12   m²  , Brooklin Paulista,"Rua Ribeiro do Vale, 1458"
+475,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Pedroso Alvarenga, 1256 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Itaim Bibi,"Rua Pedroso Alvarenga, 1256"
+476,   R$ 3.300 /Mês  ,  2   Quartos  ,"Alameda Casa Branca, 343 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  88   m²  , Jardim Paulista,"Alameda Casa Branca, 343"
+477,   R$ 1.200 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, , 1661 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Indianópolis,"Alameda dos Anapurus, , 1661"
+478,   R$ 650 /Mês  ,  1   Quarto  ,"Rua Henrique Fausto Lancellotti, , 6334 - Nova Piraju, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  29   m²  , Nova Piraju,"Rua Henrique Fausto Lancellotti, , 6334"
+479,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Pinheiros,"Rua Butantã, 408"
+480,   R$ 2.400 /Mês  ,  2   Quartos  ,"Alameda Franca, 584 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  65   m²  , Jardim Paulista,"Alameda Franca, 584"
+481,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Batista Cepelos, 277 - Paraíso, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  15   m²  , Paraíso,"Rua Batista Cepelos, 277"
+482,   R$ 500 /Mês  ,  1   Quarto  ,"Rua Visconde de Ourem, 210 - Jardim Aeroporto, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  12   m²  , Jardim Aeroporto,"Rua Visconde de Ourem, 210"
+483,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Alvorada, 1009 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  55   m²  , Vila Olímpia,"Rua Alvorada, 1009"
+484,   R$ 1.864 /Mês  ,  1   Quarto  ,"Rua Eleonora Cintra, 960 - Jardim Anália Franco, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Jardim Anália Franco,"Rua Eleonora Cintra, 960"
+485,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Borges Lagoa, 1209 - Vila Clementino, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Vila Clementino,"Rua Borges Lagoa, 1209"
+486,   R$ 3.000 /Mês  ,  1   Quarto  ,"Avenida Armando Ferrentini, 668 - Paraíso, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Paraíso,"Avenida Armando Ferrentini, 668"
+487,   R$ 5.200 /Mês  ,  2   Quartos  ,"Rua Susano, 131 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  83   m²  , Jardim Paulista,"Rua Susano, 131"
+488,   R$ 2.000 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  , Moema,"Avenida Moema, 177"
+489,   R$ 1.320 /Mês  ,  1   Quarto  ,"Rua Vitoantônio Del Vecchio, , 534 - Parque da Mooca, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Parque da Mooca,"Rua Vitoantônio Del Vecchio, , 534"
+490,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Ministro Godói, 1131 / 1133 - Perdizes, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Perdizes,"Rua Ministro Godói, 1131 / 1133"
+491,   R$ 1.260 /Mês  ,  1   Quarto  ,"Rua Pedroso Alvarenga, 543 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Itaim Bibi,"Rua Pedroso Alvarenga, 543"
+492,   R$ 2.510 /Mês  ,  1   Quarto  ,"Avenida Aratãs, 400 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Indianópolis,"Avenida Aratãs, 400"
+493,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Guarará, 58 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  55   m²  , Jardim Paulista,"Rua Guarará, 58"
+494,   R$ 1.600 /Mês    R$ 400.000   ,  1   Quarto  ,"Alameda Campinas, , 675 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Paulista,"Alameda Campinas, , 675"
+495,   R$ 820 /Mês  ,  1   Quarto  ,"Rua Santa Elvira - Parque São Jorge, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Parque São Jorge,Rua Santa Elvira
+496,   R$ 1.600 /Mês  ,  1   Quarto  ,"Rua da Glória - Liberdade, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Liberdade,Rua da Glória
+497,   R$ 1.100 /Mês  ,  1   Quarto  ,"Rua Costa, 41 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Consolação,"Rua Costa, 41"
+498,   R$ 2.200 /Mês  ,  1   Quarto  ,"Rua Saint Hilaire - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Paulista,Rua Saint Hilaire
+499,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Butantã, 405 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  24   m²  , Pinheiros,"Rua Butantã, 405"
+500,   R$ 2.900 /Mês  ,  1   Quarto  ,"Rua Paula Ney, 100 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Vila Mariana,"Rua Paula Ney, 100"
+501,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Fortunato, 291 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Vila Buarque,"Rua Fortunato, 291"
+502,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua da Consolação, 3075 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Cerqueira César,"Rua da Consolação, 3075"
+503,   R$ 2.000 /Mês  ,  --   Quarto  ,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  25   m²  , Pinheiros,"Rua Butantã, 408"
+504,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua São Sebastião, 80 - Vila da Saúde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Vila da Saúde,"Rua São Sebastião, 80"
+505,   R$ 2.150 /Mês  ,  1   Quarto  ,"Rua Bela Cintra - Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  44   m²  , Consolação,Rua Bela Cintra
+506,   R$ 1.850 /Mês  ,  1   Quarto  ,"Rua Tamandaré - Liberdade, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Liberdade,Rua Tamandaré
+507,   R$ 1.000 /Mês  ,  --   Quarto  ,"Avenida São João - Centro, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Centro,Avenida São João
+508,   R$ 1.550 /Mês    R$ 240.000   ,  1   Quarto  ,"Rua Adolfo Reile, 286 - Jardim Celeste, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Celeste,"Rua Adolfo Reile, 286"
+509,   R$ 3.200 /Mês  ,  1   Quarto  ,"Rua Batataes, 38 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Jardim Paulista,"Rua Batataes, 38"
+510,   R$ 2.900 /Mês  ,  --   Quarto  ,"Avenida Rebouças - Pinheiros, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  24   m²  , Pinheiros,Avenida Rebouças
+511,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Doutor Albuquerque Lins, 374 - Santa Cecília, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Santa Cecília,"Rua Doutor Albuquerque Lins, 374"
+512,   R$ 3.400 /Mês  ,  1   Quarto  ,"Rua Cunha Horta, 59 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  36   m²  , Vila Buarque,"Rua Cunha Horta, 59"
+513,   R$ 850 /Mês  ,  1   Quarto  ,"Rua José Piragibe, 12 - Vila Indiana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  15   m²  , Vila Indiana,"Rua José Piragibe, 12"
+514,   R$ 2.600 /Mês  ,  --   Quarto  ,"Rua Paula Ney, 100 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Mariana,"Rua Paula Ney, 100"
+515,   R$ 3.300 /Mês    R$ 500.000   ,  1   Quarto  ,"Rua Alvorada - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  26   m²  , Vila Olímpia,Rua Alvorada
+516,   R$ 1.000 /Mês  ,  1   Quarto  ,"República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , SP,"República, São Paulo"
+517,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Major Sertório, 00 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Buarque,"Rua Major Sertório, 00"
+518,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Frei Duarte Jorge de Mendonça, 67 - Vila Andrade, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Vila Andrade,"Rua Frei Duarte Jorge de Mendonça, 67"
+519,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Aurora, 877 - Santa Efigênia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Santa Efigênia,"Rua Aurora, 877"
+520,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Marie Nader Calfat, 270 - Jardim Ampliação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  31   m²  , Jardim Ampliação,"Rua Marie Nader Calfat, 270"
+521,   R$ 1.670 /Mês  ,  --   Quarto  ,"Santana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , SP,"Santana, São Paulo"
+522,   R$ 2.850 /Mês  ,  1   Quarto  ,"Cidade Monções, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  34   m²  , SP,"Cidade Monções, São Paulo"
+523,   R$ 1.100 /Mês  ,  1   Quarto  ,"Rua Maria Antônia, 384 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Buarque,"Rua Maria Antônia, 384"
+524,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Nestor Pestana, 1001 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Consolação,"Rua Nestor Pestana, 1001"
+525,   R$ 700 /Mês  ,  1   Quarto  ,"Rua Humaitá - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  32   m²  , Bela Vista,Rua Humaitá
+526,   R$ 1.850 /Mês  ,  1   Quarto  ,"Rua Helvétia, 980 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  34   m²  , Campos Elíseos,"Rua Helvétia, 980"
+527,   R$ 950 /Mês  ,  1   Quarto  ,"Rua São Francisco - Sé, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  27   m²  , Sé,Rua São Francisco
+528,   R$ 1.400 /Mês  ,  1   Quarto  ,"Alameda Glete, 1003 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  46   m²  , Campos Elíseos,"Alameda Glete, 1003"
+529,   R$ 1.350 /Mês  ,  1   Quarto  ,"Rua Jaguaribe - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  31   m²  , Vila Buarque,Rua Jaguaribe
+530,   R$ 1.990 /Mês  ,  3   Quartos  ,"Rua Cantagalo, 2103 - Vila Gomes Cardim, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  170   m²  , Vila Gomes Cardim,"Rua Cantagalo, 2103"
+531,   R$ 12.000 /Mês  ,  5   Quartos  ,"Rua Vicente Góes e Aranha, 587 - Vila Tramontano, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  463   m²  , Vila Tramontano,"Rua Vicente Góes e Aranha, 587"
+532,   R$ 5.200 /Mês  ,  4   Quartos  ,"Rua Atuaú, 80 - Pinheiros, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  155   m²  , Pinheiros,"Rua Atuaú, 80"
+533,   R$ 17.000 /Mês  ,  3   Quartos  ,"Rua Gália, 430 - Jardim Everest, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  350   m²  , Jardim Everest,"Rua Gália, 430"
+534,   R$ 7.000 /Mês    R$ 2.150.000   ,  3   Quartos  ,"Rua Eugênia de Carvalho, 1000 - Vila Matilde, São Paulo - SP",  4   Banheiros  ,  10   Vagas  ,  257   m²  , Vila Matilde,"Rua Eugênia de Carvalho, 1000"
+535,   R$ 3.500 /Mês  ,  3   Quartos  ,"Rua Maranduba, 57 - Aclimação, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  150   m²  , Aclimação,"Rua Maranduba, 57"
+536,   R$ 4.800 /Mês  ,  3   Quartos  ,"Rua Elvira Ferraz, 0 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  110   m²  , Vila Olímpia,"Rua Elvira Ferraz, 0"
+537,   R$ 8.000 /Mês    R$ 1.900.000   ,  4   Quartos  ,"Rua Artur Dias - Bosque da Saúde, São Paulo - SP",  4   Banheiros  ,  7   Vagas  ,  609   m²  , Bosque da Saúde,Rua Artur Dias
+538,   R$ 3.000 /Mês    R$ 780.000   ,  3   Quartos  ,"Rua João Elias Calache - Jardim Santo Antoninho, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  125   m²  , Jardim Santo Antoninho,Rua João Elias Calache
+539,   R$ 20.000 /Mês    R$ 3.490.000   ,  3   Quartos  ,"Rua Senador César Lacerda Vergueiro, 222 - Sumarezinho, São Paulo - SP",  2   Banheiros  ,  5   Vagas  ,  248   m²  , Sumarezinho,"Rua Senador César Lacerda Vergueiro, 222"
+540,   R$ 2.500 /Mês    R$ 430.000   ,  3   Quartos  ,"Rua Rishin Matsuda, 268 - Vila Santa Catarina, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  90   m²  , Vila Santa Catarina,"Rua Rishin Matsuda, 268"
+541,   R$ 3.500 /Mês  ,  3   Quartos  ,"Jardim Taquaral, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  220   m²  , SP,"Jardim Taquaral, São Paulo"
+542,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Antônio Toledo Piza - Lapa, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  110   m²  , Lapa,Rua Antônio Toledo Piza
+543,   R$ 4.500 /Mês  ,  3   Quartos  ,"Lapa, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  130   m²  , SP,"Lapa, São Paulo"
+544,   R$ 14.008 /Mês  ,  5   Quartos  ,"Rua Irineu Marinho, 663 - Santo Amaro, São Paulo - SP",  8   Banheiros  ,  6   Vagas  ,  700   m²  , Santo Amaro,"Rua Irineu Marinho, 663"
+545,   R$ 11.000 /Mês    R$ 2.680.000   ,  4   Quartos  ,"Avenida Sílvio Sciumbata, 405 - Interlagos, São Paulo - SP",  7   Banheiros  ,  5   Vagas  ,  945   m²  , Interlagos,"Avenida Sílvio Sciumbata, 405"
+546,   R$ 3.300 /Mês    R$ 850.000   ,  3   Quartos  ,"Rua Huet Bacelar, 219 - Ipiranga, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  125   m²  , Ipiranga,"Rua Huet Bacelar, 219"
+547,   R$ 4.500 /Mês  ,  4   Quartos  ,"Rua Marambaia, 568 - Casa Verde, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  200   m²  , Casa Verde,"Rua Marambaia, 568"
+548,   R$ 5.850 /Mês    R$ 1.295.000   ,  5   Quartos  ,"Rua João de Gênova, 12 - Santo Amaro, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  190   m²  , Santo Amaro,"Rua João de Gênova, 12"
+549,   R$ 11.000 /Mês    R$ 3.600.000   ,  4   Quartos  ,"City América, São Paulo - SP",  4   Banheiros  ,  6   Vagas  ,  500   m²  , SP,"City América, São Paulo"
+550,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Professor Nicolau Maria Rossetti - Vila Império, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  95   m²  , Vila Império,Rua Professor Nicolau Maria Rossetti
+551,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Tobias Barreto, 700 - Mooca, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  70   m²  , Mooca,"Rua Tobias Barreto, 700"
+552,   R$ 5.500 /Mês  ,  4   Quartos  ,"Rua Doutor Franco da Rocha, 703 - Perdizes, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  120   m²  , Perdizes,"Rua Doutor Franco da Rocha, 703"
+553,   R$ 700 /Mês  ,  1   Quarto  ,"Rua Fran Pacheco, 54 - Parque Savoy City, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Parque Savoy City,"Rua Fran Pacheco, 54"
+554,   R$ 6.200 /Mês  ,  3   Quartos  ,"Rua Gomes de Carvalho - Vila Olímpia, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  260   m²  , Vila Olímpia,Rua Gomes de Carvalho
+555,   R$ 10.000 /Mês  ,  4   Quartos  ,"Avenida Itacira - Planalto Paulista, São Paulo - SP",  7   Banheiros  ,  3   Vagas  ,  396   m²  , Planalto Paulista,Avenida Itacira
+556,   R$ 3.500 /Mês  ,  3   Quartos  ,"Rua Napoleão de Barros - Vila Clementino, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  140   m²  , Vila Clementino,Rua Napoleão de Barros
+557,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Mário Augusto do Carmo - Jardim Avelino, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  120   m²  , Jardim Avelino,Rua Mário Augusto do Carmo
+558,   R$ 4.500 /Mês    R$ 750.000   ,  3   Quartos  ,"Rua Professor Antônio Gama de Cerqueira, 393 - Vila Americana, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  280   m²  , Vila Americana,"Rua Professor Antônio Gama de Cerqueira, 393"
+559,   R$ 4.000 /Mês  ,  3   Quartos  ,"Avenida Nhandu - Planalto Paulista, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  135   m²  , Planalto Paulista,Avenida Nhandu
+560,   R$ 9.500 /Mês    R$ 1.980.000   ,  4   Quartos  ,"Rua Ubaíra, 32 - Indianópolis, São Paulo - SP",  2   Banheiros  ,  4   Vagas  ,  200   m²  , Indianópolis,"Rua Ubaíra, 32"
+561,   R$ 2.500 /Mês  ,  3   Quartos  ,"Jaguaré, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  130   m²  , SP,"Jaguaré, São Paulo"
+562,   R$ 5.500 /Mês    R$ 1.850.000   ,  3   Quartos  ,"Rua Capitão Pinto Ferreira, 124 - Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  160   m²  , Jardim Paulista,"Rua Capitão Pinto Ferreira, 124"
+563,   R$ 4.700 /Mês  ,  4   Quartos  ,"Rua do Tatuapé - Maranhão, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  180   m²  , Maranhão,Rua do Tatuapé
+564,   R$ 2.000 /Mês  ,  3   Quartos  ,"Rua Carmelo Adam, , 166 - Vila Libanesa, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  100   m²  , Vila Libanesa,"Rua Carmelo Adam, , 166"
+565,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua Fernandes Pinheiro - Vila Azevedo, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  100   m²  , Vila Azevedo,Rua Fernandes Pinheiro
+566,   R$ 18.000 /Mês    R$ 12.000.000   ,  4   Quartos  ,"Avenida Guarapiranga, 1783 - Praia da Lagoa, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  721   m²  , Praia da Lagoa,"Avenida Guarapiranga, 1783"
+567,   R$ 10.000 /Mês    R$ 3.900.000   ,  3   Quartos  ,"Rua Canuto Borelli - Vila Castelo, São Paulo - SP",  3   Banheiros  ,  8   Vagas  ,  220   m²  , Vila Castelo,Rua Canuto Borelli
+568,   R$ 8.000 /Mês  ,  3   Quartos  ,"Parque Maria Fernandes, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  2000   m²  , SP,"Parque Maria Fernandes, São Paulo"
+569,   R$ 500 /Mês  ,  1   Quarto  ,"Rua José Brito Mendes - Sítio Botuquara, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Sítio Botuquara,Rua José Brito Mendes
+570,   R$ 4.000 /Mês    R$ 450.000   ,  2   Quartos  ,"Rua Benvinda Cândida - Chácara Bosque do Sul, São Paulo - SP",  3   Banheiros  ,  5   Vagas  ,  250   m²  , Chácara Bosque do Sul,Rua Benvinda Cândida
+571,   R$ 5.000 /Mês    R$ 700.000   ,  3   Quartos  ,"Jardim Santa Tereza, São Paulo - SP",  3   Banheiros  ,  15   Vagas  ,  120   m²  , SP,"Jardim Santa Tereza, São Paulo"
+572,   R$ 1.600 /Mês  ,  2   Quartos  ,"Estrada da Ligação - Parque Lagoa Rica, São Paulo - SP",  2   Banheiros  ,  10   Vagas  ,  1900   m²  , Parque Lagoa Rica,Estrada da Ligação
+573,   R$ 5.500 /Mês  ,  2   Quartos  ,"Rua Henrique Hessel - Parelheiros, São Paulo - SP",  3   Banheiros  ,  40   Vagas  ,  400   m²  , Parelheiros,Rua Henrique Hessel
+574,   R$ 7.000 /Mês    R$ 950.000   ,  3   Quartos  ,"Rua Irmã Maria Lourença - Jardim Shangrilá (Zona Sul), São Paulo - SP",  --   Banheiro  ,  30   Vagas  ,  0   m²  , Jardim Shangrilá (Zona Sul),Rua Irmã Maria Lourença
+575,   R$ 11.000 /Mês  ,  3   Quartos  ,"Estrada Engenheiro Marsilac - Parelheiros, São Paulo - SP",  1   Banheiro  ,  10   Vagas  ,  250   m²  , Parelheiros,Estrada Engenheiro Marsilac
+576,   R$ 6.000 /Mês    R$ 1.480.000   ,  8   Quartos  ,"Praia da Lagoa, São Paulo - SP",  2   Banheiros  ,  8   Vagas  ,  1000   m²  , SP,"Praia da Lagoa, São Paulo"
+577,   R$ 14.000 /Mês    R$ 4.500.000   ,  --   Quarto  ,"Jardim Monte Kemel, São Paulo - SP",  --   Banheiro  ,  --   Vaga  ,  750   m²  , SP,"Jardim Monte Kemel, São Paulo"
+578,   R$ 6.000 /Mês    R$ 1.600.000   ,  --   Quarto  ,"Caxingui, São Paulo - SP",  --   Banheiro  ,  --   Vaga  ,  750   m²  , SP,"Caxingui, São Paulo"
+579,   R$ 15.000 /Mês    R$ 3.600.000   ,  --   Quarto  ,"Butantã, São Paulo - SP",  --   Banheiro  ,  --   Vaga  ,  1100   m²  , SP,"Butantã, São Paulo"
+580,   R$ 7.000 /Mês  ,  --   Quarto  ,"Jardim Peri Peri, São Paulo - SP",  --   Banheiro  ,  --   Vaga  ,  300   m²  , SP,"Jardim Peri Peri, São Paulo"
+581,   R$ 6.000 /Mês  ,  --   Quarto  ,"Paulicéia, São Bernardo do Campo - SP",  --   Banheiro  ,  --   Vaga  ,  480   m²  , SP,"Paulicéia, São Bernardo do Campo"
+582,   R$ 11.700 /Mês    R$ 2.900.000   ,  --   Quarto  ,"Rua Ângelo Capricho - Horto Florestal, São Paulo - SP",  4   Banheiros  ,  --   Vaga  ,  1000   m²  , Horto Florestal,Rua Ângelo Capricho
+583,   R$ 5.500 /Mês  ,  --   Quarto  ,"Rua Dona Virgínia - Chácara Vista Alegre, São Paulo - SP",  7   Banheiros  ,  8   Vagas  ,  600   m²  , Chácara Vista Alegre,Rua Dona Virgínia
+584,   R$ 7.000 /Mês  ,  2   Quartos  ,"Jardim Francisco Mendes, São Paulo - SP",  2   Banheiros  ,  20   Vagas  ,  300   m²  , SP,"Jardim Francisco Mendes, São Paulo"
+585,   R$ 64.000 /Mês    R$ 42.500.000   ,  4   Quartos  ,"Jardim Europa, São Paulo - SP",  4   Banheiros  ,  6   Vagas  ,  1250   m²  , SP,"Jardim Europa, São Paulo"
+586,   R$ 5.500 /Mês    R$ 2.500.000   ,  7   Quartos  ,"Alameda dos Guaramomis - Planalto Paulista, São Paulo - SP",  5   Banheiros  ,  --   Vaga  ,  200   m²  , Planalto Paulista,Alameda dos Guaramomis
+587,   R$ 25.000 /Mês    R$ 6.600.000   ,  5   Quartos  ,"Rua Maestro Elias Lobo - Jardim Paulista, São Paulo - SP",  8   Banheiros  ,  4   Vagas  ,  542   m²  , Jardim Paulista,Rua Maestro Elias Lobo
+588,   R$ 15.000 /Mês    R$ 3.500.000   ,  5   Quartos  ,"Fazenda Morumbi, São Paulo - SP",  5   Banheiros  ,  7   Vagas  ,  983   m²  , SP,"Fazenda Morumbi, São Paulo"
+589,   R$ 3.800 /Mês  ,  3   Quartos  ,"Rua Eponina, 67 - Vila Carrão, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  140   m²  , Vila Carrão,"Rua Eponina, 67"
+590,   R$ 7.000 /Mês    R$ 3.500.000   ,  4   Quartos  ,"Alto de Pinheiros, São Paulo - SP",  6   Banheiros  ,  9   Vagas  ,  560   m²  , SP,"Alto de Pinheiros, São Paulo"
+591,   R$ 6.931 /Mês    R$ 1.300.000   ,  4   Quartos  ,"Rua Doutor Cristiano de Sousa - Jardim Leonor, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  341   m²  , Jardim Leonor,Rua Doutor Cristiano de Sousa
+592,   R$ 1.200 /Mês  ,  2   Quartos  ,"Rua Serra de São Domingos - Vila Carmosina, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Vila Carmosina,Rua Serra de São Domingos
+593,   R$ 8.000 /Mês    R$ 3.000.000   ,  5   Quartos  ,"Rua Miralta - Alto de Pinheiros, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  500   m²  , Alto de Pinheiros,Rua Miralta
+594,   R$ 1.300 /Mês  ,  2   Quartos  ,"Rua Cônego José Maria Fernandes - Cidade São Mateus, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Cidade São Mateus,Rua Cônego José Maria Fernandes
+595,   R$ 25.000 /Mês  ,  3   Quartos  ,"Rua Caraça, 50 - Vila Madalena, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  400   m²  , Vila Madalena,"Rua Caraça, 50"
+596,   R$ 16.000 /Mês  ,  4   Quartos  ,"Rua Ziembinski - Alto da Lapa, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  500   m²  , Alto da Lapa,Rua Ziembinski
+597,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Dom Giocondo Grotti, 941 - Parque São Rafael, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  90   m²  , Parque São Rafael,"Rua Dom Giocondo Grotti, 941"
+598,   R$ 6.000 /Mês    R$ 1.390.000   ,  4   Quartos  ,"Rua Juvenal Galeno - Jardim da Saúde, São Paulo - SP",  1   Banheiro  ,  7   Vagas  ,  388   m²  , Jardim da Saúde,Rua Juvenal Galeno
+599,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Jaspe Negro - Alto da Lapa, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  90   m²  , Alto da Lapa,Rua Jaspe Negro
+600,   R$ 4.300 /Mês  ,  3   Quartos  ,"Chácara Monte Alegre, São Paulo - SP",  4   Banheiros  ,  10   Vagas  ,  360   m²  , SP,"Chácara Monte Alegre, São Paulo"
+601,   R$ 1.500 /Mês  ,  2   Quartos  ,"Avenida Leblon - Jardim dos Lagos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Jardim dos Lagos,Avenida Leblon
+602,   R$ 22.000 /Mês  ,  4   Quartos  ,"Rua Maestro Elias Lobo, 241 - Jardim Paulista, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  620   m²  , Jardim Paulista,"Rua Maestro Elias Lobo, 241"
+603,   R$ 3.000 /Mês    R$ 650.000   ,  3   Quartos  ,"Rua Maria Eugênia, 95 - Tatuapé, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  103   m²  , Tatuapé,"Rua Maria Eugênia, 95"
+604,   R$ 1.660 /Mês  ,  2   Quartos  ,"Rua Franco Paolantonio, 45 - Parque Ipê, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  74   m²  , Parque Ipê,"Rua Franco Paolantonio, 45"
+605,   R$ 15.950 /Mês  ,  4   Quartos  ,"Avenida Morumbi, 1600 - Morumbi, São Paulo - SP",  7   Banheiros  ,  4   Vagas  ,  280   m²  , Morumbi,"Avenida Morumbi, 1600"
+606,   R$ 1.650 /Mês  ,  2   Quartos  ,"Rua Aníbal de Matos, 159 - Vila Ema, São Paulo - SP",  4   Banheiros  ,  1   Vaga  ,  125   m²  , Vila Ema,"Rua Aníbal de Matos, 159"
+607,   R$ 2.300 /Mês  ,  2   Quartos  ,"Rua Domingos de Rogatis, 542 - Jardim da Saúde, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  85   m²  , Jardim da Saúde,"Rua Domingos de Rogatis, 542"
+608,   R$ 18.500 /Mês  ,  4   Quartos  ,"Rua Cassiano Ricardo, 118 - Jardim Cordeiro, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  430   m²  , Jardim Cordeiro,"Rua Cassiano Ricardo, 118"
+609,   R$ 15.000 /Mês  ,  6   Quartos  ,"Rua José Morales Lopes, 235 - Jardim dos Estados, São Paulo - SP",  6   Banheiros  ,  10   Vagas  ,  550   m²  , Jardim dos Estados,"Rua José Morales Lopes, 235"
+610,   R$ 55.000 /Mês    R$ 11.000.000   ,  4   Quartos  ,"Avenida Itacira, 152 - Planalto Paulista, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  636   m²  , Planalto Paulista,"Avenida Itacira, 152"
+611,   R$ 2.748 /Mês  ,  3   Quartos  ,"Rua Francisco Danieli, 105 - Jardim Avenida, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  180   m²  , Jardim Avenida,"Rua Francisco Danieli, 105"
+612,   R$ 14.000 /Mês    R$ 3.890.000   ,  4   Quartos  ,"Avenida Comendador Adibo Ares, 90 - Morumbi, São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  434   m²  , Morumbi,"Avenida Comendador Adibo Ares, 90"
+613,   R$ 1.000 /Mês  ,  1   Quarto  ,"Rua Paulo de Avelar, 571 - Vila Dom Pedro II, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Vila Dom Pedro II,"Rua Paulo de Avelar, 571"
+614,   R$ 10.000 /Mês    R$ 2.800.000   ,  4   Quartos  ,"Jardim Panorama, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  479   m²  , SP,"Jardim Panorama, São Paulo"
+615,   R$ 17.000 /Mês    R$ 3.500.000   ,  5   Quartos  ,"Rua Laplace - Brooklin Paulista, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  311   m²  , Brooklin Paulista,Rua Laplace
+616,   R$ 50.000 /Mês    R$ 7.950.000   ,  4   Quartos  ,"Jardim dos Estados, São Paulo - SP",  8   Banheiros  ,  6   Vagas  ,  599   m²  , SP,"Jardim dos Estados, São Paulo"
+617,   R$ 20.000 /Mês    R$ 4.900.000   ,  4   Quartos  ,"Rua Jayme de Almeida Paiva, , 81 - Jardim Vitória Régia, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  542   m²  , Jardim Vitória Régia,"Rua Jayme de Almeida Paiva, , 81"
+618,   R$ 25.000 /Mês  ,  3   Quartos  ,"Alameda Ministro Rocha Azevedo - Cerqueira César, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  240   m²  , Cerqueira César,Alameda Ministro Rocha Azevedo
+619,   R$ 3.000 /Mês    R$ 650.000   ,  3   Quartos  ,"Rua Maria Eugênia, 92 - Tatuapé, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  103   m²  , Tatuapé,"Rua Maria Eugênia, 92"
+620,   R$ 15.000 /Mês    R$ 3.700.000   ,  3   Quartos  ,"Rua Maria da Grá - Alto de Pinheiros, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  389   m²  , Alto de Pinheiros,Rua Maria da Grá
+621,   R$ 6.500 /Mês    R$ 2.100.000   ,  4   Quartos  ,"Santo Amaro, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  345   m²  , SP,"Santo Amaro, São Paulo"
+622,   R$ 30.000 /Mês    R$ 6.000.000   ,  4   Quartos  ,"Rua São Bento do Sul - Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  310   m²  , Alto de Pinheiros,Rua São Bento do Sul
+623,   R$ 90.000 /Mês    R$ 26.000.000   ,  4   Quartos  ,"Avenida Morumbi - Morumbi, São Paulo - SP",  4   Banheiros  ,  10   Vagas  ,  1829   m²  , Morumbi,Avenida Morumbi
+624,   R$ 18.000 /Mês    R$ 6.900.000   ,  4   Quartos  ,"Jardim Cordeiro, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  625   m²  , SP,"Jardim Cordeiro, São Paulo"
+625,   R$ 8.000 /Mês  ,  4   Quartos  ,"Aclimação, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  380   m²  , SP,"Aclimação, São Paulo"
+626,   R$ 35.000 /Mês    R$ 7.500.000   ,  4   Quartos  ,"Rua Miranda Guerra, 572 - Jardim Petrópolis, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  720   m²  , Jardim Petrópolis,"Rua Miranda Guerra, 572"
+627,   R$ 10.000 /Mês  ,  2   Quartos  ,"Rua Sílvio Tramontano, 357 - Vila Tramontano, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  320   m²  , Vila Tramontano,"Rua Sílvio Tramontano, 357"
+628,   R$ 3.500 /Mês  ,  4   Quartos  ,"Rua São Benedito, , 1108 - Santo Amaro, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  254   m²  , Santo Amaro,"Rua São Benedito, , 1108"
+629,   R$ 2.700 /Mês  ,  2   Quartos  ,"Rua Pedro Inácio de Araújo, 250 - Vila São Silvestre, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  105   m²  , Vila São Silvestre,"Rua Pedro Inácio de Araújo, 250"
+630,   R$ 15.000 /Mês    R$ 2.700.000   ,  4   Quartos  ,"Jardim Panorama, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  464   m²  , SP,"Jardim Panorama, São Paulo"
+631,   R$ 4.950 /Mês  ,  2   Quartos  ,"Rua Gomes de Carvalho, 466 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  90   m²  , Vila Olímpia,"Rua Gomes de Carvalho, 466"
+632,   R$ 1.550 /Mês  ,  2   Quartos  ,"Rua Marquês de Maricá - Sacomã, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  55   m²  , Sacomã,Rua Marquês de Maricá
+633,   R$ 23.000 /Mês    R$ 5.000.000   ,  4   Quartos  ,"Rua José Morales Lopes - Jardim dos Estados, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  545   m²  , Jardim dos Estados,Rua José Morales Lopes
+634,   R$ 50.000 /Mês  ,  4   Quartos  ,"Rua Campo Verde - Jardim Europa, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  655   m²  , Jardim Europa,Rua Campo Verde
+635,   R$ 9.000 /Mês  ,  4   Quartos  ,"Rua Tomé Portes, , 555 - Brooklin Paulista, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  455   m²  , Brooklin Paulista,"Rua Tomé Portes, , 555"
+636,   R$ 12.000 /Mês  ,  4   Quartos  ,"Rua São Benedito - Vila Zat, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  360   m²  , Vila Zat,Rua São Benedito
+637,   R$ 5.800 /Mês    R$ 2.300.000   ,  4   Quartos  ,"Avenida Moaci - Planalto Paulista, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  325   m²  , Planalto Paulista,Avenida Moaci
+638,   R$ 3.500 /Mês  ,  3   Quartos  ,"Jardim Marajoara, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  110   m²  , SP,"Jardim Marajoara, São Paulo"
+639,   R$ 3.000 /Mês  ,  2   Quartos  ,"Vila Congonhas, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  77   m²  , SP,"Vila Congonhas, São Paulo"
+640,   R$ 3.500 /Mês  ,  4   Quartos  ,"Rua São Benedito - Santo Amaro, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  254   m²  , Santo Amaro,Rua São Benedito
+641,   R$ 2.800 /Mês  ,  3   Quartos  ,"Rua Simões Pinto - Parque Jabaquara, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  150   m²  , Parque Jabaquara,Rua Simões Pinto
+642,   R$ 7.000 /Mês  ,  4   Quartos  ,"Avenida Moaci - Planalto Paulista, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  400   m²  , Planalto Paulista,Avenida Moaci
+643,   R$ 18.500 /Mês    R$ 3.400.000   ,  4   Quartos  ,"Rua Conde D'Eu, 50 - Santo Amaro, São Paulo - SP",  6   Banheiros  ,  2   Vagas  ,  457   m²  , Santo Amaro,"Rua Conde D'Eu, 50"
+644,   R$ 4.000 /Mês  ,  3   Quartos  ,"Vila Gomes, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  90   m²  , SP,"Vila Gomes, São Paulo"
+645,   R$ 30.000 /Mês    R$ 7.300.000   ,  3   Quartos  ,"Jardim Leonor, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  420   m²  , SP,"Jardim Leonor, São Paulo"
+646,   R$ 10.600 /Mês    R$ 2.500.000   ,  3   Quartos  ,"Brooklin Paulista, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  500   m²  , SP,"Brooklin Paulista, São Paulo"
+647,   R$ 1.500 /Mês  ,  3   Quartos  ,"Rua Doutor Virgílio Machado, 635 - Vila Pierina, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Vila Pierina,"Rua Doutor Virgílio Machado, 635"
+648,   R$ 35.000 /Mês    R$ 9.200.000   ,  3   Quartos  ,"Jardim Europa, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  450   m²  , SP,"Jardim Europa, São Paulo"
+649,   R$ 3.200 /Mês  ,  2   Quartos  ,"Planalto Paulista, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  120   m²  , SP,"Planalto Paulista, São Paulo"
+650,   R$ 8.000 /Mês    R$ 2.500.000   ,  4   Quartos  ,"Rua Tomé Portes - Brooklin, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  253   m²  , Brooklin,Rua Tomé Portes
+651,   R$ 7.000 /Mês    R$ 1.492.000   ,  3   Quartos  ,"Rua Doutor Tirso Martins, 200 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  3   Vagas  ,  218   m²  , Vila Mariana,"Rua Doutor Tirso Martins, 200"
+652,   R$ 65.000 /Mês    R$ 43.000.000   ,  5   Quartos  ,"Rua Hermano Ribeiro da Silva - Vila Mariana, São Paulo - SP",  6   Banheiros  ,  7   Vagas  ,  900   m²  , Vila Mariana,Rua Hermano Ribeiro da Silva
+653,   R$ 8.500 /Mês    R$ 1.899.000   ,  3   Quartos  ,"Rua João Moura - Pinheiros, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  237   m²  , Pinheiros,Rua João Moura
+654,   R$ 19.800 /Mês  ,  3   Quartos  ,"Alameda Ministro Rocha Azevedo - Cerqueira César, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  224   m²  , Cerqueira César,Alameda Ministro Rocha Azevedo
+655,   R$ 13.000 /Mês    R$ 1.900.000   ,  2   Quartos  ,"Avenida Padre Antônio José dos Santos - Cidade Monções, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  120   m²  , Cidade Monções,Avenida Padre Antônio José dos Santos
+656,   R$ 7.000 /Mês  ,  3   Quartos  ,"Rua Ascencional, 172 - Jardim Ampliação, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  230   m²  , Jardim Ampliação,"Rua Ascencional, 172"
+657,   R$ 5.000 /Mês    R$ 1.390.000   ,  3   Quartos  ,"Rua Doutor José de Andrade Figueira - Vila Suzana, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  240   m²  , Vila Suzana,Rua Doutor José de Andrade Figueira
+658,   R$ 14.900 /Mês    R$ 3.500.000   ,  3   Quartos  ,"Avenida Lacerda Franco - Cambuci, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  350   m²  , Cambuci,Avenida Lacerda Franco
+659,   R$ 3.000 /Mês    R$ 2.345.000   ,  4   Quartos  ,"Rua Cayowaá, 1519 - Sumaré, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  342   m²  , Sumaré,"Rua Cayowaá, 1519"
+660,   R$ 6.000 /Mês    R$ 1.150.000   ,  3   Quartos  ,"Jardim Caboré, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  141   m²  , SP,"Jardim Caboré, São Paulo"
+661,   R$ 8.800 /Mês    R$ 3.250.000   ,  4   Quartos  ,"Avenida Jurucê - Indianópolis, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  345   m²  , Indianópolis,Avenida Jurucê
+662,   R$ 15.000 /Mês    R$ 3.200.000   ,  1   Quarto  ,"Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  124   m²  , SP,"Vila Olímpia, São Paulo"
+663,   R$ 12.500 /Mês  ,  3   Quartos  ,"Rua Professor Filadelfo Azevedo, 500 - Vila Nova Conceição, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  160   m²  , Vila Nova Conceição,"Rua Professor Filadelfo Azevedo, 500"
+664,   R$ 15.000 /Mês    R$ 2.950.000   ,  3   Quartos  ,"Rua Edson - Campo Belo, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  264   m²  , Campo Belo,Rua Edson
+665,   R$ 50.000 /Mês    R$ 16.000.000   ,  5   Quartos  ,"Moema, São Paulo - SP",  8   Banheiros  ,  4   Vagas  ,  834   m²  , SP,"Moema, São Paulo"
+666,   R$ 15.000 /Mês    R$ 4.200.000   ,  4   Quartos  ,"Rua Morais de Barros, 770 - Campo Belo, São Paulo - SP",  7   Banheiros  ,  4   Vagas  ,  390   m²  , Campo Belo,"Rua Morais de Barros, 770"
+667,   R$ 7.000 /Mês  ,  4   Quartos  ,"Rua Iperoig - Perdizes, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  300   m²  , Perdizes,Rua Iperoig
+668,   R$ 6.000 /Mês  ,  4   Quartos  ,"Rua Passo da Pátria, 1678 - Bela Aliança, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  222   m²  , Bela Aliança,"Rua Passo da Pátria, 1678"
+669,   R$ 11.000 /Mês    R$ 2.200.000   ,  3   Quartos  ,"Rua José Benedito Viana de Moraes, 265 - Cidade São Francisco, São Paulo - SP",  1   Banheiro  ,  3   Vagas  ,  278   m²  , Cidade São Francisco,"Rua José Benedito Viana de Moraes, 265"
+670,   R$ 8.000 /Mês  ,  2   Quartos  ,"Rua João Moura - Pinheiros, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  190   m²  , Pinheiros,Rua João Moura
+671,   R$ 10.000 /Mês    R$ 2.699.000   ,  3   Quartos  ,"Rua Cayowaá, 1520 - Sumaré, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  210   m²  , Sumaré,"Rua Cayowaá, 1520"
+672,   R$ 2.500 /Mês    R$ 780.000   ,  3   Quartos  ,"Vila da Saúde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  110   m²  , SP,"Vila da Saúde, São Paulo"
+673,   R$ 20.000 /Mês    R$ 3.900.000   ,  3   Quartos  ,"Alameda Jauaperi - Indianópolis, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  324   m²  , Indianópolis,Alameda Jauaperi
+674,   R$ 10.000 /Mês    R$ 1.800.000   ,  4   Quartos  ,"Rua Carlos Weber, 1418 - Vila Leopoldina, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  314   m²  , Vila Leopoldina,"Rua Carlos Weber, 1418"
+675,   R$ 5.500 /Mês    R$ 2.900.000   ,  3   Quartos  ,"Rua Baias - Alto de Pinheiros, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  182   m²  , Alto de Pinheiros,Rua Baias
+676,   R$ 4.000 /Mês    R$ 1.300.000   ,  3   Quartos  ,"Rua Curupá - Vila Formosa, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  340   m²  , Vila Formosa,Rua Curupá
+677,   R$ 3.800 /Mês  ,  2   Quartos  ,"Rua Santa Justina - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  86   m²  , Vila Olímpia,Rua Santa Justina
+678,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Francisco Gouveia - Quarta Parada, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  16   m²  , Quarta Parada,Rua Francisco Gouveia
+679,   R$ 2.300 /Mês  ,  1   Quarto  ,"Avenida Iraí, 530 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Indianópolis,"Avenida Iraí, 530"
+680,   R$ 1.200 /Mês  ,  --   Quarto  ,"Rua Camarajibe, 262 - Barra Funda, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  38   m²  , Barra Funda,"Rua Camarajibe, 262"
+681,   R$ 1.500 /Mês  ,  1   Quarto  ,"Avenida Jabaquara - Mirandópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Mirandópolis,Avenida Jabaquara
+682,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Santa Isabel - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  34   m²  , Vila Buarque,Rua Santa Isabel
+683,   R$ 1.215 /Mês  ,  1   Quarto  ,"Rua Doutor Albuquerque Lins, 268 - Santa Cecília, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  41   m²  , Santa Cecília,"Rua Doutor Albuquerque Lins, 268"
+684,   R$ 1.600 /Mês  ,  --   Quarto  ,"Rua Estela - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Vila Mariana,Rua Estela
+685,   R$ 1.600 /Mês  ,  1   Quarto  ,"Rua da Consolação, 927 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Consolação,"Rua da Consolação, 927"
+686,   R$ 1.600 /Mês  ,  1   Quarto  ,"Rua Santa Isabel - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Vila Buarque,Rua Santa Isabel
+687,   R$ 1.135 /Mês  ,  1   Quarto  ,"Rua José Piragibe, 366 - Vila Indiana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  17   m²  , Vila Indiana,"Rua José Piragibe, 366"
+688,   R$ 1.900 /Mês  ,  1   Quarto  ,"Largo do Arouche, 77 - República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  29   m²  , República,"Largo do Arouche, 77"
+689,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Amaral Gurgel, 468 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Vila Buarque,"Rua Amaral Gurgel, 468"
+690,   R$ 1.670 /Mês  ,  1   Quarto  ,"Avenida Ipiranga, 200 - República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , República,"Avenida Ipiranga, 200"
+691,   R$ 1.500 /Mês  ,  1   Quarto  ,"Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , SP,"Vila Mariana, São Paulo"
+692,   R$ 3.500 /Mês  ,  --   Quarto  ,"Avenida Regente Feijó - Vila Regente Feijó, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  55   m²  , Vila Regente Feijó,Avenida Regente Feijó
+693,   R$ 1.962 /Mês  ,  1   Quarto  ,"Rua Flórida, 1790 - Cidade Monções, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Cidade Monções,"Rua Flórida, 1790"
+694,   R$ 2.200 /Mês  ,  1   Quarto  ,"Avenida Miruna, , 399 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  37   m²  , Indianópolis,"Avenida Miruna, , 399"
+695,   R$ 6.000 /Mês  ,  1   Quarto  ,"Rua Visconde da Luz, 134 - Vila Nova Conceição, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  90   m²  , Vila Nova Conceição,"Rua Visconde da Luz, 134"
+696,   R$ 1.900 /Mês  ,  1   Quarto  ,"Avenida Doutor Cardoso de Melo, 630 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 630"
+697,   R$ 3.250 /Mês  ,  2   Quartos  ,"Rua Engenheiro Armando de Virgiliis, 220 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  60   m²  , Vila Mariana,"Rua Engenheiro Armando de Virgiliis, 220"
+698,   R$ 2.500 /Mês  ,  1   Quarto  ,"Avenida Ibijaú, , 364 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  37   m²  , Moema,"Avenida Ibijaú, , 364"
+699,   R$ 1.800 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Moema,"Avenida Moema, 177"
+700,   R$ 1.300 /Mês    R$ 310.000   ,  1   Quarto  ,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Indianópolis,"Alameda dos Anapurus, 1661"
+701,   R$ 2.450 /Mês  ,  1   Quarto  ,"Avenida Doutor Cardoso de Melo, 630 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 630"
+702,   R$ 950 /Mês    R$ 330.000   ,  1   Quarto  ,"Rua Maranhão, 371 - Higienópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Higienópolis,"Rua Maranhão, 371"
+703,   R$ 1.090 /Mês  ,  1   Quarto  ,"Rua Diogo Moreira, , 247 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  36   m²  , Pinheiros,"Rua Diogo Moreira, , 247"
+704,   R$ 2.746 /Mês  ,  1   Quarto  ,"Rua Guarará - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Jardim Paulista,Rua Guarará
+705,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Nazira Carone, 9 - Jardim Ampliação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Jardim Ampliação,"Rua Nazira Carone, 9"
+706,   R$ 1.670 /Mês  ,  1   Quarto  ,"Rua Pedroso Alvarenga, 1088 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Itaim Bibi,"Rua Pedroso Alvarenga, 1088"
+707,   R$ 1.520 /Mês  ,  1   Quarto  ,"Rua Serra de Juréa, 351 - Cidade Mãe do Céu, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Cidade Mãe do Céu,"Rua Serra de Juréa, 351"
+708,   R$ 1.800 /Mês  ,  1   Quarto  ,"Avenida Jamaris, 100 - Planalto Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  38   m²  , Planalto Paulista,"Avenida Jamaris, 100"
+709,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Frei Caneca, 915 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  41   m²  , Consolação,"Rua Frei Caneca, 915"
+710,   R$ 2.800 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Moema,"Avenida Moema, 177"
+711,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Joaquim Floriano, 209 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Itaim Bibi,"Rua Joaquim Floriano, 209"
+712,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Brás Cardoso, 654 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Nova Conceição,"Rua Brás Cardoso, 654"
+713,   R$ 3.200 /Mês  ,  1   Quarto  ,"Rua Vieira de Morais, 2098 - Campo Belo, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  38   m²  , Campo Belo,"Rua Vieira de Morais, 2098"
+714,   R$ 1.700 /Mês  ,  1   Quarto  ,"Alameda Franca, 584 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Jardim Paulista,"Alameda Franca, 584"
+715,   R$ 3.550 /Mês  ,  2   Quartos  ,"Alameda dos Jurupis, 800 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  70   m²  , Indianópolis,"Alameda dos Jurupis, 800"
+716,   R$ 1.800 /Mês  ,  2   Quartos  ,"Rua Sansão Alves dos Santos, 373 - Cidade Monções, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Cidade Monções,"Rua Sansão Alves dos Santos, 373"
+717,   R$ 1.760 /Mês  ,  1   Quarto  ,"Alameda Lorena, 473 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Jardim Paulista,"Alameda Lorena, 473"
+718,   R$ 2.400 /Mês  ,  1   Quarto  ,"Avenida Cásper Líbero, 501 - Centro, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  26   m²  , Centro,"Avenida Cásper Líbero, 501"
+719,   R$ 1.540 /Mês  ,  1   Quarto  ,"Rua Pintassilgo, , 12 - Vila Uberabinha, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Uberabinha,"Rua Pintassilgo, , 12"
+720,   R$ 1.684 /Mês  ,  1   Quarto  ,"Rua Oscar Freire, , 1948 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Pinheiros,"Rua Oscar Freire, , 1948"
+721,   R$ 3.500 /Mês  ,  1   Quarto  ,"Rua Capote Valente, 500 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Pinheiros,"Rua Capote Valente, 500"
+722,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Cristiano Viana, 463 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Cerqueira César,"Rua Cristiano Viana, 463"
+723,   R$ 3.800 /Mês  ,  1   Quarto  ,"Rua Alvorada, 676 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  26   m²  , Vila Olímpia,"Rua Alvorada, 676"
+724,   R$ 1.330 /Mês  ,  1   Quarto  ,"Avenida Rouxinol, 57 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  25   m²  , Indianópolis,"Avenida Rouxinol, 57"
+725,   R$ 1.800 /Mês  ,  1   Quarto  ,"Alameda Santos, 981 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  29   m²  , Cerqueira César,"Alameda Santos, 981"
+726,   R$ 1.210 /Mês  ,  1   Quarto  ,"Avenida Ibijaú, 368 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  25   m²  , Moema,"Avenida Ibijaú, 368"
+727,   R$ 1.500 /Mês  ,  1   Quarto  ,"Avenida Rouxinol, 174 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Indianópolis,"Avenida Rouxinol, 174"
+728,   R$ 2.820 /Mês  ,  2   Quartos  ,"Rua Alvorada, 1001 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  55   m²  , Vila Olímpia,"Rua Alvorada, 1001"
+729,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Michigan, 531 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  48   m²  , Cidade Monções,"Rua Michigan, 531"
+730,   R$ 1.900 /Mês    R$ 650.000   ,  2   Quartos  ,"Rua Mossâmedes - Vila Santo Estevão, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  85   m²  , Vila Santo Estevão,Rua Mossâmedes
+731,   R$ 3.000 /Mês    R$ 530.000   ,  1   Quarto  ,"Rua Brás Cardoso, 654 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Nova Conceição,"Rua Brás Cardoso, 654"
+732,   R$ 3.200 /Mês  ,  4   Quartos  ,"Avenida Washington Luís, 1527 - Santo Amaro, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  160   m²  , Santo Amaro,"Avenida Washington Luís, 1527"
+733,   R$ 2.800 /Mês  ,  1   Quarto  ,"Rua Monte Aprazível, 109 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Vila Nova Conceição,"Rua Monte Aprazível, 109"
+734,   R$ 6.000 /Mês  ,  2   Quartos  ,"Rua Pedroso Alvarenga, 401 - Itaim Bibi, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  110   m²  , Itaim Bibi,"Rua Pedroso Alvarenga, 401"
+735,   R$ 2.300 /Mês  ,  2   Quartos  ,"Rua Visconde de Inhaúma - Vila da Saúde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Vila da Saúde,Rua Visconde de Inhaúma
+736,   R$ 3.600 /Mês  ,  2   Quartos  ,"Rua Santo Arcádio, 43 - Jardim das Acácias, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  64   m²  , Jardim das Acácias,"Rua Santo Arcádio, 43"
+737,   R$ 2.900 /Mês  ,  1   Quarto  ,"Rua Barata Ribeiro, 360 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Bela Vista,"Rua Barata Ribeiro, 360"
+738,   R$ 8.000 /Mês  ,  2   Quartos  ,"Alameda Jauaperi, 1467 - Moema, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  287   m²  , Moema,"Alameda Jauaperi, 1467"
+739,   R$ 2.000 /Mês  ,  1   Quarto  ,"Rua Tupi - Santa Cecília, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Santa Cecília,Rua Tupi
+740,   R$ 3.600 /Mês  ,  2   Quartos  ,"Rua do Rocio, 59 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Vila Olímpia,"Rua do Rocio, 59"
+741,   R$ 3.000 /Mês  ,  4   Quartos  ,"Rua Armando D'Almeida - Jardim Rizzo, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  150   m²  , Jardim Rizzo,Rua Armando D'Almeida
+742,   R$ 13.000 /Mês    R$ 2.900.000   ,  3   Quartos  ,"Rua Barão de Jaceguai - Campo Belo, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  350   m²  , Campo Belo,Rua Barão de Jaceguai
+743,   R$ 1.650 /Mês  ,  2   Quartos  ,"Vila Prado, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  80   m²  , SP,"Vila Prado, São Paulo"
+744,   R$ 2.100 /Mês  ,  2   Quartos  ,"Rua Cesário Ramalho, , 765 - Cambuci, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  100   m²  , Cambuci,"Rua Cesário Ramalho, , 765"
+745,   R$ 6.500 /Mês    R$ 2.600.000   ,  6   Quartos  ,"Rua Doutor Manuel Carlos de Figueiredo Ferraz, , 185 - Jardim Morumbi, São Paulo - SP",  4   Banheiros  ,  7   Vagas  ,  450   m²  , Jardim Morumbi,"Rua Doutor Manuel Carlos de Figueiredo Ferraz, , 185"
+746,   R$ 2.000 /Mês    R$ 530.000   ,  2   Quartos  ,"Rua Aldino - Chácara Belenzinho, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  100   m²  , Chácara Belenzinho,Rua Aldino
+747,   R$ 2.900 /Mês    R$ 850.000   ,  3   Quartos  ,"Rua Rubiácea, 236 - Água Fria, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  300   m²  , Água Fria,"Rua Rubiácea, 236"
+748,   R$ 14.999 /Mês  ,  4   Quartos  ,"Rua Coronel Irlandino Sandoval - Jardim Paulistano, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  470   m²  , Jardim Paulistano,Rua Coronel Irlandino Sandoval
+749,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Baronesa de Bela Vista, 88 - Vila Congonhas, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  140   m²  , Vila Congonhas,"Rua Baronesa de Bela Vista, 88"
+750,   R$ 5.000 /Mês    R$ 2.500.000   ,  3   Quartos  ,"Rua Tauari, , 79 - Santo Amaro, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  215   m²  , Santo Amaro,"Rua Tauari, , 79"
+751,   R$ 4.000 /Mês  ,  4   Quartos  ,"Rua Aramis Dalla Torre - Jardim Represa, São Paulo - SP",  5   Banheiros  ,  7   Vagas  ,  300   m²  , Jardim Represa,Rua Aramis Dalla Torre
+752,   R$ 2.500 /Mês  ,  3   Quartos  ,"Rua Ribeirão Bonito, 576 - Vila Moinho Velho, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  156   m²  , Vila Moinho Velho,"Rua Ribeirão Bonito, 576"
+753,   R$ 3.000 /Mês  ,  2   Quartos  ,"Rua Caiubi - Perdizes, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  82   m²  , Perdizes,Rua Caiubi
+754,   R$ 5.000 /Mês    R$ 1.400.000   ,  3   Quartos  ,"Rua Nicolau Barreto - Vila Cordeiro, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  160   m²  , Vila Cordeiro,Rua Nicolau Barreto
+755,   R$ 1.500 /Mês    R$ 380.000   ,  4   Quartos  ,"Rua Acácio de Paula Leite Sampaio, 67 - Jardim Tietê, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  213   m²  , Jardim Tietê,"Rua Acácio de Paula Leite Sampaio, 67"
+756,   R$ 1.680 /Mês  ,  2   Quartos  ,"Rua Augusto Farina, , 271 - Jardim Bonfiglioli, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  75   m²  , Jardim Bonfiglioli,"Rua Augusto Farina, , 271"
+757,   R$ 4.000 /Mês  ,  4   Quartos  ,"Avenida Cangaíba, 0 - Cangaíba, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  200   m²  , Cangaíba,"Avenida Cangaíba, 0"
+758,   R$ 3.300 /Mês  ,  3   Quartos  ,"Rua Dentista Barreto, 0 - Vila Carrão, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  173   m²  , Vila Carrão,"Rua Dentista Barreto, 0"
+759,   R$ 7.000 /Mês    R$ 1.080.000   ,  3   Quartos  ,"Rua Sônia Ribeiro, , 218 - Campo Belo, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  127   m²  , Campo Belo,"Rua Sônia Ribeiro, , 218"
+760,   R$ 2.700 /Mês  ,  3   Quartos  ,"Praça Florence Nightingale - Jardim da Glória, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  260   m²  , Jardim da Glória,Praça Florence Nightingale
+761,   R$ 5.000 /Mês  ,  2   Quartos  ,"Avenida Doutor Cardoso de Melo, 1046 - Vila Olímpia, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  81   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 1046"
+762,   R$ 1.755 /Mês  ,  1   Quarto  ,"Rua Doutor Nicolau de Sousa Queirós, 491 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  34   m²  , Vila Mariana,"Rua Doutor Nicolau de Sousa Queirós, 491"
+763,   R$ 1.650 /Mês  ,  3   Quartos  ,"Avenida Giovanni Gronchi, 6675 - Vila Andrade, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  65   m²  , Vila Andrade,"Avenida Giovanni Gronchi, 6675"
+764,   R$ 9.500 /Mês  ,  3   Quartos  ,"Rua Verbo Divino, 1061 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  186   m²  , Chácara Santo Antônio (Zona Sul),"Rua Verbo Divino, 1061"
+765,   R$ 3.380 /Mês  ,  1   Quarto  ,"Rua Pamplona, 935 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  58   m²  , Jardim Paulista,"Rua Pamplona, 935"
+766,   R$ 2.250 /Mês  ,  1   Quarto  ,"Rua Cardoso de Almeida, 840 - Perdizes, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  36   m²  , Perdizes,"Rua Cardoso de Almeida, 840"
+767,   R$ 12.000 /Mês  ,  4   Quartos  ,"Rua Almeida Torres, 119 - Aclimação, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  171   m²  , Aclimação,"Rua Almeida Torres, 119"
+768,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua São Tomé, 73 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Vila Olímpia,"Rua São Tomé, 73"
+769,   R$ 6.000 /Mês    R$ 2.300.000   ,  3   Quartos  ,"Rua Doutor Gabriel dos Santos - Santa Cecília, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  270   m²  , Santa Cecília,Rua Doutor Gabriel dos Santos
+770,   R$ 3.820 /Mês  ,  3   Quartos  ,"Vila Regente Feijó, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  95   m²  , SP,"Vila Regente Feijó, São Paulo"
+771,   R$ 2.850 /Mês  ,  2   Quartos  ,"Praça General Gentil Falcão, 175 - Cidade Monções, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Cidade Monções,"Praça General Gentil Falcão, 175"
+772,   R$ 5.100 /Mês  ,  2   Quartos  ,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  163   m²  , Cerqueira César,"Rua Lisboa, 159"
+773,   R$ 4.000 /Mês  ,  2   Quartos  ,"Rua Oscar Freire, 1456 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  82   m²  , Pinheiros,"Rua Oscar Freire, 1456"
+774,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Dario Ferreira Martins - Jardim Santo Elias (São Miguel), São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Jardim Santo Elias (São Miguel),Rua Dario Ferreira Martins
+775,   R$ 2.500 /Mês  ,  3   Quartos  ,"Avenida Piassanguaba, 2514 - Planalto Paulista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  120   m²  , Planalto Paulista,"Avenida Piassanguaba, 2514"
+776,   R$ 10.000 /Mês    R$ 1.850.000   ,  4   Quartos  ,"Vila Progredior, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  532   m²  , SP,"Vila Progredior, São Paulo"
+777,   R$ 100.000 /Mês  ,  4   Quartos  ,"Jardim América, São Paulo - SP",  6   Banheiros  ,  8   Vagas  ,  700   m²  , SP,"Jardim América, São Paulo"
+778,   R$ 12.000 /Mês    R$ 2.500.000   ,  4   Quartos  ,"Rua João Álvares Correia, 55 - Jardim Vila Mariana, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  297   m²  , Jardim Vila Mariana,"Rua João Álvares Correia, 55"
+779,   R$ 23.000 /Mês    R$ 10.100.000   ,  4   Quartos  ,"Chácara Flora, São Paulo - SP",  5   Banheiros  ,  10   Vagas  ,  759   m²  , SP,"Chácara Flora, São Paulo"
+780,   R$ 10.000 /Mês    R$ 2.700.000   ,  3   Quartos  ,"Morumbi, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  540   m²  , SP,"Morumbi, São Paulo"
+781,   R$ 22.000 /Mês    R$ 5.200.000   ,  3   Quartos  ,"Rua das Barcas, 750 - Jardim dos Estados, São Paulo - SP",  8   Banheiros  ,  6   Vagas  ,  739   m²  , Jardim dos Estados,"Rua das Barcas, 750"
+782,   R$ 16.000 /Mês    R$ 3.300.000   ,  4   Quartos  ,"Rua Diogo Pereira, , 1 - Super Quadra Morumbi, São Paulo - SP",  5   Banheiros  ,  10   Vagas  ,  761   m²  , Super Quadra Morumbi,"Rua Diogo Pereira, , 1"
+783,   R$ 10.000 /Mês    R$ 2.710.000   ,  4   Quartos  ,"Rua Doutor Barros Cruz - Vila Mariana, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  295   m²  , Vila Mariana,Rua Doutor Barros Cruz
+784,   R$ 10.000 /Mês    R$ 2.000.000   ,  6   Quartos  ,"Rua Guararapes, 1234 - Brooklin Paulista, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  300   m²  , Brooklin Paulista,"Rua Guararapes, 1234"
+785,   R$ 1.650 /Mês  ,  2   Quartos  ,"Estrada do Jaguaré, 0 - Jardim Jussara, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  70   m²  , Jardim Jussara,"Estrada do Jaguaré, 0"
+786,   R$ 2.100 /Mês  ,  2   Quartos  ,"Vila Tiradentes, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  110   m²  , SP,"Vila Tiradentes, São Paulo"
+787,   R$ 15.300 /Mês    R$ 5.000.000   ,  5   Quartos  ,"Avenida Doutor Alberto Penteado - Jardim Sílvia (Zona Oeste), São Paulo - SP",  6   Banheiros  ,  8   Vagas  ,  350   m²  , Jardim Sílvia (Zona Oeste),Avenida Doutor Alberto Penteado
+788,   R$ 7.000 /Mês  ,  3   Quartos  ,"Rua Darwin - Jardim Santo Amaro, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  244   m²  , Jardim Santo Amaro,Rua Darwin
+789,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Artur de Azevedo - Pinheiros, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  235   m²  , Pinheiros,Rua Artur de Azevedo
+790,   R$ 29.000 /Mês    R$ 8.500.000   ,  4   Quartos  ,"Rua Stefan Marek Neuding - Jardim Sílvia (Zona Oeste), São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  930   m²  , Jardim Sílvia (Zona Oeste),Rua Stefan Marek Neuding
+791,   R$ 25.000 /Mês    R$ 4.500.000   ,  4   Quartos  ,"Rua Sônia Ribeiro - Brooklin Paulista, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  600   m²  , Brooklin Paulista,Rua Sônia Ribeiro
+792,   R$ 6.500 /Mês  ,  4   Quartos  ,"Rua Visconde de Porto Seguro - Jardim Cordeiro, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  260   m²  , Jardim Cordeiro,Rua Visconde de Porto Seguro
+793,   R$ 1.350 /Mês  ,  2   Quartos  ,"Rua Refinaria Mataripe - Vila Antonieta, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Vila Antonieta,Rua Refinaria Mataripe
+794,   R$ 5.300 /Mês    R$ 1.900.000   ,  4   Quartos  ,"Avenida Moaci - Planalto Paulista, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  262   m²  , Planalto Paulista,Avenida Moaci
+795,   R$ 4.000 /Mês  ,  2   Quartos  ,"Rua Casa do Ator - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  165   m²  , Vila Olímpia,Rua Casa do Ator
+796,   R$ 7.000 /Mês    R$ 1.700.000   ,  3   Quartos  ,"Rua Pedro Pomponazzi - Jardim Vila Mariana, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  193   m²  , Jardim Vila Mariana,Rua Pedro Pomponazzi
+797,   R$ 20.000 /Mês  ,  4   Quartos  ,"Paraíso, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  300   m²  , SP,"Paraíso, São Paulo"
+798,   R$ 5.000 /Mês    R$ 1.390.000   ,  3   Quartos  ,"Rua Doutor José de Andrade Figueira, , 374 - Vila Suzana, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  223   m²  , Vila Suzana,"Rua Doutor José de Andrade Figueira, , 374"
+799,   R$ 13.500 /Mês    R$ 3.199.000   ,  3   Quartos  ,"Rua Simpatia - Jardim das Bandeiras, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  256   m²  , Jardim das Bandeiras,Rua Simpatia
+800,   R$ 30.000 /Mês    R$ 6.000.000   ,  4   Quartos  ,"Avenida Aratãs - Indianópolis, São Paulo - SP",  7   Banheiros  ,  5   Vagas  ,  490   m²  , Indianópolis,Avenida Aratãs
+801,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Paim, 211 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  24   m²  , Bela Vista,"Rua Paim, 211"
+802,   R$ 25.000 /Mês  ,  3   Quartos  ,"Alto de Pinheiros, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  380   m²  , SP,"Alto de Pinheiros, São Paulo"
+803,   R$ 35.000 /Mês    R$ 7.490.000   ,  5   Quartos  ,"Itaim Bibi, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  458   m²  , SP,"Itaim Bibi, São Paulo"
+804,   R$ 3.706 /Mês    R$ 480.000   ,  2   Quartos  ,"Rua Santa Justina, 210 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Vila Olímpia,"Rua Santa Justina, 210"
+805,   R$ 1.620 /Mês  ,  1   Quarto  ,"Avenida Rouxinol, 77 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  44   m²  , Indianópolis,"Avenida Rouxinol, 77"
+806,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Butantã, 408 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Pinheiros,"Rua Butantã, 408"
+807,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Verbo Divino, 1323 - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Chácara Santo Antônio (Zona Sul),"Rua Verbo Divino, 1323"
+808,   R$ 3.160 /Mês  ,  2   Quartos  ,"Avenida dos Imarés, 317 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  57   m²  , Indianópolis,"Avenida dos Imarés, 317"
+809,   R$ 970 /Mês  ,  1   Quarto  ,"Rua Araguari, 711 - Vila Uberabinha, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Vila Uberabinha,"Rua Araguari, 711"
+810,   R$ 1.000 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, 1661 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Indianópolis,"Alameda dos Anapurus, 1661"
+811,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua José Maria Lisboa, , 555 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  23   m²  , Jardim Paulista,"Rua José Maria Lisboa, , 555"
+812,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua Maranhão, 371 - Higienópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Higienópolis,"Rua Maranhão, 371"
+813,   R$ 3.400 /Mês  ,  1   Quarto  ,"Rua João Cachoeira, , 1577 - Vila Nova Conceição, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Vila Nova Conceição,"Rua João Cachoeira, , 1577"
+814,   R$ 1.200 /Mês  ,  1   Quarto  ,"Avenida Duque de Caxias, 525 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  29   m²  , Campos Elíseos,"Avenida Duque de Caxias, 525"
+815,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Carolina Soares, 269 - Vila Diva (Zona Norte), São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Vila Diva (Zona Norte),"Rua Carolina Soares, 269"
+816,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Casa do Ator, 99 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Vila Olímpia,"Rua Casa do Ator, 99"
+817,   R$ 1.500 /Mês  ,  --   Quarto  ,"Rua Dona Veridiana, 77 - Higienópolis, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  47   m²  , Higienópolis,"Rua Dona Veridiana, 77"
+818,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Marquês de Itu - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Vila Buarque,Rua Marquês de Itu
+819,   R$ 1.150 /Mês  ,  --   Quarto  ,"Avenida General Olímpio da Silveira, 196 - Santa Cecília, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , Santa Cecília,"Avenida General Olímpio da Silveira, 196"
+820,   R$ 1.250 /Mês  ,  1   Quarto  ,"Rua Frei Caneca - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  36   m²  , Consolação,Rua Frei Caneca
+821,   R$ 1.350 /Mês  ,  1   Quarto  ,"Rua Frei Caneca - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Consolação,Rua Frei Caneca
+822,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Maria Antônia - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Vila Buarque,Rua Maria Antônia
+823,   R$ 2.500 /Mês    R$ 490.000   ,  1   Quarto  ,"Avenida Doutor Cardoso de Melo - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Vila Olímpia,Avenida Doutor Cardoso de Melo
+824,   R$ 850 /Mês  ,  1   Quarto  ,"Rua Solano Pereira - Vila Primavera, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Vila Primavera,Rua Solano Pereira
+825,   R$ 3.200 /Mês  ,  1   Quarto  ,"Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , SP,"Pinheiros, São Paulo"
+826,   R$ 1.600 /Mês  ,  --   Quarto  ,"Rua Rego Freitas, 354 - República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , República,"Rua Rego Freitas, 354"
+827,   R$ 1.000 /Mês  ,  1   Quarto  ,"Alameda Barão de Limeira, 1162 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Campos Elíseos,"Alameda Barão de Limeira, 1162"
+828,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Cônego Eugênio Leite - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Cerqueira César,Rua Cônego Eugênio Leite
+829,   R$ 2.200 /Mês  ,  3   Quartos  ,"Rua Domingos de Morais, 1716 - Vila Mariana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Vila Mariana,"Rua Domingos de Morais, 1716"
+830,   R$ 4.800 /Mês  ,  2   Quartos  ,"Rua Lisboa, 159 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  163   m²  , Cerqueira César,"Rua Lisboa, 159"
+831,   R$ 2.600 /Mês  ,  1   Quarto  ,"Avenida Doutor Cardoso de Melo, 426 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Vila Olímpia,"Avenida Doutor Cardoso de Melo, 426"
+832,   R$ 2.600 /Mês  ,  2   Quartos  ,"Rua Santo Arcádio, 43 - Jardim das Acácias, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  64   m²  , Jardim das Acácias,"Rua Santo Arcádio, 43"
+833,   R$ 900 /Mês  ,  2   Quartos  ,"Rua das Perobeiras - Chácara Santa Maria, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Chácara Santa Maria,Rua das Perobeiras
+834,   R$ 2.680 /Mês  ,  1   Quarto  ,"Rua Doutor Renato Paes de Barros, 550 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  54   m²  , Itaim Bibi,"Rua Doutor Renato Paes de Barros, 550"
+835,   R$ 1.900 /Mês  ,  3   Quartos  ,"Rua Apeninos - Aclimação, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  85   m²  , Aclimação,Rua Apeninos
+836,   R$ 3.300 /Mês  ,  2   Quartos  ,"Avenida São João, 97 - Centro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Centro,"Avenida São João, 97"
+837,   R$ 6.650 /Mês  ,  2   Quartos  ,"Rua Delfina - Vila Madalena, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  83   m²  , Vila Madalena,Rua Delfina
+838,   R$ 2.100 /Mês  ,  1   Quarto  ,"Rua Guararapes, 265 - Brooklin Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Brooklin Paulista,"Rua Guararapes, 265"
+839,   R$ 12.000 /Mês    R$ 2.400.000   ,  4   Quartos  ,"Rua Luiz Martins de Araújo - Jardim dos Estados, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  340   m²  , Jardim dos Estados,Rua Luiz Martins de Araújo
+840,   R$ 2.200 /Mês  ,  3   Quartos  ,"Rua Santa Cruz, 2089 - Vila Mariana, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  90   m²  , Vila Mariana,"Rua Santa Cruz, 2089"
+841,   R$ 8.900 /Mês  ,  4   Quartos  ,"Rua Conceição de Monte Alegre - Cidade Monções, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  370   m²  , Cidade Monções,Rua Conceição de Monte Alegre
+842,   R$ 80.000 /Mês    R$ 25.000.000   ,  5   Quartos  ,"Rua Groenlândia - Jardim América, São Paulo - SP",  4   Banheiros  ,  6   Vagas  ,  750   m²  , Jardim América,Rua Groenlândia
+843,   R$ 12.000 /Mês    R$ 3.900.000   ,  2   Quartos  ,"Jardim Paulistano, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  230   m²  , SP,"Jardim Paulistano, São Paulo"
+844,   R$ 30.000 /Mês    R$ 6.500.000   ,  3   Quartos  ,"Rua Guararapes - Lapa, São Paulo - SP",  5   Banheiros  ,  8   Vagas  ,  515   m²  , Lapa,Rua Guararapes
+845,   R$ 10.000 /Mês    R$ 3.600.050   ,  4   Quartos  ,"Rua Alvarenga - Butantã, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  400   m²  , Butantã,Rua Alvarenga
+846,   R$ 4.500 /Mês    R$ 825.000   ,  3   Quartos  ,"Rua Otávio Tarquínio de Sousa, 606 - Campo Belo, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  160   m²  , Campo Belo,"Rua Otávio Tarquínio de Sousa, 606"
+847,   R$ 30.000 /Mês    R$ 5.000.000   ,  4   Quartos  ,"Jardim Guedala, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  431   m²  , SP,"Jardim Guedala, São Paulo"
+848,   R$ 25.000 /Mês    R$ 5.500.000   ,  4   Quartos  ,"Rua Major Newton de Feliciano - Jardim Aurélia, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  480   m²  , Jardim Aurélia,Rua Major Newton de Feliciano
+849,   R$ 1.350 /Mês  ,  2   Quartos  ,"Rua Alfredo Pardini - Jardim Yara, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Jardim Yara,Rua Alfredo Pardini
+850,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Lino Coutinho - Ipiranga, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Ipiranga,Rua Lino Coutinho
+851,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Cipó da Mata, 34 - Mooca, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  70   m²  , Mooca,"Rua Cipó da Mata, 34"
+852,   R$ 1.590 /Mês  ,  2   Quartos  ,"Rua Franco Paolantonio, 45 - Parque Ipê, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  74   m²  , Parque Ipê,"Rua Franco Paolantonio, 45"
+853,   R$ 30.000 /Mês    R$ 9.800.000   ,  4   Quartos  ,"Rua Heitor Portugal - Retiro Morumbi, São Paulo - SP",  6   Banheiros  ,  10   Vagas  ,  1000   m²  , Retiro Morumbi,Rua Heitor Portugal
+854,   R$ 10.000 /Mês    R$ 4.000.000   ,  4   Quartos  ,"Rua Américo Brasiliense - Chácara Santo Antônio (Zona Sul), São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  500   m²  , Chácara Santo Antônio (Zona Sul),Rua Américo Brasiliense
+855,   R$ 23.000 /Mês    R$ 4.900.000   ,  4   Quartos  ,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",  5   Banheiros  ,  8   Vagas  ,  501   m²  , Jardim Petrópolis,Rua Miranda Guerra
+856,   R$ 36.893 /Mês    R$ 7.500.000   ,  4   Quartos  ,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  720   m²  , Jardim Petrópolis,Rua Miranda Guerra
+857,   R$ 4.800 /Mês  ,  3   Quartos  ,"Sumaré, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  180   m²  , SP,"Sumaré, São Paulo"
+858,   R$ 1.500 /Mês    R$ 240.000   ,  2   Quartos  ,"Rua Abelardo Luz - Itaquera, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Itaquera,Rua Abelardo Luz
+859,   R$ 20.000 /Mês    R$ 6.900.000   ,  4   Quartos  ,"Rua Heron Domingues - Jardim Cordeiro, São Paulo - SP",  8   Banheiros  ,  8   Vagas  ,  625   m²  , Jardim Cordeiro,Rua Heron Domingues
+860,   R$ 1.050 /Mês  ,  1   Quarto  ,"Rua Manuel de Teffé, 348 - Jardim Satélite, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Satélite,"Rua Manuel de Teffé, 348"
+861,   R$ 3.500 /Mês  ,  2   Quartos  ,"Sumaré, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  280   m²  , SP,"Sumaré, São Paulo"
+862,   R$ 3.500 /Mês  ,  3   Quartos  ,"Rua dos Beija-Flores, 195 - Vila Parque Jabaquara, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  224   m²  , Vila Parque Jabaquara,"Rua dos Beija-Flores, 195"
+863,   R$ 20.000 /Mês    R$ 6.900.000   ,  4   Quartos  ,"Jardim Cordeiro, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  625   m²  , SP,"Jardim Cordeiro, São Paulo"
+864,   R$ 6.000 /Mês    R$ 800.000   ,  3   Quartos  ,"Rua Doutor Mário Vicente - Vila Dom Pedro I, São Paulo - SP",  3   Banheiros  ,  5   Vagas  ,  195   m²  , Vila Dom Pedro I,Rua Doutor Mário Vicente
+865,   R$ 70.000 /Mês    R$ 14.800.000   ,  4   Quartos  ,"Planalto Paulista, São Paulo - SP",  6   Banheiros  ,  8   Vagas  ,  780   m²  , SP,"Planalto Paulista, São Paulo"
+866,   R$ 25.000 /Mês    R$ 4.350.000   ,  4   Quartos  ,"Rua Zacarias de Gois - Parque Colonial, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  565   m²  , Parque Colonial,Rua Zacarias de Gois
+867,   R$ 35.000 /Mês    R$ 5.500.000   ,  4   Quartos  ,"Chácara Santo Antônio (Zona Sul), São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  420   m²  , SP,"Chácara Santo Antônio (Zona Sul), São Paulo"
+868,   R$ 55.000 /Mês  ,  4   Quartos  ,"Vila Morumbi, São Paulo - SP",  7   Banheiros  ,  10   Vagas  ,  711   m²  , SP,"Vila Morumbi, São Paulo"
+869,   R$ 10.500 /Mês    R$ 2.100.000   ,  3   Quartos  ,"Jardim Paulista, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  148   m²  , SP,"Jardim Paulista, São Paulo"
+870,   R$ 15.000 /Mês    R$ 3.500.000   ,  4   Quartos  ,"Rua Antônio Carlos Salles Filho - Residencial Morumbi, São Paulo - SP",  6   Banheiros  ,  3   Vagas  ,  411   m²  , Residencial Morumbi,Rua Antônio Carlos Salles Filho
+871,   R$ 30.000 /Mês    R$ 6.500.000   ,  4   Quartos  ,"Rua São Bento do Sul - Alto de Pinheiros, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  310   m²  , Alto de Pinheiros,Rua São Bento do Sul
+872,   R$ 6.000 /Mês  ,  4   Quartos  ,"Avenida Moaci - Planalto Paulista, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  170   m²  , Planalto Paulista,Avenida Moaci
+873,   R$ 10.500 /Mês  ,  3   Quartos  ,"Água Branca, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  300   m²  , SP,"Água Branca, São Paulo"
+874,   R$ 22.000 /Mês    R$ 5.400.000   ,  3   Quartos  ,"Jardim dos Estados, São Paulo - SP",  8   Banheiros  ,  5   Vagas  ,  740   m²  , SP,"Jardim dos Estados, São Paulo"
+875,   R$ 1.700 /Mês  ,  2   Quartos  ,"Rua Serra de Juquiá - Jardim Lajeado, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Jardim Lajeado,Rua Serra de Juquiá
+876,   R$ 2.300 /Mês  ,  2   Quartos  ,"Rua Professor Picarolo - Bela Vista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  53   m²  , Bela Vista,Rua Professor Picarolo
+877,   R$ 30.000 /Mês    R$ 6.300.000   ,  8   Quartos  ,"Rua Azevedo Soares, 1826 - Vila Gomes Cardim, São Paulo - SP",  10   Banheiros  ,  7   Vagas  ,  500   m²  , Vila Gomes Cardim,"Rua Azevedo Soares, 1826"
+878,   R$ 13.000 /Mês    R$ 2.900.000   ,  3   Quartos  ,"Rua Manuel Guedes, 536 - Jardim Europa, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  227   m²  , Jardim Europa,"Rua Manuel Guedes, 536"
+879,   R$ 13.500 /Mês    R$ 2.980.000   ,  4   Quartos  ,"Avenida Portugal, 277 - Brooklin Paulista, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  255   m²  , Brooklin Paulista,"Avenida Portugal, 277"
+880,   R$ 25.103 /Mês    R$ 4.500.000   ,  3   Quartos  ,"Indianópolis, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  210   m²  , SP,"Indianópolis, São Paulo"
+881,   R$ 20.000 /Mês    R$ 15.000.000   ,  4   Quartos  ,"Rua Romilda Margarita Gabriel - Itaim Bibi, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  500   m²  , Itaim Bibi,Rua Romilda Margarita Gabriel
+882,   R$ 20.000 /Mês    R$ 3.900.000   ,  3   Quartos  ,"Alameda Jauaperi, 50 - Indianópolis, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  324   m²  , Indianópolis,"Alameda Jauaperi, 50"
+883,   R$ 6.500 /Mês  ,  4   Quartos  ,"Rua Sacadura Cabral, 220 - Lapa, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  250   m²  , Lapa,"Rua Sacadura Cabral, 220"
+884,   R$ 16.000 /Mês    R$ 4.100.000   ,  4   Quartos  ,"Avenida Angélica - Santa Cecília, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  382   m²  , Santa Cecília,Avenida Angélica
+885,   R$ 8.000 /Mês    R$ 1.950.000   ,  3   Quartos  ,"Rua João Anes, 144 - Alto da Lapa, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  164   m²  , Alto da Lapa,"Rua João Anes, 144"
+886,   R$ 5.500 /Mês    R$ 1.250.000   ,  3   Quartos  ,"Rua Passo da Pátria - Vila Leopoldina, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  185   m²  , Vila Leopoldina,Rua Passo da Pátria
+887,   R$ 40.000 /Mês    R$ 5.500.000   ,  3   Quartos  ,"Santo Amaro, São Paulo - SP",  5   Banheiros  ,  --   Vaga  ,  511   m²  , SP,"Santo Amaro, São Paulo"
+888,   R$ 20.000 /Mês  ,  4   Quartos  ,"Rua Coronel Oscar Porto, 50 - Paraíso, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  300   m²  , Paraíso,"Rua Coronel Oscar Porto, 50"
+889,   R$ 10.000 /Mês    R$ 1.200.000   ,  2   Quartos  ,"Avenida Rouxinol - Indianópolis, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  82   m²  , Indianópolis,Avenida Rouxinol
+890,   R$ 6.500 /Mês    R$ 1.200.000   ,  3   Quartos  ,"Rua Barão de Jaceguai - Campo Belo, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  129   m²  , Campo Belo,Rua Barão de Jaceguai
+891,   R$ 5.000 /Mês  ,  3   Quartos  ,"Rua Carlos Weber - Alto da Lapa, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  300   m²  , Alto da Lapa,Rua Carlos Weber
+892,   R$ 7.700 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  54   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+893,   R$ 1.500 /Mês  ,  1   Quarto  ,"Alameda Jauaperi, , 1083 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Moema,"Alameda Jauaperi, , 1083"
+894,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Carlos Escobar, 282 - Santana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  10   m²  , Santana,"Rua Carlos Escobar, 282"
+895,   R$ 3.246 /Mês  ,  1   Quarto  ,"Rua Guarará - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Jardim Paulista,Rua Guarará
+896,   R$ 1.250 /Mês  ,  1   Quarto  ,"Rua Nazira Carone, 9 - Jardim Ampliação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Jardim Ampliação,"Rua Nazira Carone, 9"
+897,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Pedroso Alvarenga, 543 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  32   m²  , Itaim Bibi,"Rua Pedroso Alvarenga, 543"
+898,   R$ 7.000 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+899,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua da Consolação, 3101 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Cerqueira César,"Rua da Consolação, 3101"
+900,   R$ 2.400 /Mês  ,  1   Quarto  ,"Rua Oscar Freire, 1948 - Pinheiros, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Pinheiros,"Rua Oscar Freire, 1948"
+901,   R$ 1.450 /Mês  ,  1   Quarto  ,"Rua Professor Carlos de Carvalho, 108 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Itaim Bibi,"Rua Professor Carlos de Carvalho, 108"
+902,   R$ 2.000 /Mês  ,  2   Quartos  ,"Alameda Lorena, 1852 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  43   m²  , Jardim Paulista,"Alameda Lorena, 1852"
+903,   R$ 3.300 /Mês  ,  1   Quarto  ,"Rua Leopoldo Couto Magalhães Júnior, 550 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Itaim Bibi,"Rua Leopoldo Couto Magalhães Júnior, 550"
+904,   R$ 2.500 /Mês  ,  1   Quarto  ,"Alameda Campinas, , 675 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Jardim Paulista,"Alameda Campinas, , 675"
+905,   R$ 2.900 /Mês  ,  2   Quartos  ,"Consolação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , SP,"Consolação, São Paulo"
+906,   R$ 3.400 /Mês  ,  1   Quarto  ,"Rua Urussuí - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Itaim Bibi,Rua Urussuí
+907,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Fidêncio Ramos, 420 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  31   m²  , Vila Olímpia,"Rua Fidêncio Ramos, 420"
+908,   R$ 2.000 /Mês  ,  1   Quarto  ,"Avenida Rouxinol, , 174 - Indianópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Indianópolis,"Avenida Rouxinol, , 174"
+909,   R$ 9.500 /Mês  ,  2   Quartos  ,"Alameda Ministro Rocha Azevedo, , 523 - Cerqueira César, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  61   m²  , Cerqueira César,"Alameda Ministro Rocha Azevedo, , 523"
+910,   R$ 1.300 /Mês  ,  1   Quarto  ,"Alameda Glete, 1003 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  38   m²  , Campos Elíseos,"Alameda Glete, 1003"
+911,   R$ 950 /Mês  ,  1   Quarto  ,"Rua Tenente Otávio Gomes - Aclimação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Aclimação,Rua Tenente Otávio Gomes
+912,   R$ 1.200 /Mês  ,  1   Quarto  ,"Pinheiros, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  22   m²  , SP,"Pinheiros, São Paulo"
+913,   R$ 1.890 /Mês  ,  --   Quarto  ,"Rua Cunha Horta - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Vila Buarque,Rua Cunha Horta
+914,   R$ 950 /Mês  ,  1   Quarto  ,"Rua Itapeva - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  37   m²  , Bela Vista,Rua Itapeva
+915,   R$ 1.950 /Mês  ,  1   Quarto  ,"Rua Pelotas, 82 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Vila Mariana,"Rua Pelotas, 82"
+916,   R$ 1.200 /Mês  ,  1   Quarto  ,"Largo do Arouche, 246 - República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  45   m²  , República,"Largo do Arouche, 246"
+917,   R$ 900 /Mês  ,  1   Quarto  ,"Rua Moacir Miguel da Silva - Jardim Bonfiglioli, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Jardim Bonfiglioli,Rua Moacir Miguel da Silva
+918,   R$ 1.400 /Mês  ,  1   Quarto  ,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 229 - Jardim Esmeralda, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Jardim Esmeralda,"Avenida Engenheiro Heitor Antônio Eiras Garcia, 229"
+919,   R$ 1.100 /Mês  ,  1   Quarto  ,"Alameda Eduardo Prado, 282 - Campos Elíseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  24   m²  , Campos Elíseos,"Alameda Eduardo Prado, 282"
+920,   R$ 1.200 /Mês  ,  1   Quarto  ,"Santa Cecília, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , SP,"Santa Cecília, São Paulo"
+921,   R$ 1.100 /Mês  ,  --   Quarto  ,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Bela Vista,"Rua Santo Amaro, 240"
+922,   R$ 1.500 /Mês  ,  1   Quarto  ,"Rua Constantino de Sousa, 1372 - Campo Belo, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Campo Belo,"Rua Constantino de Sousa, 1372"
+923,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Santa Isabel, 112 - Vila Buarque, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  30   m²  , Vila Buarque,"Rua Santa Isabel, 112"
+924,   R$ 1.200 /Mês  ,  --   Quarto  ,"Rua Japurá, 43 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  38   m²  , Bela Vista,"Rua Japurá, 43"
+925,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua Aurora, 72 - Santa Efigênia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Santa Efigênia,"Rua Aurora, 72"
+926,   R$ 1.000 /Mês  ,  1   Quarto  ,"Avenida Vieira de Carvalho - República, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , República,Avenida Vieira de Carvalho
+927,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua da Consolação, 3075 - Cerqueira César, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  28   m²  , Cerqueira César,"Rua da Consolação, 3075"
+928,   R$ 955 /Mês  ,  --   Quarto  ,"Rua Santo Amaro, 240 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  27   m²  , Bela Vista,"Rua Santo Amaro, 240"
+929,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua Sante Colombara - Tatuapé, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  220   m²  , Tatuapé,Rua Sante Colombara
+930,   R$ 9.900 /Mês    R$ 2.950.000   ,  4   Quartos  ,"Rua Tingui, 400 - Vila Inah, São Paulo - SP",  6   Banheiros  ,  --   Vaga  ,  485   m²  , Vila Inah,"Rua Tingui, 400"
+931,   R$ 2.800 /Mês  ,  2   Quartos  ,"Rua Cláudio Rossi, 370 - Jardim da Glória, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  105   m²  , Jardim da Glória,"Rua Cláudio Rossi, 370"
+932,   R$ 9.900 /Mês  ,  3   Quartos  ,"Rua Fradique Coutinho, 1896 - Pinheiros, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  263   m²  , Pinheiros,"Rua Fradique Coutinho, 1896"
+933,   R$ 2.200 /Mês  ,  2   Quartos  ,"Parque São Domingos, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  80   m²  , SP,"Parque São Domingos, São Paulo"
+934,   R$ 8.500 /Mês  ,  3   Quartos  ,"Rua Doutor Baeta Neves, 98 - Vila Madalena, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  200   m²  , Vila Madalena,"Rua Doutor Baeta Neves, 98"
+935,   R$ 4.000 /Mês    R$ 850.000   ,  3   Quartos  ,"Rua Hugo Walter Puschnick, 24 - Alto da Mooca, São Paulo - SP",  5   Banheiros  ,  5   Vagas  ,  260   m²  , Alto da Mooca,"Rua Hugo Walter Puschnick, 24"
+936,   R$ 2.700 /Mês  ,  3   Quartos  ,"Rua Piatá, , 627 - Vila Isolina Mazzei, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  120   m²  , Vila Isolina Mazzei,"Rua Piatá, , 627"
+937,   R$ 10.000 /Mês    R$ 2.300.000   ,  4   Quartos  ,"Rua República do Iraque, 247 - Parque Colonial, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  374   m²  , Parque Colonial,"Rua República do Iraque, 247"
+938,   R$ 3.500 /Mês  ,  4   Quartos  ,"Rua Arandu - Brooklin Paulista, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  150   m²  , Brooklin Paulista,Rua Arandu
+939,   R$ 3.500 /Mês    R$ 595.000   ,  2   Quartos  ,"Alto da Boa Vista, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  120   m²  , SP,"Alto da Boa Vista, São Paulo"
+940,   R$ 2.300 /Mês  ,  3   Quartos  ,"Vila Nova Mazzei, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  120   m²  , SP,"Vila Nova Mazzei, São Paulo"
+941,   R$ 9.000 /Mês  ,  7   Quartos  ,"Rua Afonso Celso - Vila Mariana, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  450   m²  , Vila Mariana,Rua Afonso Celso
+942,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Antônio Cantarella - Vila Santo Estéfano, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  180   m²  , Vila Santo Estéfano,Rua Antônio Cantarella
+943,   R$ 10.000 /Mês    R$ 3.300.000   ,  4   Quartos  ,"Chácara Santo Antônio (Zona Sul), São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  435   m²  , SP,"Chácara Santo Antônio (Zona Sul), São Paulo"
+944,   R$ 10.000 /Mês    R$ 1.980.000   ,  4   Quartos  ,"Interlagos, São Paulo - SP",  5   Banheiros  ,  --   Vaga  ,  390   m²  , SP,"Interlagos, São Paulo"
+945,   R$ 14.000 /Mês    R$ 3.230.000   ,  4   Quartos  ,"Chácara Monte Alegre, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  407   m²  , SP,"Chácara Monte Alegre, São Paulo"
+946,   R$ 8.000 /Mês    R$ 2.500.000   ,  3   Quartos  ,"Rua Iraci - Jardim Paulistano, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  130   m²  , Jardim Paulistano,Rua Iraci
+947,   R$ 9.000 /Mês    R$ 3.900.000   ,  4   Quartos  ,"Avenida Piassanguaba - Planalto Paulista, São Paulo - SP",  8   Banheiros  ,  8   Vagas  ,  574   m²  , Planalto Paulista,Avenida Piassanguaba
+948,   R$ 25.000 /Mês    R$ 2.690.000   ,  7   Quartos  ,"Rua Gaurama - Jardim Franca, São Paulo - SP",  7   Banheiros  ,  8   Vagas  ,  579   m²  , Jardim Franca,Rua Gaurama
+949,   R$ 4.000 /Mês  ,  3   Quartos  ,"Travessa Humberto I, 0 - Vila Mariana, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  180   m²  , Vila Mariana,"Travessa Humberto I, 0"
+950,   R$ 13.000 /Mês    R$ 2.700.000   ,  4   Quartos  ,"Jardim dos Estados, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  340   m²  , SP,"Jardim dos Estados, São Paulo"
+951,   R$ 13.000 /Mês    R$ 3.700.000   ,  11   Quartos  ,"Rua Pedro Morganti - Vila Mariana, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  369   m²  , Vila Mariana,Rua Pedro Morganti
+952,   R$ 2.200 /Mês  ,  6   Quartos  ,"Vila Santa Catarina, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  150   m²  , SP,"Vila Santa Catarina, São Paulo"
+953,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Bom Pastor, 1557 - Ipiranga, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  34   m²  , Ipiranga,"Rua Bom Pastor, 1557"
+954,   R$ 8.500 /Mês  ,  3   Quartos  ,"Rua Professor José Leite e Oiticica, 240 - Brooklin, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  150   m²  , Brooklin,"Rua Professor José Leite e Oiticica, 240"
+955,   R$ 1.900 /Mês  ,  1   Quarto  ,"Rua André Casado, 215 - Sumaré, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , Sumaré,"Rua André Casado, 215"
+956,   R$ 2.250 /Mês  ,  2   Quartos  ,"Avenida Padre Antônio José dos Santos, 1666 - Brooklin, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  86   m²  , Brooklin,"Avenida Padre Antônio José dos Santos, 1666"
+957,   R$ 2.200 /Mês  ,  1   Quarto  ,"Rua Dona Antônia de Queirós, 183 - Higienópolis, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , Higienópolis,"Rua Dona Antônia de Queirós, 183"
+958,   R$ 1.300 /Mês  ,  1   Quarto  ,"Rua Frei Caneca, 282 - Consolação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Consolação,"Rua Frei Caneca, 282"
+959,   R$ 6.500 /Mês  ,  1   Quarto  ,"Rua Doutor Mário Ferraz, 415 - Itaim Bibi, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  50   m²  , Itaim Bibi,"Rua Doutor Mário Ferraz, 415"
+960,   R$ 2.600 /Mês  ,  2   Quartos  ,"Rua Santo Arcádio, 43 - Jardim das Acacias, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  64   m²  , Jardim das Acacias,"Rua Santo Arcádio, 43"
+961,   R$ 4.000 /Mês  ,  2   Quartos  ,"Alameda Tietê, 353 - Jardins, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  100   m²  , Jardins,"Alameda Tietê, 353"
+962,   R$ 3.300 /Mês  ,  2   Quartos  ,"Rua Sargento José Spessoto, 157 - Vila Mariana, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  97   m²  , Vila Mariana,"Rua Sargento José Spessoto, 157"
+963,   R$ 2.900 /Mês  ,  1   Quarto  ,"Praça Júlio Mesquita, 97 - República, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  46   m²  , República,"Praça Júlio Mesquita, 97"
+964,   R$ 3.750 /Mês  ,  1   Quarto  ,"Rua Henri Dunant, 1066 - Santo Amaro, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  55   m²  , Santo Amaro,"Rua Henri Dunant, 1066"
+965,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Santa Crescência, 85 - Vila Sônia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  65   m²  , Vila Sônia,"Rua Santa Crescência, 85"
+966,   R$ 3.000 /Mês  ,  1   Quarto  ,"Rua Avanhandava, 65 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Bela Vista,"Rua Avanhandava, 65"
+967,   R$ 6.000 /Mês  ,  2   Quartos  ,"Rua Coronel Oscar Porto, 680 - Paraíso, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  72   m²  , Paraíso,"Rua Coronel Oscar Porto, 680"
+968,   R$ 2.100 /Mês  ,  3   Quartos  ,"Avenida Marechal Mário Guedes, 02 - Jaguaré, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  70   m²  , Jaguaré,"Avenida Marechal Mário Guedes, 02"
+969,   R$ 3.100 /Mês  ,  3   Quartos  ,"Rua Cristiano Viana, 505 - Pinheiros, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  80   m²  , Pinheiros,"Rua Cristiano Viana, 505"
+970,   R$ 1.900 /Mês  ,  2   Quartos  ,"Rua Pedroso de Camargo, 256 - Chácara Santo Antônio, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  80   m²  , Chácara Santo Antônio,"Rua Pedroso de Camargo, 256"
+971,   R$ 800 /Mês  ,  1   Quarto  ,"Rua Dario Ferreira Martins - São Miguel Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  50   m²  , São Miguel Paulista,Rua Dario Ferreira Martins
+972,   R$ 16.000 /Mês  ,  4   Quartos  ,"Rua Nebraska - Brooklin, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  200   m²  , Brooklin,Rua Nebraska
+973,   R$ 2.200 /Mês  ,  2   Quartos  ,"Rua Artur Thiré, 1085 - Saúde, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  80   m²  , Saúde,"Rua Artur Thiré, 1085"
+974,   R$ 4.000 /Mês    R$ 1.400.000   ,  3   Quartos  ,"Lapa, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  115   m²  , SP,"Lapa, São Paulo"
+975,   R$ 4.000 /Mês  ,  4   Quartos  ,"Rua Ubajara - Quarta Parada, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  200   m²  , Quarta Parada,Rua Ubajara
+976,   R$ 2.600 /Mês  ,  2   Quartos  ,"Chácara Santo Antônio, São Paulo - SP",  2   Banheiros  ,  --   Vaga  ,  180   m²  , SP,"Chácara Santo Antônio, São Paulo"
+977,   R$ 6.000 /Mês    R$ 2.000.000   ,  3   Quartos  ,"Lapa, São Paulo - SP",  2   Banheiros  ,  4   Vagas  ,  136   m²  , SP,"Lapa, São Paulo"
+978,   R$ 1.500 /Mês  ,  2   Quartos  ,"Avenida Ramalho Ortigão, 200 - Ipiranga, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  100   m²  , Ipiranga,"Avenida Ramalho Ortigão, 200"
+979,   R$ 1.190 /Mês  ,  1   Quarto  ,"Rua Santo Elias, 240 - Parque São Jorge, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Parque São Jorge,"Rua Santo Elias, 240"
+980,   R$ 5.500 /Mês  ,  3   Quartos  ,"Paraíso, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  115   m²  , SP,"Paraíso, São Paulo"
+981,   R$ 5.000 /Mês    R$ 1.100.000   ,  3   Quartos  ,"Rua Guiratinga, 465 - Chácara Inglesa, São Paulo - SP",  2   Banheiros  ,  4   Vagas  ,  200   m²  , Chácara Inglesa,"Rua Guiratinga, 465"
+982,   R$ 1.700 /Mês  ,  1   Quarto  ,"Rua Barretos, 363 - Alto da Mooca, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  70   m²  , Alto da Mooca,"Rua Barretos, 363"
+983,   R$ 1.200 /Mês  ,  1   Quarto  ,"Rua José de Freitas, 1 - Imirim, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  70   m²  , Imirim,"Rua José de Freitas, 1"
+984,   R$ 1.300 /Mês  ,  3   Quartos  ,"Rua Rifaina, 550 - Pompeia, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  60   m²  , Pompeia,"Rua Rifaina, 550"
+985,   R$ 8.000 /Mês    R$ 2.300.000   ,  4   Quartos  ,"Rua Maria Luísa de Pinho - Móoca, São Paulo - SP",  4   Banheiros  ,  6   Vagas  ,  520   m²  , Móoca,Rua Maria Luísa de Pinho
+986,   R$ 3.850 /Mês  ,  3   Quartos  ,"Rua Torquato Tasso - Vila Prudente, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  250   m²  , Vila Prudente,Rua Torquato Tasso
+987,   R$ 1.100 /Mês  ,  1   Quarto  ,"Rua Padre Adelino, 1720 - Quarta Parada, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Quarta Parada,"Rua Padre Adelino, 1720"
+988,   R$ 9.500 /Mês  ,  3   Quartos  ,"Rua Afonso Vaz, 131 - Butantã, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  516   m²  , Butantã,"Rua Afonso Vaz, 131"
+989,   R$ 3.500 /Mês  ,  1   Quarto  ,"Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  45   m²  , SP,"Jardim Paulista, São Paulo"
+990,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Maracá, 168 - Vila Guarani, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  72   m²  , Vila Guarani,"Rua Maracá, 168"
+991,   R$ 2.100 /Mês  ,  2   Quartos  ,"Rua Costa Barros, 230 - Sítio Pinheirinho, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Sítio Pinheirinho,"Rua Costa Barros, 230"
+992,   R$ 18.500 /Mês  ,  4   Quartos  ,"Rua Cassiano Ricardo, 118 - Alto Da Boa Vista, São Paulo - SP",  6   Banheiros  ,  4   Vagas  ,  430   m²  , Alto Da Boa Vista,"Rua Cassiano Ricardo, 118"
+993,   R$ 35.000 /Mês    R$ 6.000.000   ,  4   Quartos  ,"Chácara Monte Alegre, São Paulo - SP",  6   Banheiros  ,  5   Vagas  ,  800   m²  , SP,"Chácara Monte Alegre, São Paulo"
+994,   R$ 20.000 /Mês    R$ 4.600.000   ,  4   Quartos  ,"Rua Carlos Baptista de Magalhães, 140 - Jardim Prudência, São Paulo - SP",  4   Banheiros  ,  5   Vagas  ,  587   m²  , Jardim Prudência,"Rua Carlos Baptista de Magalhães, 140"
+995,   R$ 15.000 /Mês    R$ 2.500.000   ,  3   Quartos  ,"Brooklin, São Paulo - SP",  5   Banheiros  ,  6   Vagas  ,  500   m²  , SP,"Brooklin, São Paulo"
+996,   R$ 6.000 /Mês  ,  4   Quartos  ,"Jardim da Saude, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  154   m²  , SP,"Jardim da Saude, São Paulo"
+997,   R$ 15.000 /Mês    R$ 3.000.000   ,  3   Quartos  ,"Rua João Álvares Soares - Campo Belo, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  310   m²  , Campo Belo,Rua João Álvares Soares
+998,   R$ 16.000 /Mês    R$ 3.300.000   ,  4   Quartos  ,"Rua Diogo Pereira, , 1 - Morumbi, São Paulo - SP",  5   Banheiros  ,  10   Vagas  ,  761   m²  , Morumbi,"Rua Diogo Pereira, , 1"
+999,   R$ 6.000 /Mês  ,  3   Quartos  ,"Rua Conceição de Monte Alegre - Brooklin, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  200   m²  , Brooklin,Rua Conceição de Monte Alegre
+1000,   R$ 2.400 /Mês    R$ 490.000   ,  2   Quartos  ,"Rua Aburá - Sítio do Mandaqui, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  80   m²  , Sítio do Mandaqui,Rua Aburá
+1001,   R$ 38.000 /Mês    R$ 7.500.000   ,  4   Quartos  ,"Rua Miranda Guerra - Jardim Petrópolis, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  747   m²  , Jardim Petrópolis,Rua Miranda Guerra
+1002,   R$ 50.000 /Mês    R$ 7.950.000   ,  4   Quartos  ,"Rua Carlo Rainaldi - Jardim dos Estados, São Paulo - SP",  2   Banheiros  ,  6   Vagas  ,  650   m²  , Jardim dos Estados,Rua Carlo Rainaldi
+1003,   R$ 8.000 /Mês    R$ 1.900.000   ,  4   Quartos  ,"Rua Artur Dias - Jardim da Saude, São Paulo - SP",  5   Banheiros  ,  7   Vagas  ,  609   m²  , Jardim da Saude,Rua Artur Dias
+1004,   R$ 10.000 /Mês    R$ 3.700.000   ,  4   Quartos  ,"Panamby, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  279   m²  , SP,"Panamby, São Paulo"
+1005,   R$ 45.000 /Mês    R$ 7.500.000   ,  4   Quartos  ,"Jardim Petrópolis, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  720   m²  , SP,"Jardim Petrópolis, São Paulo"
+1006,   R$ 2.100 /Mês  ,  2   Quartos  ,"Jardim Esmeralda, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  110   m²  , SP,"Jardim Esmeralda, São Paulo"
+1007,   R$ 4.800 /Mês  ,  3   Quartos  ,"Rua Aleixo Jorge - Pompeia, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  169   m²  , Pompeia,Rua Aleixo Jorge
+1008,   R$ 650 /Mês  ,  1   Quarto  ,"Rua Luís Stolb, 40 - Jardim Vilas Boas, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  35   m²  , Jardim Vilas Boas,"Rua Luís Stolb, 40"
+1009,   R$ 4.000 /Mês  ,  1   Quarto  ,"Paraíso, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  110   m²  , SP,"Paraíso, São Paulo"
+1010,   R$ 1.600 /Mês  ,  2   Quartos  ,"Rua Francisco Bellazzi - Jardim Jaraguá, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  79   m²  , Jardim Jaraguá,Rua Francisco Bellazzi
+1011,   R$ 25.000 /Mês    R$ 4.950.000   ,  4   Quartos  ,"Rua Miranda Guerra, 40 - Jardim Petrópolis, São Paulo - SP",  7   Banheiros  ,  7   Vagas  ,  547   m²  , Jardim Petrópolis,"Rua Miranda Guerra, 40"
+1012,   R$ 3.000 /Mês    R$ 650.000   ,  3   Quartos  ,"Rua Hermann Teles Ribeiro, 283 - Vila Invernada, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  191   m²  , Vila Invernada,"Rua Hermann Teles Ribeiro, 283"
+1013,   R$ 1.700 /Mês  ,  2   Quartos  ,"Rua Serra de Juquiá - Lajeado, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  100   m²  , Lajeado,Rua Serra de Juquiá
+1014,   R$ 18.000 /Mês    R$ 12.000.000   ,  4   Quartos  ,"Avenida Guarapiranga, 1783 - Guarapiranga, São Paulo - SP",  6   Banheiros  ,  6   Vagas  ,  721   m²  , Guarapiranga,"Avenida Guarapiranga, 1783"
+1015,   R$ 8.000 /Mês  ,  3   Quartos  ,"Varginha, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  2000   m²  , SP,"Varginha, São Paulo"
+1016,   R$ 500 /Mês  ,  1   Quarto  ,"Rua José Brito Mendes - Sitio Botuquara, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  50   m²  , Sitio Botuquara,Rua José Brito Mendes
+1017,   R$ 7.000 /Mês    R$ 950.000   ,  3   Quartos  ,"Rua Irmã Maria Lourença - Jardim Shangrila, São Paulo - SP",  --   Banheiro  ,  30   Vagas  ,  0   m²  , Jardim Shangrila,Rua Irmã Maria Lourença
+1018,   R$ 5.500 /Mês  ,  2   Quartos  ,"Rua Henrique Hessel - Recanto Campo Belo, São Paulo - SP",  3   Banheiros  ,  40   Vagas  ,  400   m²  , Recanto Campo Belo,Rua Henrique Hessel
+1019,   R$ 4.000 /Mês    R$ 450.000   ,  2   Quartos  ,"Rua Benvinda Cândida - Chácara Bosque do Sol, São Paulo - SP",  3   Banheiros  ,  5   Vagas  ,  250   m²  , Chácara Bosque do Sol,Rua Benvinda Cândida
+1020,   R$ 4.500 /Mês  ,  5   Quartos  ,"Rua Doutor Chibata Miyakoshi - Panamby, São Paulo - SP",  7   Banheiros  ,  6   Vagas  ,  505   m²  , Panamby,Rua Doutor Chibata Miyakoshi
+1021,   R$ 15.400 /Mês    R$ 3.900.000   ,  2   Quartos  ,"Avenida Angélica, 589 - Higienópolis, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  381   m²  , Higienópolis,"Avenida Angélica, 589"
+1022,   R$ 4.900 /Mês  ,  3   Quartos  ,"Rua Canário - Moema, São Paulo - SP",  3   Banheiros  ,  1   Vaga  ,  140   m²  , Moema,Rua Canário
+1023,   R$ 24.900 /Mês  ,  3   Quartos  ,"Rua Haddock Lobo, 0 - Jardins, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  228   m²  , Jardins,"Rua Haddock Lobo, 0"
+1024,   R$ 9.000 /Mês  ,  4   Quartos  ,"Rua David Ben Gurion, 955 - Jardim Monte Kemel, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  283   m²  , Jardim Monte Kemel,"Rua David Ben Gurion, 955"
+1025,   R$ 4.520 /Mês    R$ 1.250.000   ,  2   Quartos  ,"Avenida Portugal - Brooklin, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  130   m²  , Brooklin,Avenida Portugal
+1026,   R$ 3.690 /Mês  ,  1   Quarto  ,"Rua Doutor Tomás Carvalhal, 728 - Paraíso, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  100   m²  , Paraíso,"Rua Doutor Tomás Carvalhal, 728"
+1027,   R$ 8.000 /Mês    R$ 2.500.000   ,  4   Quartos  ,"Alto da Lapa, São Paulo - SP",  3   Banheiros  ,  3   Vagas  ,  276   m²  , SP,"Alto da Lapa, São Paulo"
+1028,   R$ 5.000 /Mês  ,  1   Quarto  ,"Rua Baluarte - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  62   m²  , Vila Olímpia,Rua Baluarte
+1029,   R$ 20.000 /Mês    R$ 7.900.000   ,  4   Quartos  ,"Avenida Jandira - Moema, São Paulo - SP",  4   Banheiros  ,  8   Vagas  ,  575   m²  , Moema,Avenida Jandira
+1030,   R$ 15.000 /Mês  ,  5   Quartos  ,"Avenida Washington Luís - Chácara Flora, São Paulo - SP",  4   Banheiros  ,  4   Vagas  ,  560   m²  , Chácara Flora,Avenida Washington Luís
+1031,   R$ 11.000 /Mês    R$ 2.750.000   ,  2   Quartos  ,"Rua Joaquim Távora, 1210 - Vila Mariana, São Paulo - SP",  4   Banheiros  ,  3   Vagas  ,  172   m²  , Vila Mariana,"Rua Joaquim Távora, 1210"
+1032,   R$ 10.000 /Mês    R$ 2.699.000   ,  3   Quartos  ,"Rua Cayowaá, 1520 - Perdizes, São Paulo - SP",  5   Banheiros  ,  4   Vagas  ,  210   m²  , Perdizes,"Rua Cayowaá, 1520"
+1033,   R$ 22.000 /Mês  ,  3   Quartos  ,"Rua Massacá, 231 - Alto de Pinheiros, São Paulo - SP",  1   Banheiro  ,  5   Vagas  ,  375   m²  , Alto de Pinheiros,"Rua Massacá, 231"
+1034,   R$ 10.000 /Mês    R$ 2.150.000   ,  2   Quartos  ,"Rua Caravelas, 138 - Vila Mariana, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  145   m²  , Vila Mariana,"Rua Caravelas, 138"
+1035,   R$ 2.600 /Mês  ,  1   Quarto  ,"Rua Apinajés, 105 - Pompeia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  83   m²  , Pompeia,"Rua Apinajés, 105"
+1036,   R$ 21.000 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  2   Vagas  ,  110   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+1037,   R$ 65.000 /Mês    R$ 11.900.000   ,  4   Quartos  ,"Alameda dos Guaramomis, 404 - Moema, São Paulo - SP",  6   Banheiros  ,  8   Vagas  ,  470   m²  , Moema,"Alameda dos Guaramomis, 404"
+1038,   R$ 20.000 /Mês    R$ 3.900.000   ,  3   Quartos  ,"Alameda Jauaperi - Moema, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  324   m²  , Moema,Alameda Jauaperi
+1039,   R$ 110.000 /Mês    R$ 40.000.000   ,  4   Quartos  ,"Jardim Paulista, São Paulo - SP",  4   Banheiros  ,  8   Vagas  ,  907   m²  , SP,"Jardim Paulista, São Paulo"
+1040,   R$ 65.000 /Mês    R$ 13.000.000   ,  4   Quartos  ,"Moema, São Paulo - SP",  7   Banheiros  ,  8   Vagas  ,  583   m²  , SP,"Moema, São Paulo"
+1041,   R$ 14.990 /Mês  ,  3   Quartos  ,"Rua Edson, 1172 - Campo Belo, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  264   m²  , Campo Belo,"Rua Edson, 1172"
+1042,   R$ 5.900 /Mês  ,  2   Quartos  ,"Alameda Joaquim Eugênio de Lima, 246 - Jardim Paulista, São Paulo - SP",  3   Banheiros  ,  2   Vagas  ,  100   m²  , Jardim Paulista,"Alameda Joaquim Eugênio de Lima, 246"
+1043,   R$ 9.990 /Mês    R$ 2.779.800   ,  3   Quartos  ,"Rua Morás, 542 - Vila Madalena, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  205   m²  , Vila Madalena,"Rua Morás, 542"
+1044,   R$ 1.864 /Mês  ,  1   Quarto  ,"Rua Eleonora Cintra, 960 - Tatuapé, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Tatuapé,"Rua Eleonora Cintra, 960"
+1045,   R$ 5.900 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Itaim Bibi,"Rua Elvira Ferraz, 250"
+1046,   R$ 3.000 /Mês  ,  1   Quarto  ,"Avenida Armando Ferrentini, 668 - Aclimação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  28   m²  , Aclimação,"Avenida Armando Ferrentini, 668"
+1047,   R$ 550 /Mês  ,  5   Quartos  ,"Rua Ribeiro do Vale, 1458 - Itaim Bibi, São Paulo - SP",  4   Banheiros  ,  --   Vaga  ,  12   m²  , Itaim Bibi,"Rua Ribeiro do Vale, 1458"
+1048,   R$ 500 /Mês  ,  1   Quarto  ,"Rua Visconde de Ourem, 210 - Vila Congonhas, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  12   m²  , Vila Congonhas,"Rua Visconde de Ourem, 210"
+1049,   R$ 23.000 /Mês  ,  1   Quarto  ,"Rua Elvira Ferraz, 250 - Vila Olímpia, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  105   m²  , Vila Olímpia,"Rua Elvira Ferraz, 250"
+1050,   R$ 5.000 /Mês  ,  1   Quarto  ,"Rua Tenente Negrão - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Itaim Bibi,Rua Tenente Negrão
+1051,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Texas, 1487 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  24   m²  , Vila Olímpia,"Rua Texas, 1487"
+1052,   R$ 1.400 /Mês  ,  1   Quarto  ,"Rua Verbo Divino, 1323 - Chácara Santo Antônio, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  30   m²  , Chácara Santo Antônio,"Rua Verbo Divino, 1323"
+1053,   R$ 1.960 /Mês  ,  1   Quarto  ,"Rua Franz Schubert, 156 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  35   m²  , Itaim Bibi,"Rua Franz Schubert, 156"
+1054,   R$ 2.600 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Moema,"Avenida Moema, 177"
+1055,   R$ 1.880 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, 1661 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Moema,"Alameda dos Anapurus, 1661"
+1056,   R$ 1.320 /Mês  ,  1   Quarto  ,"Alameda Lorena, 1014 - Jardim Paulista, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  27   m²  , Jardim Paulista,"Alameda Lorena, 1014"
+1057,   R$ 1.760 /Mês  ,  1   Quarto  ,"Avenida Moema, 177 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  52   m²  , Moema,"Avenida Moema, 177"
+1058,   R$ 1.200 /Mês  ,  1   Quarto  ,"Alameda dos Anapurus, , 1661 - Moema, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Moema,"Alameda dos Anapurus, , 1661"
+1059,   R$ 3.160 /Mês  ,  2   Quartos  ,"Avenida dos Imarés, 317 - Moema, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  57   m²  , Moema,"Avenida dos Imarés, 317"
+1060,   R$ 1.800 /Mês  ,  1   Quarto  ,"Alameda Santos, 981 - Jardins, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  29   m²  , Jardins,"Alameda Santos, 981"
+1061,   R$ 4.260 /Mês  ,  2   Quartos  ,"Alameda dos Jurupis, , 800 - Moema, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  70   m²  , Moema,"Alameda dos Jurupis, , 800"
+1062,   R$ 1.200 /Mês  ,  1   Quarto  ,"Avenida Duque de Caxias, 525 - Campos Eliseos, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  29   m²  , Campos Eliseos,"Avenida Duque de Caxias, 525"
+1063,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Texas, 1018 - Itaim Bibi, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Itaim Bibi,"Rua Texas, 1018"
+1064,   R$ 3.500 /Mês  ,  2   Quartos  ,"Rua Texas, 1018 - Brooklin, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  40   m²  , Brooklin,"Rua Texas, 1018"
+1065,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Texas, 1018 - Cidade Monções, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  24   m²  , Cidade Monções,"Rua Texas, 1018"
+1066,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Texas, 1018 - Brooklin, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  24   m²  , Brooklin,"Rua Texas, 1018"
+1067,   R$ 2.300 /Mês  ,  1   Quarto  ,"Rua Texas, 1018 - Vila Olímpia, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  33   m²  , Vila Olímpia,"Rua Texas, 1018"
+1068,   R$ 820 /Mês  ,  1   Quarto  ,"Rua Santa Elvira - Tatuapé, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Tatuapé,Rua Santa Elvira
+1069,   R$ 1.135 /Mês  ,  1   Quarto  ,"Rua José Piragibe, 366 - Butantã, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  17   m²  , Butantã,"Rua José Piragibe, 366"
+1070,   R$ 1.100 /Mês  ,  1   Quarto  ,"Rua Pires da Mota - Aclimação, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  18   m²  , Aclimação,Rua Pires da Mota
+1071,   R$ 1.100 /Mês  ,  1   Quarto  ,"Rua José Getúlio - Liberdade, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  18   m²  , Liberdade,Rua José Getúlio
+1072,   R$ 2.600 /Mês  ,  --   Quarto  ,"Rua Paula Ney, 100 - Aclimação, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  42   m²  , Aclimação,"Rua Paula Ney, 100"
+1073,   R$ 1.600 /Mês  ,  1   Quarto  ,"Rua Itapeva, 182 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Bela Vista,"Rua Itapeva, 182"
+1074,   R$ 1.750 /Mês  ,  1   Quarto  ,"Rua Itapeva, 182 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  42   m²  , Bela Vista,"Rua Itapeva, 182"
+1075,   R$ 1.850 /Mês  ,  --   Quarto  ,"Avenida Paulista - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  40   m²  , Bela Vista,Avenida Paulista
+1076,   R$ 1.450 /Mês  ,  1   Quarto  ,"Rua Tangará, 288 - Vila Mariana, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  20   m²  , Vila Mariana,"Rua Tangará, 288"
+1077,   R$ 1.000 /Mês  ,  1   Quarto  ,"Avenida Nove de Julho, 337 - Bela Vista, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  25   m²  , Bela Vista,"Avenida Nove de Julho, 337"
+1078,   R$ 1.350 /Mês  ,  1   Quarto  ,"Rua Bueno de Andrade - Liberdade, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  22   m²  , Liberdade,Rua Bueno de Andrade
+0,   R$ 3.500 /Mês  ,  4   Quartos  ,"Parque Domingos Luís, 408 - Jardim São Paulo, São Paulo - SP",  5   Banheiros  ,  2   Vagas  ,  275   m²  , Jardim São Paulo,"Parque Domingos Luís, 408"
+10,   R$ 1.700 /Mês    R$ 350.000   ,  2   Quartos  ,"Vila Matilde, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  70   m²  , SP,"Vila Matilde, São Paulo"
+11,   R$ 2.700 /Mês    R$ 599.000   ,  3   Quartos  ,"Vila Dalila, São Paulo - SP",  1   Banheiro  ,  4   Vagas  ,  110   m²  , SP,"Vila Dalila, São Paulo"
+12,   R$ 2.500 /Mês    R$ 399.000   ,  3   Quartos  ,"Vila Dalila, São Paulo - SP",  1   Banheiro  ,  --   Vaga  ,  90   m²  , SP,"Vila Dalila, São Paulo"
+13,   R$ 7.000 /Mês    R$ 2.500.000   ,  6   Quartos  ,"Vila Matilde, São Paulo - SP",  2   Banheiros  ,  5   Vagas  ,  490   m²  , SP,"Vila Matilde, São Paulo"
+14,   R$ 3.500 /Mês  ,  3   Quartos  ,"Rua Doutor Alvino Lima, 8 - Paraíso, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  250   m²  , Paraíso,"Rua Doutor Alvino Lima, 8"
+15,   R$ 2.000 /Mês  ,  2   Quartos  ,"Rua Maranjaí - Vila Monumento, São Paulo - SP",  4   Banheiros  ,  1   Vaga  ,  240   m²  , Vila Monumento,Rua Maranjaí
+19,   R$ 1.500 /Mês  ,  2   Quartos  ,"Rua Professor Nicolau Maria Rossetti - Cidade Ademar, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  95   m²  , Cidade Ademar,Rua Professor Nicolau Maria Rossetti
+20,   R$ 7.350 /Mês  ,  3   Quartos  ,"Granja Julieta, São Paulo - SP",  5   Banheiros  ,  3   Vagas  ,  450   m²  , SP,"Granja Julieta, São Paulo"
+21,   R$ 3.700 /Mês  ,  3   Quartos  ,"Campo Belo, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  110   m²  , SP,"Campo Belo, São Paulo"
+22,   R$ 2.500 /Mês  ,  2   Quartos  ,"Rua Antônio das Chagas - Chácara Santo Antônio, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  112   m²  , Chácara Santo Antônio,Rua Antônio das Chagas
+23,   R$ 3.000 /Mês  ,  3   Quartos  ,"Rua Alonso Calhamares - Jardim Anália Franco, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  170   m²  , Jardim Anália Franco,Rua Alonso Calhamares
+24,   R$ 2.100 /Mês    R$ 440.000   ,  2   Quartos  ,"Jardim Popular, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  65   m²  , SP,"Jardim Popular, São Paulo"
+25,   R$ 3.000 /Mês    R$ 780.000   ,  3   Quartos  ,"Rua João Elias Calache - Jardim Prudência, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  125   m²  , Jardim Prudência,Rua João Elias Calache
+26,   R$ 4.000 /Mês    R$ 745.000   ,  2   Quartos  ,"Parque São Domingos, São Paulo - SP",  1   Banheiro  ,  2   Vagas  ,  130   m²  , SP,"Parque São Domingos, São Paulo"
+27,   R$ 3.500 /Mês  ,  3   Quartos  ,"Rua Arcipreste Ezequias - Ipiranga, São Paulo - SP",  2   Banheiros  ,  4   Vagas  ,  164   m²  , Ipiranga,Rua Arcipreste Ezequias
+28,   R$ 3.200 /Mês    R$ 749.000   ,  3   Quartos  ,"Rua Chamantá - Vila Prudente, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  200   m²  , Vila Prudente,Rua Chamantá
+30,   R$ 3.400 /Mês  ,  3   Quartos  ,"Rua Henrique Botticini, 70 - Jardim Rizzo, São Paulo - SP",  3   Banheiros  ,  --   Vaga  ,  132   m²  , Jardim Rizzo,"Rua Henrique Botticini, 70"
+31,   R$ 1.400 /Mês  ,  2   Quartos  ,"Cidade Líder, São Paulo - SP",  1   Banheiro  ,  1   Vaga  ,  65   m²  , SP,"Cidade Líder, São Paulo"
+32,   R$ 9.000 /Mês    R$ 1.200.000   ,  4   Quartos  ,"Rua Áurea, 269 - Vila Mariana, São Paulo - SP",  2   Banheiros  ,  1   Vaga  ,  108   m²  , Vila Mariana,"Rua Áurea, 269"
+33,   R$ 1.700 /Mês  ,  3   Quartos  ,"Rua Aparecido Carlos Ferreira Correa, 270 - Vila Tolstoi, São Paulo - SP",  4   Banheiros  ,  2   Vagas  ,  160   m²  , Vila Tolstoi,"Rua Aparecido Carlos Ferreira Correa, 270"
+34,   R$ 3.500 /Mês    R$ 740.000   ,  4   Quartos  ,"Rua Guiratinga - Bosque da Saúde, São Paulo - SP",  3   Banheiros  ,  4   Vagas  ,  136   m²  , Bosque da Saúde,Rua Guiratinga
+35,   R$ 3.000 /Mês  ,  2   Quartos  ,"Parque da Mooca, São Paulo - SP",  2   Banheiros  ,  3   Vagas  ,  242   m²  , SP,"Parque da Mooca, São Paulo"
