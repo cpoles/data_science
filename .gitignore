@@ -1,15 +1,10 @@
-data_visualisation/matplotlib/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-data_visualisation/matplotlib/.ipynb_checkpoints/basics-checkpoint.ipynb
-awari/visualizacao_exploratoria_exercicios-master/01-exercicios-matplotlib/.ipynb_checkpoints/visualizacao_com_matplotlib-checkpoint.ipynb
-deitel/chapter09/exercises/.ipynb_checkpoints/diamonds-checkpoint.ipynb
 deitel/chapter09/exercises/diamonds.csv
-deitel/chapter09/exercises/.ipynb_checkpoints/diamonds-checkpoint.csv
 data_analysis/pandas/pandas_exercises-master/10_Deleting/Iris/iris.data
 data_analysis/pandas/pandas_exercises-master/10_Deleting/Wine/wine.data
-python/linear_algebra/.ipynb_checkpoints/vectors-checkpoint.ipynb
-python/linear_algebra/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-python/linear_algebra/.ipynb_checkpoints/matrices-checkpoint.ipynb
-python/linear_algebra/.ipynb_checkpoints/linear_systems-checkpoint.ipynb
 .ipynb_checkpoints/.gitignore-checkpoint
-deitel/chapter12/examples/.ipynb_checkpoints/chapter12-checkpoint.ipynb
-deitel/chapter12/examples/.ipynb_checkpoints/RomeoAndJuliet-checkpoint.txt
+
+# ignore folders
+projects/machine_learning/deep_learning/mias_mammography/all-mias
+
+# ignore checkpoint files
+*checkpoint.ipynb
