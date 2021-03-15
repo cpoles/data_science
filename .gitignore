@@ -2,9 +2,13 @@ deitel/chapter09/exercises/diamonds.csv
 data_analysis/pandas/pandas_exercises-master/10_Deleting/Iris/iris.data
 data_analysis/pandas/pandas_exercises-master/10_Deleting/Wine/wine.data
 .ipynb_checkpoints/.gitignore-checkpoint
+python/deitel/chapter15/ave_hi_nyc_jan_1895-2018.csv
+awari/br-regression-project-master/.ipynb_checkpoints/houses-checkpoint.csv
+
 
 # ignore folders
 projects/machine_learning/deep_learning/mias_mammography/all-mias
 
 # ignore checkpoint files
 *checkpoint.ipynb
+
