@@ -10,5 +10,5 @@ awari/br-regression-project-master/.ipynb_checkpoints/houses-checkpoint.csv
 projects/machine_learning/deep_learning/mias_mammography/all-mias
 
 # ignore checkpoint files
-*checkpoint.ipynb
+# *checkpoint.ipynb
 
