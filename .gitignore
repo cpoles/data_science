@@ -12,3 +12,4 @@ projects/machine_learning/deep_learning/mias_mammography/all-mias
 # ignore checkpoint files
 # *checkpoint.ipynb
 
+projects/machine_learning/deep_learning/mias_mammography/all_mias_scans.h5
