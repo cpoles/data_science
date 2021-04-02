@@ -1,4 +1,9 @@
+# helpers.py
+
 # helper functions
+
+import pandas as pd
+from .mammoscan import MammoScan
 
 def clean_ds_files(df: pd.DataFrame) -> pd.DataFrame:
     new_df = df.copy()
@@ -19,7 +24,7 @@ def clean_ds_files(df: pd.DataFrame) -> pd.DataFrame:
     return new_df
 
 
-def delete_image(filename: str, directory='./all-mias/'):
+def delete_image(filename: str, directory='../all-mias/'):
     '''Deletes original image files that won't be initially used'''
     paths = Path(directory).glob('**/*.pgm')
     filename += '.pgm'
@@ -45,14 +50,6 @@ def create_scan_filenames_dic(path: str) -> dict:
         img_dic[filename] = f_path.as_posix()
     
     return img_dic
-
-
-def get_scan_info(filename: str) -> pd.Series:
-    try:
-        scan_info = test_df.loc[filename]
-        return scan_info
-    except KeyError as ie:
-        print('Invalid Index')
         
 
 def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
@@ -93,11 +90,10 @@ def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
             # append to dataframe
             df_sub = df_sub.append(scan_info)
             print(scan_name)
-            path = os.path.join('./subsamples', filename) 
+            path = os.path.join('../subsamples', filename) 
             print(path)
             try:
-                pass
-                #image.save(path, compress_level=0)
+                image.save(path, compress_level=0)
             except ValueError as ve:
                 print('Output format could not be determined from the file name.')
             except OSError as ose:
