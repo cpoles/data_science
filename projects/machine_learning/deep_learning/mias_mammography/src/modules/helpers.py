@@ -2,10 +2,17 @@
 
 # helper functions
 
+import os
 import pandas as pd
+import numpy as np
+import re
+from pathlib import Path
+from PIL import Image
 from .mammoscan import MammoScan
 
 def clean_ds_files(df: pd.DataFrame) -> pd.DataFrame:
+    '''Removes records with invalid data
+         and cast x and y to float'''
     new_df = df.copy()
     # search for invalid x values for removal
     indices = new_df.x[lambda x: x == '*NOTE'].index
@@ -53,8 +60,9 @@ def create_scan_filenames_dic(path: str) -> dict:
         
 
 def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
+    '''Save subsamples to the subsamples folder'''
     # define subsamples folder
-    folder = 'subsamples'
+    folder = '../subsamples'
     df_sub = pd.DataFrame()
     try:
         # create if not yet
@@ -86,9 +94,16 @@ def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
         
         for filename, image in fs_and_is:
             # create new observation with subsample name
-            scan_info.name = filename
+            # name the series to become an index in the new dataframe
+            scan_info.name = re.match(r'(.*)\.[^.]+$', filename).group(1)
+            # create pixel matrix
+            pixel_matrix = np.asarray(image)
+            
+            scan_info['p_matrix'] = pixel_matrix
+
             # append to dataframe
-            df_sub = df_sub.append(scan_info)
+            df_sub = df_sub.append(scan_info.loc[['ab_class', 'bg', 'severity', 'p_matrix']])
+            
             print(scan_name)
             path = os.path.join('../subsamples', filename) 
             print(path)
@@ -117,7 +132,7 @@ def create_subsample_filename(scan_name: str, transf_dic: dict) -> list:
     return file_names
 
 
-def get_transformed_scans(transf_dic: dict):
+def get_transformed_scans(transf_dic: dict) -> list:
     scans = list()
     for angle, transfs in transf_dic.items():
         for scan in transfs.values():
@@ -127,6 +142,8 @@ def get_transformed_scans(transf_dic: dict):
 
 
 def plot_scan(scan: MammoScan):
+    '''Plots a mammo scan adding 
+            circle patchs on the abnormalities spots'''
     img = scan.scan
 
     # Create a figure. Equal aspect so circles look circular
