@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from PIL import Image
+from matplotlib.patches import Circle
 
 
 class MammoScan:
@@ -46,7 +48,7 @@ class MammoScan:
     
     @property
     def pixel_matrix(self):
-        return np.asarray(self.scan)
+        return np.array(self.scan)
     
     # instance method
     def plot(self):
@@ -95,7 +97,7 @@ class MammoScan:
             y = float(np.random.randint(500, 513))
             self.__set_y(y)
             
-        return (self.x, self.y, self.radius)
+        return (self.x, 1024-self.y, self.radius)
     
     # private method
     def __transform(self):
