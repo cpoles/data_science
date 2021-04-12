@@ -142,25 +142,17 @@ def get_transformed_scans(transf_dic: dict) -> list:
     return scans
 
 
-def plot_scan(scan: MammoScan):
-    '''Plots a mammo scan adding 
-            circle patchs on the abnormalities spots'''
-    img = scan.scan
 
-    # Create a figure. Equal aspect so circles look circular
-    fig, ax = plt.subplots(1)
-
-    fig.set_size_inches(12, 10)
-    ax.set_aspect('equal')
-
-    # Show the image
-    ax.imshow(img)
-    ax.set_ylim(bottom=0, top=1024)
-
-    # create a circle to patch on the image
-    x = pd.to_numeric(scan.x)
-    y = pd.to_numeric(scan.y)
-    r = pd.to_numeric(scan.radius)
-    circ = Circle((x,1024-y), r, fill=False)
-    ax.add_patch(circ)
-    print(x, y, r)
+def create_df_by_abnormality(abnormality: str, df: pd.DataFrame) -> pd.DataFrame:
+    '''create datasets by abnormalities for model creation, training and test'''
+    df_ab = df.copy()
+    #print(id(df))
+    #print(id(df_ab))
+    try:
+        if 'ab_class' in df.columns:
+            df_ab = df_ab[df_ab.ab_class == abnormality][['subsample_path', 'severity']]
+            df_ab.reset_index(drop=True, inplace=True)
+            return df_ab
+    except KeyError as ke:
+        print('Column ab_class does not exist in the provided DataFrame')
+        print(ke)   
