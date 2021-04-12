@@ -99,10 +99,11 @@ def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
             # create pixel matrix
             pixel_matrix = np.asarray(image)
             
-            scan_info['p_matrix'] = pixel_matrix
+            # scan_info['p_matrix'] = pixel_matrix
+            scan_info['subsample_path'] = os.path.join('../subsamples', filename)
 
             # append to dataframe
-            df_sub = df_sub.append(scan_info.loc[['ab_class', 'bg', 'severity', 'p_matrix']])
+            df_sub = df_sub.append(scan_info.loc[['ab_class', 'bg', 'severity', 'subsample_path']])
             
             print(scan_name)
             path = os.path.join('../subsamples', filename) 
