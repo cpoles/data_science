@@ -105,9 +105,9 @@ def save_subsamples(scans_dic: dict(), df: pd.DataFrame) -> pd.DataFrame:
             # append to dataframe
             df_sub = df_sub.append(scan_info.loc[['ab_class', 'bg', 'severity', 'subsample_path']])
             
-            print(scan_name)
+            #print(scan_name)
             path = os.path.join('../subsamples', filename) 
-            print(path)
+            #print(path)
             try:
                 image.save(path, compress_level=0)
             except ValueError as ve:
@@ -141,18 +141,3 @@ def get_transformed_scans(transf_dic: dict) -> list:
     
     return scans
 
-
-
-def create_df_by_abnormality(abnormality: str, df: pd.DataFrame) -> pd.DataFrame:
-    '''create datasets by abnormalities for model creation, training and test'''
-    df_ab = df.copy()
-    #print(id(df))
-    #print(id(df_ab))
-    try:
-        if 'ab_class' in df.columns:
-            df_ab = df_ab[df_ab.ab_class == abnormality][['subsample_path', 'severity']]
-            df_ab.reset_index(drop=True, inplace=True)
-            return df_ab
-    except KeyError as ke:
-        print('Column ab_class does not exist in the provided DataFrame')
-        print(ke)   
