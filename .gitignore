@@ -13,3 +13,4 @@ projects/machine_learning/deep_learning/mias_mammography/all-mias
 # *checkpoint.ipynb
 
 projects/machine_learning/deep_learning/mias_mammography/all_mias_scans.h5
+projects/machine_learning/deep_learning/mias_mammography/notebooks/test_df.csv
