@@ -66,6 +66,7 @@ class MammoScan:
         # Show the image
         ax.imshow(self.scan, cmap=plt.cm.gray_r)
         ax.set_ylim(bottom=0, top=1024)
+        ax.set_title(self.scan_name)
         
 
         # create a circle to patch on the image
