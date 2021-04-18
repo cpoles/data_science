@@ -1,0 +1,195 @@
+---
+title: "Statistical Transformations "
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(maps)
+```
+
+### Diamonds Dataset
+
+
+#### BarPlot
+```{r}
+# bar plot the cut variable
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut))
+```
+```{r}
+# using stat_count()
+ggplot(data = diamonds) +
+  stat_count(mapping = aes(x = cut))
+```
+
+```{r}
+# map the height of the bars changing stat to 'identity'
+demo <- tribble(
+  ~a, ~b,
+  "bar_1", 20,
+  "bar_2", 30,
+  "bar_3", 40
+)
+
+ggplot(data = demo) +
+  geom_bar(
+    mapping = aes(x = a, y = b), stat = 'identity'
+  )
+
+```
+
+```{r}
+# display a bar chart of proportion
+ggplot(data = diamonds) +
+  geom_bar(
+    mapping = aes(x = cut, y = ..prop.., group = 1 )
+  )
+```
+
+```{r}
+# plot the median using stat_summary
+ggplot(data = diamonds) +
+  stat_summary(
+    mapping = aes(x = cut, y = depth),
+              fun.min = min,
+              fun.max = max,
+              fun = median
+  )
+```
+
+```{r}
+# plot the graph above using a geom
+ggplot(data = diamonds) +
+  geom_pointrange(
+    mapping = aes(x = cut, y = depth),
+    stat = "summary",
+    fun.min = min,
+    fun.max = max,
+    fun = median
+  )
+```
+
+
+### Position Adjustments
+
+We can color Bar Charts using the color *aesthetic* or fill:
+
+```{r}
+# using color, the bar borders will be coloured
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, color = cut))
+```
+
+```{r}
+# using fill, the bars will be filled with the colors
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, fill = cut))
+```
+
+```{r}
+# using fill with a variable with many categories
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, fill = clarity))
+```
+
+#### Adjusting position
+
+```{r}
+# position = 'fill'
+ggplot(data = diamonds) +
+  geom_bar(
+    mapping = aes(x = cut, fill = clarity),
+    position = 'fill'
+    )
+```
+
+
+```{r}
+# position = 'dodge'
+ggplot(data = diamonds) +
+  geom_bar(
+    mapping = aes(x = cut, fill = clarity),
+    position = 'dodge'
+    )
+```
+
+
+```{r}
+# position = 'jitter' - helps to improve scatterplot when variables are discrete
+ggplot(data = mpg) +
+  geom_point(
+    mapping = aes(x = displ, y = hwy),
+    position = 'jitter'
+    )
+```
+
+
+```{r}
+# boxplot
+ggplot(data = mpg, mapping = aes(x = class, y = hwy)) +
+  geom_boxplot()
+
+```
+
+### Coordinate Systems
+
+We can switch the axis using *coord_flip*
+
+```{r}
+# previous boxplot with flipped axis
+ggplot(data = mpg, mapping = aes(x = class, y = hwy)) +
+  geom_boxplot() +
+  coord_flip()
+```
+
+Setting the correct aspect ratio for maps
+
+```{r}
+nz <- map_data('nz')
+
+ggplot(data = nz, aes(long, lat, group = group)) +
+  geom_polygon(fill = 'white', color = 'black')
+
+# adjust aspect ratio using coord_quickmap
+ggplot(nz, aes(long, lat, group = group)) +
+  geom_polygon(fill = 'white', color = 'black') +
+  coord_quickmap()
+```
+
+Using polar coordinates
+
+```{r}
+bar <- ggplot(data = diamonds) +
+  geom_bar(
+    mapping = aes(x = cut, fill = cut),
+    show.legend = FALSE,
+    width = 1
+  ) + 
+  theme(aspect.ratio = 1) +
+  labs(x = NULL, y = NULL)
+
+bar
+```
+
+
+```{r}
+# switch axis
+bar + coord_flip()
+```
+
+```{r}
+# using polar coordinates 
+bar + coord_polar()
+```
+
+
+
+
+
+
+
+
+
+
+
