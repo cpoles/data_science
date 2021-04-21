@@ -3,6 +3,9 @@
 ##########
 
 library(tidyverse)
+library(ggstance)
+library(nycflights13)
+
 
 # Visualising categorical variable distributions
 ggplot(data = diamonds) +
@@ -90,3 +93,27 @@ ggplot(data = mpg) +
   coord_flip()
 
 
+# horizontal boxplot using ggstance
+ggplot(data = mpg) +
+  geom_boxploth(
+    mapping = aes(
+      x = hwy,
+      y = reorder(class, hwy, FUN = median) 
+    )
+  )
+
+# count diamonds by color and cut
+diamonds %>% 
+  count(color, cut)
+
+# visualise heatmap
+diamonds %>% 
+  count(color, cut) %>% 
+  ggplot(mapping = aes(x = color, y = cut)) +
+    geom_tile(mapping = aes(fill = n))
+
+# 
+diamonds %>% 
+  count(cut, color) %>% 
+  ggplot(mapping = aes(x = cut, y = n)) +
+    geom_count(mapping = aes(color = color))
