@@ -117,3 +117,11 @@ diamonds %>%
   count(cut, color) %>% 
   ggplot(mapping = aes(x = cut, y = n)) +
     geom_count(mapping = aes(color = color))
+
+
+# use geom_tile to see avg delays by dest and month
+flights %>% 
+  group_by(dest, month) %>% 
+  summarise(avg_delay = mean(dep_delay, na.rm=TRUE)) %>% 
+  ggplot(mapping = aes(x = month, y = dest)) +
+    geom_tile(mapping = aes(fill = avg_delay))
