@@ -10,47 +10,49 @@ class MammoScan:
         self.__scan = scan
         self.__sc_info = sc_info
     
-    @property
+    @property # scan image
     def scan(self):
         return self.__scan
     
-    @property
+    @property # scan info
     def scan_info(self):
         return self.__sc_info
     
-    @property
+    @property # from the scan file name
     def scan_name(self):
         return self.__sc_info.name
     
-    @property
+    @property # x coordinate of the abnormality
     def x(self):
         return self.__sc_info.x
     
-    @property
+    @property # y coordinate of the abnormality
     def y(self):
         return self.__sc_info.y
     
-    @property
+    @property # radius of the abnormality
     def radius(self):
         return self.__sc_info.radius
 
-    @property
+    @property # class of the abnormality
     def ab_class(self):
         return self.__sc_info.ab_class
     
-    @property
+    @property # background tissue of the abnormality
     def bg(self):
         return self.__sc_info.bg
     
-    @property
+    @property # severity of the abnormality
     def severity(self):
         return self.__sc_info.severity
 
-    @property
+    @property 
+    # generates cropped downsized rotated images of the abnormality
     def transformations(self):
         return self.__transform()
     
     @property
+    # returns the matricial representation fo the scan image
     def pixel_matrix(self):
         return np.array(self.scan)
     
