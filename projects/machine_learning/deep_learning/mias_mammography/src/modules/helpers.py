@@ -141,3 +141,51 @@ def get_transformed_scans(transf_dic: dict) -> list:
     
     return scans
 
+
+def generate_subsamples(path_to_originals: str, mias_df: pd.DataFrame) -> pd.DataFrame:
+    ''' Generates the subsamples for training and testing.
+        Files are saved in ../subsamples
+        it returns a dataframe with the path to each subsample '''
+    scans_filenames_dic = create_scan_filenames_dic(path_to_originals)
+    final = save_subsamples(scans_filenames_dic, mias_df)
+    return final
+
+
+def balance_by_severity(df: pd.DataFrame, ab_class: str) -> pd.DataFrame:
+    ''' Balances an abnormality class based on severity '''
+    # deep copy
+    df = df.copy()
+    # if class == NORM, reduce norm to the avg class sample amount
+    if ab_class == 'NORM':
+        avg = int(df[df.ab_class != 'NORM'].groupby(['ab_class']).severity.size().mean())
+        return df[(df.ab_class == ab_class)].sample(avg)   
+    
+    sev_counts = df[df.ab_class== ab_class].severity.value_counts()
+    n_benign = sev_counts.loc['B']
+    n_malign = sev_counts.loc['M']
+    
+    if n_benign > n_malign:
+        # downsize 'B'
+        benign = df[(df.ab_class == ab_class) & (df.severity == 'B')].sample(n_malign, replace=False)
+        malign = df[(df.ab_class == ab_class) & (df.severity == 'M')]
+    else:
+        benign = df[(df.ab_class == ab_class) & (df.severity == 'B')]
+        malign = df[(df.ab_class == ab_class) & (df.severity == 'M')].sample(n_benign, replace=False)
+        
+    return pd.concat([benign, malign])
+
+
+def create_mias_dataset(file_path: str) -> pd.DataFrame:
+    ''' Creates a dataset with the data about the scans '''
+    # create a dataset
+    mammo = pd.read_table(file_path, delimiter='\s', engine='python')
+    # rename the class column to avoid conflicts with the class keyword in python
+    mammo.columns = ['refnum', 'bg', 'ab_class', 'severity', 'x', 'y', 'radius']
+    # fill null severity with A for NORM class
+    mammo.severity = mammo.severity.fillna('A')
+    # drop duplicates
+    mammo.drop_duplicates(subset='refnum', keep='first', inplace=True)
+    # set refnum as index
+    mammo.set_index(keys='refnum', drop=True, inplace=True)
+    # return clean df and delete unuseful images
+    return clean_ds_files(mammo)
