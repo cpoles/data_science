@@ -117,11 +117,12 @@ class MammoScan:
         cropped_scan = self.scan.crop((x-r, y-r, x+r, y+r))
         resized_scan = cropped_scan.resize((48,48))
         # create rotated images
-        for angle in [0, 90, 180, 270]:
+        for angle in (0, 90, 180, 270):
             rotated = resized_scan.rotate(angle) # rotated by angle
-            mirr_lr = rotated.transpose(Image.FLIP_LEFT_RIGHT)
             mirr_tp = rotated.transpose(Image.FLIP_TOP_BOTTOM)
+            mirr_lr = rotated.transpose(Image.FLIP_LEFT_RIGHT)
+            
             transformations[angle] = dict(zip(['rotated', 'mirr_lr', 'mirr_tp'], 
-                                         [rotated, mirr_lr, mirr_tp]))
+                                              [rotated, mirr_lr, mirr_tp]))
 
         return transformations
