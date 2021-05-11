@@ -8,6 +8,7 @@ import numpy as np
 import re
 from pathlib import Path
 from PIL import Image
+import matplotlib.pyplot as plt
 from .mammoscan import MammoScan
 
 def clean_ds_files(df: pd.DataFrame) -> pd.DataFrame:
