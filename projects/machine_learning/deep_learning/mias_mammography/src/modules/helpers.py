@@ -189,3 +189,70 @@ def create_mias_dataset(file_path: str) -> pd.DataFrame:
     mammo.set_index(keys='refnum', drop=True, inplace=True)
     # return clean df and delete unuseful images
     return clean_ds_files(mammo)
+
+def plot_results(acc,val_acc,loss, val_loss):
+    # create grit
+    fig, (ax1, ax2) = plt.subplots(nrows = 1,
+                                   ncols = 2,
+                                   figsize = (15,6),
+                                   sharex =True)
+    
+    # set plots
+    plot1 = ax1.plot(range(0, len(acc)),
+                     acc,
+                     label = 'accuracy')
+    
+    
+    plot2 = ax1.plot(range(0, len(val_acc)),
+                     val_acc,
+                     label = 'val_accuracy')
+
+    ax1.set(title = 'Accuracy And Val Accuracy progress',
+            xlabel = 'epoch',
+            ylabel = 'accuracy/ validation accuracy')
+
+    ax1.legend()
+
+    plot3 = ax2.plot(range(0, len(loss)),
+                     loss,
+                     label = 'loss')
+    
+    plot4 = ax2.plot(range(0, len(val_loss)),
+                     val_loss,
+                     label = 'val_loss')
+    
+    ax2.set(title = 'Loss And Val loss progress',
+            xlabel = 'epoch',
+            ylabel = 'loss/ validation loss')
+
+    ax2.legend()
+
+    fig.suptitle('Result Of Model', fontsize = 20, fontweight = 'bold')
+    fig.savefig('Accuracy_Loss_figure.png')
+    plt.tight_layout()
+    plt.show()
+    
+    
+def balance_df_by_severity(df: pd.DataFrame) -> pd.DataFrame:
+    final_df = pd.DataFrame()
+    for ab_class in df.ab_class.unique():
+        class_df = balance_by_severity(df, ab_class)
+        final_df = pd.concat([class_df, final_df])
+        
+    return final_df.sample(len(final_df), replace = False)
+
+
+def full_balance_df_by_severity(df: pd.DataFrame) -> pd.DataFrame:
+    final_df = pd.DataFrame()
+    for ab_class in df.ab_class.unique():
+        if ab_class == 'NORM':
+            class_df = balance_by_severity(df, ab_class).sample(96, replace = False)
+        else:
+            class_df = balance_by_severity(df, ab_class)
+            class_df_B = class_df[class_df.severity == 'B'].sample(48, replace = False)
+            class_df_A = class_df[class_df.severity == 'M'].sample(48, replace = False)
+            class_df = pd.concat([class_df_A, class_df_B])
+            class_df = class_df.sample(len(class_df), replace = False)
+        final_df = pd.concat([class_df, final_df])
+        
+    return final_df.sample(len(final_df), replace = False)
