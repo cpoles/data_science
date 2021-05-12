@@ -260,3 +260,7 @@ def full_balance_df_by_severity(df: pd.DataFrame) -> pd.DataFrame:
         final_df = pd.concat([class_df, final_df])
         
     return final_df.sample(len(final_df), replace = False)
+
+def display_probabilities(prediction):
+    for index, probability in enumerate(prediction):
+        print(f'{index}: {probability:.10%}')
