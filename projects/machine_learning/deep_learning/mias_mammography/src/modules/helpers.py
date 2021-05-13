@@ -264,3 +264,8 @@ def full_balance_df_by_severity(df: pd.DataFrame) -> pd.DataFrame:
 def display_probabilities(prediction):
     for index, probability in enumerate(prediction):
         print(f'{index}: {probability:.10%}')
+        
+def create_final_results_df() -> pd.DataFrame:
+    # create dataframe for results
+    data = {"calcifications": [0, 0, 0, 0]}
+    return pd.DataFrame.from_dict(data, orient='index', columns=['precision','recall', 'f1-score', 'support'])
