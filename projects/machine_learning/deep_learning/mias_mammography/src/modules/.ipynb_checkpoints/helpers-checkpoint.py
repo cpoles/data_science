@@ -268,4 +268,4 @@ def display_probabilities(prediction):
 def create_final_results_df() -> pd.DataFrame:
     # create dataframe for results
     data = {"calcifications": [0, 0, 0, 0]}
-    return pd.DataFrame.from_dict(data, orient='index', columns=['precision','recall', 'f1-score', 'support'])
+    return pd.DataFrame.from_dict(data, orient='index', columns=['test_accuracy', 'precision','recall', 'f1-score'])
