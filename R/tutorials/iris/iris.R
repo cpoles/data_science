@@ -63,4 +63,65 @@ featurePlot(x = x, y = y, plot = "density", scales = scales)
 ## Evaluate Algorithms ----
 
 # run algorithms using 10-fold cross validation
+control <- trainControl(method = "cv", number = 10)
+metric <- "Accuracy"
+
+## Build Models
+
+# - Linear Discriminant Analysis (LDA)
+# - Classification and Regression Trees (CART)
+# - k-Nearest Neighbours (kNN)
+# - Support Vector Machines (SVM) with a linear kernel
+# - Random Forest (RF)
+
+# a) linear algorithms
+set.seed(7)
+fit.lda <- train(Species ~ ., data = iris_ds, method = "lda", metric = metric,
+                 trControl = control)
+
+# b) non-linear algorithms
+# CART
+set.seed(7)
+fit.cart <- train(Species ~ ., data = iris_ds, method = "rpart", metric = metric,
+                  trControl = control)
+
+# kNN
+set.seed(7)
+fit.knn <- train(Species ~ ., data = iris_ds, method = "knn", metric = metric,
+                 trControl = control)
+
+# c) advanced algorithms
+#SVM
+set.seed(7)
+fit.svm <- train(Species ~ ., data = iris_ds, method = "svmRadial", metric = metric,
+                 trControl = control)
+
+# Random Forest
+set.seed(7)
+fit.rf <- train(Species ~ ., data = iris_ds, method = "rf", metric = metric,
+                trControl = control)
+
+
+## Select Best Model
+
+# summarise accuracy of models
+results <- resamples(list(lda=fit.lda, cart=fit.cart, knn=fit.knn, svm=fit.svm,
+                          rf=fit.rf))
+
+summary(results)
+
+# compare accuracy of models
+dotplot(results)
+
+## Summarise best model ----
+print(fit.lda)
+
+## Make Predictions ----
+
+# predictions on the validation dataset using LDA
+predictions <- predict(fit.lda, validation)
+confusionMatrix(predictions, validation$Species)
+
+
+
 
