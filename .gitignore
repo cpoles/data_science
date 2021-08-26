@@ -18,3 +18,6 @@ projects/machine_learning/deep_learning/mias_mammography/notebooks/test_df.csv
 
 projects/machine_learning/deep_learning/mias_mammography/notebooks/sandbox.ipynb
 projects/machine_learning/deep_learning/mias_mammography/notebooks/sandbox-checkpoint.ipynb
+
+machine_learning/udacity/enron_mail_20150507.tar.gz
+machine_learning/udacity/tools/maildir
