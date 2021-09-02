@@ -34,9 +34,17 @@ plt.show()
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-clf = RandomForestClassifier(n_estimators=500, 
-                             max_leaf_nodes=16,
-                             n_jobs=-1)
+params = {'bootstrap': False,
+ 'criterion': 'entropy',
+ 'max_depth': 7,
+ 'max_features': 'auto',
+ 'max_leaf_nodes': 16,
+ 'n_estimators': 200,
+ 'n_jobs': -1,
+ 'oob_score': False}
+
+
+clf = RandomForestClassifier(**params)
 
 clf.fit(features_train, labels_train)
 
