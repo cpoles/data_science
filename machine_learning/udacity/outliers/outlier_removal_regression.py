@@ -12,8 +12,6 @@ from outlier_cleaner import outlierCleaner
 ages = joblib.load( open("practice_outliers_ages.pkl", "rb") )
 net_worths = joblib.load( open("practice_outliers_net_worths.pkl", "rb") )
 
-
-
 ### ages and net_worths need to be reshaped into 2D numpy arrays
 ### second argument of reshape command is a tuple of integers: (n_rows, n_columns)
 ### by convention, n_rows is the number of data points
@@ -46,15 +44,10 @@ plt.show()
 cleaned_data = []
 try:
     predictions = reg.predict(ages_train)
-    cleaned_data = outlierCleaner( predictions, ages_train, net_worths_train )
+    cleaned_data = outlierCleaner(predictions, ages_train, net_worths_train)
 except NameError:
     print("Your regression object doesn't exist, or isn't name reg")
     print("Can't make predictions to use in identifying outliers")
-
-
-
-
-
 
 
 ### only run this code if cleaned_data is returning data
@@ -66,6 +59,8 @@ if len(cleaned_data) > 0:
     ### refit your cleaned data!
     try:
         reg.fit(ages, net_worths)
+        print(f'New Slope: {reg.coef_}')
+        print(f'New R2: {reg.score(ages_test, net_worths_test)}')
         plt.plot(ages, reg.predict(ages), color="blue")
     except NameError:
         print("You don't seem to have regression imported/created,")
