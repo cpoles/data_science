@@ -1,2 +1,0 @@
-def transpose(lines):
-    pass
