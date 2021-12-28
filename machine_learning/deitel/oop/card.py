@@ -6,7 +6,7 @@ class Card:
              '6', '7', '8', '9', '10',
              'Jack', 'Queen', 'King']
     
-    SUITS = ['Hearts', 'Diamods', 'Clubs', 'Spades']
+    SUITS = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
 
     def __init__(self, face, suit) -> None:
         '''Initialize a Card with a face and suit'''
