@@ -62,21 +62,13 @@ class PhoneNumber:
 
     @property
     def area_code(self):
-        if len(self.number) == 11:
-            _, area_code, _, _ = split_phone(self.number)
-            return area_code
-        elif len(self.number) == 10:
-            area_code, _, _ = split_phone(self.number)
-            return area_code 
+        area_code, _, _ = split_phone(self.number)
+        return area_code 
 
     def pretty(self):
-        if len(self.number) == 11:
-            ccode, area_code, ex_code, subs = split_phone(self.number)
-            return f'({area_code})-{ex_code}-{subs}' 
-        elif len(self.number) == 10:
-            area_code, ex_code, subs = split_phone(self.number)
-            return f'({area_code})-{ex_code}-{subs}'
-               
+        area_code, ex_code, subs = split_phone(self.number)
+        return f'({area_code})-{ex_code}-{subs}' 
+              
 
 if __name__ == '__main__':
     number = PhoneNumber("12234567890")
