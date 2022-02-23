@@ -1,10 +1,10 @@
 def square_of_sum(number):
-    pass
+    return sum(list(range(1, number + 1))) ** 2
 
 
 def sum_of_squares(number):
-    pass
+    return sum([x ** 2 for x in range(1, number + 1)])
 
 
 def difference_of_squares(number):
-    pass
+    return square_of_sum(number) - sum_of_squares(number)
