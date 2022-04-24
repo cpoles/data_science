@@ -23,3 +23,6 @@ projects/machine_learning/deep_learning/mias_mammography/notebooks/sandbox-check
 
 machine_learning/udacity/enron_mail_20150507.tar.gz
 machine_learning/udacity/tools/maildir
+
+
+deep_learning/deep_learning_spec/convolutional_neural_nets/week_02/residual_networks/resnet50.h5
