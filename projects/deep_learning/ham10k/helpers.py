@@ -142,3 +142,69 @@ def translate_dataset(df: pd.DataFrame) -> pd.DataFrame:
     df['sex'] = df.sex.map(sex_pt)
     
     return df
+
+
+def create_training_validatation_sets(df, batch_size, nn, data_augmentation=False):
+    BATCH_SIZE = batch_size
+    IMG_SIZE = set_input_size(nn)
+    # split df into train_val and test sets
+    train_val = df.sample(frac=0.8, random_state=42)
+    test = df.drop(train_val.index) 
+    # create image data generator for train_val
+    train_data_generator = ImageDataGenerator()
+
+    if data_augmentation == True:
+        train_data_generator = ImageDataGenerator(validation_split=0.25,
+                                                    preprocessing_function=preprocess_input,                                                    
+                                                    rescale=1./255,
+                                                    rotation_range=20,
+                                                    width_shift_range=0.2,
+                                                    height_shift_range=0.2,
+                                                    horizontal_flip=True,
+                                                    dtype=np.uint8
+                                                  )
+    else:
+        train_data_generator = ImageDataGenerator(validation_split=0.25,
+                                                  preprocessing_function=preprocess_input,
+                                                  rescale=1./255)
+
+
+    # create image data generator for testing
+    test_data_generator = ImageDataGenerator(rescale=1./255)
+
+    # train data
+    train_data = train_data_generator.flow_from_dataframe(train_val, 
+                                                    x_col="path", 
+                                                    y_col="dx",
+                                                    class_mode="categorical",
+                                                    target_size=IMG_SIZE,
+                                                    batch_size=BATCH_SIZE,
+                                                    subset="training",
+                                                    color_mode="rgb",
+                                                    shuffle=True,
+                                                    seed=42)
+
+    # val data
+    val_data = train_data_generator.flow_from_dataframe(train_val, 
+                                                    x_col="path", 
+                                                    y_col="dx",
+                                                    class_mode="categorical",
+                                                    target_size=IMG_SIZE,
+                                                    batch_size=BATCH_SIZE,
+                                                    subset="validation",
+                                                    color_mode="rgb",
+                                                    shuffle=True,
+                                                    seed=42)
+
+    # test data
+    test_data = test_data_generator.flow_from_dataframe(test, 
+                                                    x_col="path", 
+                                                    y_col="dx",
+                                                    class_mode="categorical",
+                                                    target_size=IMG_SIZE,
+                                                    batch_size=BATCH_SIZE,                                                    
+                                                    color_mode="rgb",
+                                                    shuffle=True,
+                                                    seed=42)
+    
+    return train_data, val_data, test_data
