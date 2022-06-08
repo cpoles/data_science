@@ -4,7 +4,7 @@ import re
 def matches(text):
     st_vowel = re.compile(r'^[aeiou]')
     cons_vowel_sound = re.compile(r'([xrty][xrty]+)')
-    cons_qus = re.compile(r'(^squ)|(^qu)|(^[^aeiou]+)y|(^[^aeiou]+)')
+    cons_qus = re.compile(r'(^squ)|(^qu)|(^[^aeiou]+)')
     cons_y = re.compile(r'(^[^aeiou]+)y')
     ay = 'ay'
 
