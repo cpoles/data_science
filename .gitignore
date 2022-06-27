@@ -29,7 +29,10 @@ deep_learning/deep_learning_spec/convolutional_neural_nets/week_02/residual_netw
 
 deep_learning/deep_learning_spec/convolutional_neural_nets/week_03/autonomous_driving_car_detection/model_data/variables/variables.data-00000-of-00001
 
-/deep_learning/deep_learning_spec/sequence_models/jazz_improvisation/data/training_example.wav
-/deep_learning/deep_learning_spec/sequence_models/jazz_improvisation/data/training_example.mp3
+/deep_learning/deep_learning_spec/sequence_models/week_01/jazz_improvisation/data/training_example.wav
+/deep_learning/deep_learning_spec/sequence_models/week_01/jazz_improvisation/data/training_example.mp3
+
+/deep_learning/deep_learning_spec/sequence_models/week_02/word_vectors/data/glove.6B.50d.txt
+/deep_learning/deep_learning_spec/sequence_models/week_02/emojify/data/glove.6B.50d.txt
 
 
