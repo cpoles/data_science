@@ -1,7 +1,6 @@
 # Document Scanner
 
-A Python/OpenCV program simulating a document scanner using either a webcam
-or an input image.
+A Python/OpenCV program simulating a B&W document scanner.
 
 ## Installation
 Create a conda environment using requirements.txt
