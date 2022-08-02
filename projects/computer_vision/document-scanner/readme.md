@@ -16,7 +16,7 @@ The program executes three main steps:
 3. Apply perspective transform
 
 The program applies a four point perspective transformation
-imitating a B&W scanner
+imitating a B&W scanner. 
 
 The modules folder contains the functions for performing
 the four point perspective transform. Credits to [PyImageSearch](https://pyimagesearch.com).
@@ -25,18 +25,22 @@ the four point perspective transform. Credits to [PyImageSearch](https://pyimage
 
 #### Webcam
 ```bash
-python doc_scan.py -w True
+python doc_scan.py -w True # shows all images, step by step.
+python doc_scan2.py -w True # shows only the scanning step
 ```
-Images captured by the webcam are saved in the [Images](./images) folder
+Images captured by the webcam are saved in the [images](./images) folder \
+Scanned images are saved in the [scanned_images](./scanned_images) folder
 
 #### Input image
 ```bash
-python doc_scan.py -i <path_to_image>
+python doc_scan.py -i <path_to_image> # shows all images, step by step.
+python doc_scan2.py -i <path_to_image> # shows only the scanning step
 ```
 
 ## Hints
 For best results, make sure the image has good light conditions and
 reasonable contrast between background and foreground
+
 
 ## Example
 #### Original
