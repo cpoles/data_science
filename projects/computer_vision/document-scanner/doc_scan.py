@@ -9,6 +9,7 @@ import argparse
 import imutils
 import numpy as np
 from modules.transform import four_point_transform
+from modules.helpers import write_to_disk
 from skimage.filters import threshold_local
 
 # construct the argument parser and parse the arguments
@@ -71,22 +72,21 @@ if webcam:
         elif key % 256 == 32:  # SPACEBAR
             # --- GET DIRECTORY FOR SAVING --- #
             shot_count += 1
-            cwd = os.getcwd()
-            save_dir = os.path.join(cwd, 'images')
-            img_path = os.path.join(save_dir, f'my_shot_{shot_count}.png')
-
-            print(img_path)
             # write img to disk
-            cv2.imwrite(img_path, frame)
-            print(f"Image Saved to {img_path} \n successfully.")
+            img_name = f'my_shot_{shot_count}.png'
+            img_path = write_to_disk(frame, img_name, 'images')
 
     cam.release()
     del cam
     cv2.destroyAllWindows()
 
-
 # ----- EDGE DETECTION ------ #
-image = cv2.imread(img_path)
+if img_path:
+    image = cv2.imread(img_path)
+else:
+    print("Image not captured.")
+    raise SystemExit(0)
+
 
 # get image dimensions
 OLD_HEIGHT, OLD_WIDTH, _ = image.shape
@@ -160,4 +160,7 @@ warped = (warped > T).astype('uint8') * 255
 # show original and scanned images
 cv2.imshow('Original', imutils.resize(orig, height=650))
 cv2.imshow('Scanned', imutils.resize(warped, height=650))
+# write scanned image to disk
+write_to_disk(warped, 'scanned.png', 'scanned_images')
+
 cv2.waitKey(0)

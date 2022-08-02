@@ -82,6 +82,14 @@ def validate_args(curr_dir):
 def write_to_disk(image, image_name, directory):
     cwd = os.getcwd()
     save_dir = os.path.join(cwd, directory)
+
+    if not os.path.exists(save_dir):
+        try:
+            os.mkdir(save_dir)
+            print(f'{save_dir} directory created.')
+        except IOError:
+            print('Error creating directory.')
+
     img_name = os.path.join(save_dir, image_name)
     try:
         cv2.imwrite(img_name, image)
