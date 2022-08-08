@@ -14,7 +14,8 @@ ANSWER_KEY = {0: 0, 1: 3, 2: 2, 3: 1, 4: 3}
 if __name__ == '__main__':
     curr_dir = os.getcwd()
     img_path = hp.validate_args(curr_dir)
-    print(img_path)
+    img_name = os.path.basename(img_path)
+    img_name = os.path.splitext(img_name)[0]
 
     if not img_path:
         print("Image not captured.")
@@ -96,10 +97,13 @@ if __name__ == '__main__':
             # draw the outline of the correct answer on the test
             cv2.drawContours(document, [cnts[k]], -1, color, 3)
 
+
         # grab the test taker
         score = (correct_answers / 5.0) * 100
         print(f"[INFO] Total: {score:.2f}")
-        cv2.putText(document, f"Total: {score}%", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 2)
+        cv2.putText(document, f"Correct: {score}%", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
+        cv2.putText(document, f"Incorrect: {100 - score}%", (10, 80), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 0, 255), 2)
+        hp.write_to_disk(document, img_name + '_graded.png', 'graded')
         cv2.imshow("Original", image)
         cv2.imshow("Exam", document)
         cv2.waitKey(0)
