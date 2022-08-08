@@ -28,7 +28,7 @@ the four point perspective transform. Credits to [PyImageSearch](https://pyimage
 python grader.py -w True 
 ```
 Images captured by the webcam are saved in the [images](./images) folder \
-Graded images are saved in the [scanned_images](./scanned_images) folder
+Graded images are saved in the [scanned_images](./graded) folder
 
 #### Input image
 ```bash
