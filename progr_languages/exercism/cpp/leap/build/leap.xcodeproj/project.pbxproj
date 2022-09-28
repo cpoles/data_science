@@ -1,0 +1,890 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		18D2AB5DC21044CDA99E91B8 /* test_leap */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 2DCA7AAEE7C9427886B96FE1 /* Build configuration list for PBXAggregateTarget "test_leap" */;
+			buildPhases = (
+				56736472190CB1DB30DBF0E0 /* Generate CMakeFiles/test_leap */,
+			);
+			dependencies = (
+				BB0F3171D3E44A2EB7F788E6 /* PBXTargetDependency */,
+				09A59D7CF7AA468CA5496BC4 /* PBXTargetDependency */,
+			);
+			name = test_leap;
+			productName = test_leap;
+		};
+		6044C7AF2E904C339C1EDFF6 /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 6C323239E6324AC5A39FC331 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				B79D79967AE5F2A14CD3E70B /* Generate CMakeFiles/ZERO_CHECK */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+		EE3309741F75487DB3C3F5F4 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 94757A64E9F945FBBCA656AD /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				74D5A52E16A2E1AB5285BEBB /* Generate CMakeFiles/ALL_BUILD */,
+			);
+			dependencies = (
+				1C3B08F6C4144F9BB45439B2 /* PBXTargetDependency */,
+				BBF412F4DA3F4BC1A672CB97 /* PBXTargetDependency */,
+				812C9385ADBE4442822B3AC6 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		5C12957D1B9C4A9C9D61C4E9 /* tests-main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FCCEB01E3DBE4E6CB87AE45C /* tests-main.cpp */; };
+		B85C3DA128E50AFD0083AFBE /* leap_test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 25E5148CC0624251BDA646E8 /* leap_test.cpp */; };
+		F36B107440BF473E826357EF /* leap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA783B92BDCD43588AF4F8B5 /* leap.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		285002C11F564CDA8DE89CEA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4491D5B4AC404D39840C464D;
+			remoteInfo = leap;
+		};
+		39C7D89B58E0449EA68CEC16 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6044C7AF2E904C339C1EDFF6;
+			remoteInfo = ZERO_CHECK;
+		};
+		478467D1068C43BBA5CE0296 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6044C7AF2E904C339C1EDFF6;
+			remoteInfo = ZERO_CHECK;
+		};
+		C67A70C551144E79AF85F979 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6044C7AF2E904C339C1EDFF6;
+			remoteInfo = ZERO_CHECK;
+		};
+		CD87B2597A1B466FA1A72C27 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18D2AB5DC21044CDA99E91B8;
+			remoteInfo = test_leap;
+		};
+		DEF78B1E20CB4C3ABD53B6BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FF315185984462E80F092F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4491D5B4AC404D39840C464D;
+			remoteInfo = leap;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		25E5148CC0624251BDA646E8 /* leap_test.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = leap_test.cpp; sourceTree = SOURCE_ROOT; };
+		67538614C9AE43A69A4B756A /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		68D2792A2F824544A2350371 /* leap.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; path = leap.h; sourceTree = SOURCE_ROOT; };
+		9492109B687F45D884376986 /* leap */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = leap; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA783B92BDCD43588AF4F8B5 /* leap.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = leap.cpp; sourceTree = SOURCE_ROOT; };
+		B2158A2AA2604DF793C19C89 /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		FCCEB01E3DBE4E6CB87AE45C /* tests-main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = "tests-main.cpp"; path = "test/tests-main.cpp"; sourceTree = SOURCE_ROOT; };
+		FFC574CEAAE649B19960D0EC /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1DF4AAF761074F819AE1458E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		076F373C4C30420BAB95EDD4 = {
+			isa = PBXGroup;
+			children = (
+				D7433049A83940029A794E7C /* leap */,
+				FB4FB5DA13FE4BA5B89BF7E8 /* test_leap */,
+				180EF644A4CC4030AF0ADBBA /* ALL_BUILD */,
+				B434C3FBFBE5496AB284EEE7 /* Products */,
+				FC8005EE7F2C404A8576E740 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0FE800200C96418FB9313B9B /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		180EF644A4CC4030AF0ADBBA /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				0FE800200C96418FB9313B9B /* CMake Rules */,
+				67538614C9AE43A69A4B756A /* CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+		8C4C0C98999A4B79A6BF3C2D /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				68D2792A2F824544A2350371 /* leap.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		B434C3FBFBE5496AB284EEE7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9492109B687F45D884376986 /* leap */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B9C85D193576417B8DF927FF /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				AA783B92BDCD43588AF4F8B5 /* leap.cpp */,
+				25E5148CC0624251BDA646E8 /* leap_test.cpp */,
+				FCCEB01E3DBE4E6CB87AE45C /* tests-main.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		D7433049A83940029A794E7C /* leap */ = {
+			isa = PBXGroup;
+			children = (
+				B9C85D193576417B8DF927FF /* Source Files */,
+				8C4C0C98999A4B79A6BF3C2D /* Header Files */,
+				B2158A2AA2604DF793C19C89 /* CMakeLists.txt */,
+			);
+			name = leap;
+			sourceTree = "<group>";
+		};
+		F6150B3F163346508AE7B058 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		FB4FB5DA13FE4BA5B89BF7E8 /* test_leap */ = {
+			isa = PBXGroup;
+			children = (
+				F6150B3F163346508AE7B058 /* CMake Rules */,
+				FFC574CEAAE649B19960D0EC /* CMakeLists.txt */,
+			);
+			name = test_leap;
+			sourceTree = "<group>";
+		};
+		FC8005EE7F2C404A8576E740 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4491D5B4AC404D39840C464D /* leap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE8B79EFCDDF49CA927F54ED /* Build configuration list for PBXNativeTarget "leap" */;
+			buildPhases = (
+				491D04F644CD40F7B9268BF9 /* Sources */,
+				1DF4AAF761074F819AE1458E /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BF6CCDA8EA1147F98748CCC3 /* PBXTargetDependency */,
+			);
+			name = leap;
+			productName = leap;
+			productReference = 9492109B687F45D884376986 /* leap */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4FF315185984462E80F092F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1310;
+			};
+			buildConfigurationList = 9CB675C8B662470BA92BABAC /* Build configuration list for PBXProject "leap" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 076F373C4C30420BAB95EDD4;
+			projectDirPath = ../;
+			projectRoot = "";
+			targets = (
+				EE3309741F75487DB3C3F5F4 /* ALL_BUILD */,
+				6044C7AF2E904C339C1EDFF6 /* ZERO_CHECK */,
+				4491D5B4AC404D39840C464D /* leap */,
+				18D2AB5DC21044CDA99E91B8 /* test_leap */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		56736472190CB1DB30DBF0E0 /* Generate CMakeFiles/test_leap */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/Debug/leap,
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/MinSizeRel/leap,
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/RelWithDebInfo/leap,
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/Release/leap,
+			);
+			name = "Generate CMakeFiles/test_leap";
+			outputPaths = (
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/test_leap,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nif test \"$CONFIGURATION\" = \"Debug\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/Debug/leap\nfi\nif test \"$CONFIGURATION\" = \"Release\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/Release/leap\nfi\nif test \"$CONFIGURATION\" = \"MinSizeRel\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/MinSizeRel/leap\nfi\nif test \"$CONFIGURATION\" = \"RelWithDebInfo\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/RelWithDebInfo/leap\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		74D5A52E16A2E1AB5285BEBB /* Generate CMakeFiles/ALL_BUILD */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ALL_BUILD";
+			outputPaths = (
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/ALL_BUILD,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nif test \"$CONFIGURATION\" = \"Debug\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  echo Build\\ all\\ projects\nfi\nif test \"$CONFIGURATION\" = \"Release\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  echo Build\\ all\\ projects\nfi\nif test \"$CONFIGURATION\" = \"MinSizeRel\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  echo Build\\ all\\ projects\nfi\nif test \"$CONFIGURATION\" = \"RelWithDebInfo\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  echo Build\\ all\\ projects\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B79D79967AE5F2A14CD3E70B /* Generate CMakeFiles/ZERO_CHECK */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ZERO_CHECK";
+			outputPaths = (
+				/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/ZERO_CHECK,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nif test \"$CONFIGURATION\" = \"Debug\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  make -f /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeScripts/ReRunCMake.make\nfi\nif test \"$CONFIGURATION\" = \"Release\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  make -f /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeScripts/ReRunCMake.make\nfi\nif test \"$CONFIGURATION\" = \"MinSizeRel\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  make -f /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeScripts/ReRunCMake.make\nfi\nif test \"$CONFIGURATION\" = \"RelWithDebInfo\"; then :\n  cd /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build\n  make -f /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeScripts/ReRunCMake.make\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		491D04F644CD40F7B9268BF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F36B107440BF473E826357EF /* leap.cpp in Sources */,
+				5C12957D1B9C4A9C9D61C4E9 /* tests-main.cpp in Sources */,
+				B85C3DA128E50AFD0083AFBE /* leap_test.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		09A59D7CF7AA468CA5496BC4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4491D5B4AC404D39840C464D /* leap */;
+			targetProxy = 285002C11F564CDA8DE89CEA /* PBXContainerItemProxy */;
+		};
+		1C3B08F6C4144F9BB45439B2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6044C7AF2E904C339C1EDFF6 /* ZERO_CHECK */;
+			targetProxy = C67A70C551144E79AF85F979 /* PBXContainerItemProxy */;
+		};
+		812C9385ADBE4442822B3AC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18D2AB5DC21044CDA99E91B8 /* test_leap */;
+			targetProxy = CD87B2597A1B466FA1A72C27 /* PBXContainerItemProxy */;
+		};
+		BB0F3171D3E44A2EB7F788E6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6044C7AF2E904C339C1EDFF6 /* ZERO_CHECK */;
+			targetProxy = 478467D1068C43BBA5CE0296 /* PBXContainerItemProxy */;
+		};
+		BBF412F4DA3F4BC1A672CB97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4491D5B4AC404D39840C464D /* leap */;
+			targetProxy = DEF78B1E20CB4C3ABD53B6BE /* PBXContainerItemProxy */;
+		};
+		BF6CCDA8EA1147F98748CCC3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6044C7AF2E904C339C1EDFF6 /* ZERO_CHECK */;
+			targetProxy = 39C7D89B58E0449EA68CEC16 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0E929F0F57F84BD8B2048415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				MACOSX_DEPLOYMENT_TARGET = 11.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk;
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/build;
+			};
+			name = Release;
+		};
+		17ED6E873F234E00A0DE2242 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNDEBUG",
+					"-Wall",
+					"-Wextra",
+					"-Wpedantic",
+					"-Werror",
+					"'-std=c++17'",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+					"$(inherited)",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = RelWithDebInfo;
+		};
+		1BAF59DAB97449AA8AB43029 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Release;
+		};
+		35D40154EE9D412A931507AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Debug;
+		};
+		39039C9762814166B8C37862 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = RelWithDebInfo;
+		};
+		57912BD59FEC443CB6A76ACC /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNDEBUG",
+					"-Wall",
+					"-Wextra",
+					"-Wpedantic",
+					"-Werror",
+					"'-std=c++17'",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+					"$(inherited)",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = MinSizeRel;
+		};
+		5973165A3FFA42CDB68E73FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Release;
+		};
+		7E413472A09845A49F923AEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = (
+					"-Wall",
+					"-Wextra",
+					"-Wpedantic",
+					"-Werror",
+					"'-std=c++17'",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+					"$(inherited)",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Debug;
+		};
+		853A888CB5FD488F9C857FE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = test_leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Release;
+		};
+		8A1FAC271B104385AF1B74B9 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = RelWithDebInfo;
+		};
+		8CDB80DB0E654D8C9AA67E53 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Debug;
+		};
+		96526B60D1C0471CA80440C5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = test_leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Debug;
+		};
+		9A9DF98ED8934DF19967687D /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = MinSizeRel;
+		};
+		A5479ACD85D944CE86F25169 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				MACOSX_DEPLOYMENT_TARGET = 11.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk;
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/build;
+			};
+			name = RelWithDebInfo;
+		};
+		CAC6BCD04B924FFCB242AB71 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = test_leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = RelWithDebInfo;
+		};
+		E0114EC9447149649413660A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				MACOSX_DEPLOYMENT_TARGET = 11.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk;
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/build;
+			};
+			name = Debug;
+		};
+		E4DD2BEDE39C4D48BA0A19F7 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = MinSizeRel;
+		};
+		E74165A7415E4AE3A863FD3F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNDEBUG",
+					"-Wall",
+					"-Wextra",
+					"-Wpedantic",
+					"-Werror",
+					"'-std=c++17'",
+				);
+				OTHER_LDFLAGS = (
+					"-Wl,-search_paths_first",
+					"-Wl,-headerpad_max_install_names",
+					"$(inherited)",
+				);
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = Release;
+		};
+		F5439BCE770B47118DCF08AF /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " $(inherited)";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = test_leap;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = "$(inherited)";
+			};
+			name = MinSizeRel;
+		};
+		FDC7153B07C74076AEF51EEC /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				MACOSX_DEPLOYMENT_TARGET = 11.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk;
+				SYMROOT = /Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/build;
+			};
+			name = MinSizeRel;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2DCA7AAEE7C9427886B96FE1 /* Build configuration list for PBXAggregateTarget "test_leap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96526B60D1C0471CA80440C5 /* Debug */,
+				853A888CB5FD488F9C857FE1 /* Release */,
+				F5439BCE770B47118DCF08AF /* MinSizeRel */,
+				CAC6BCD04B924FFCB242AB71 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		6C323239E6324AC5A39FC331 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CDB80DB0E654D8C9AA67E53 /* Debug */,
+				5973165A3FFA42CDB68E73FD /* Release */,
+				9A9DF98ED8934DF19967687D /* MinSizeRel */,
+				8A1FAC271B104385AF1B74B9 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		94757A64E9F945FBBCA656AD /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D40154EE9D412A931507AB /* Debug */,
+				1BAF59DAB97449AA8AB43029 /* Release */,
+				E4DD2BEDE39C4D48BA0A19F7 /* MinSizeRel */,
+				39039C9762814166B8C37862 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9CB675C8B662470BA92BABAC /* Build configuration list for PBXProject "leap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0114EC9447149649413660A /* Debug */,
+				0E929F0F57F84BD8B2048415 /* Release */,
+				FDC7153B07C74076AEF51EEC /* MinSizeRel */,
+				A5479ACD85D944CE86F25169 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		BE8B79EFCDDF49CA927F54ED /* Build configuration list for PBXNativeTarget "leap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E413472A09845A49F923AEA /* Debug */,
+				E74165A7415E4AE3A863FD3F /* Release */,
+				57912BD59FEC443CB6A76ACC /* MinSizeRel */,
+				17ED6E873F234E00A0DE2242 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4FF315185984462E80F092F4 /* Project object */;
+}

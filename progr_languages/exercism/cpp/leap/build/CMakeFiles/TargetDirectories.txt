@@ -1,0 +1,4 @@
+/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/leap.dir
+/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/test_leap.dir
+/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/ALL_BUILD.dir
+/Users/krustybr/Programming/data_science/progr_languages/exercism/cpp/leap/build/CMakeFiles/ZERO_CHECK.dir
