@@ -1,5 +1,0 @@
-# ignore the ham10000 images directory
-ham10k_images/
-
-# ignore .DS_Store
-/.DS_Store
