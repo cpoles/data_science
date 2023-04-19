@@ -1,6 +1,6 @@
 def transpose(lines):
     if not lines:
-        return ''
+        return "\n".join(lines)
 
     lines = lines.split('\n')
     # get the longest string in the list
@@ -11,8 +11,25 @@ def transpose(lines):
     lines = [line.ljust(max_len) for line in lines]
     # zip all elements of the list
     lines = list(map(lambda x: ''.join(x), zip(*lines)))
-    lines[min_len:] = list(map(lambda x: x.rstrip(), lines[min_len:]))
 
-    return '\n'.join(lines)
+    # length of the largest line containing the penultimate period at the end of the line
+    mlen = 0
+    
+    for idx, line  in enumerate(lines):
+        if line[-1] == '.':
+            mlen = len(line)
+            for i in range(idx+1, len(lines)):
+                lines[i] = lines[i][:-1]
+        
+        if line == lines[-1]:
+            lines[-1] = line.rstrip()
+
+    for idx, line in enumerate(lines):
+        if all([c == " " for c in line]):
+            continue
+
+        if len(line) > len(lines[-1]) and len(line) < mlen:
+            lines[idx] = line.rstrip()
 
 
+    return "\n".join(lines)
