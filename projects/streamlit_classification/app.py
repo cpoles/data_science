@@ -6,6 +6,7 @@
 import time
 import numpy as np
 import pandas as pd
+import pandas_profiling
 import streamlit as st
 import sklearn.metrics
 import sklearn.datasets
@@ -13,6 +14,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix
+from streamlit_pandas_profiling import st_profile_report
 
 # Title bar
 st.title(f"ML Classification with Logistic Regression")
@@ -44,8 +46,9 @@ def load_data(dataset):
     '''
         Loads a sklearn dataset
 
-        @params
         :param str dataset: The name of the dataset to be loaded
+
+        :return: sklearn dataset
     '''
     if dataset == 'Iris':
         data = sklearn.datasets.load_iris()
@@ -60,9 +63,10 @@ def data_preprocess(dataset, test_size):
     '''
         Preprocesses the dataset for training
 
-        @params
         :param np.array dataset: The whole dataset
         :param float test_size
+
+        :return: tuple with train and test data
     '''
     # Split dataset into train and test
     X_train, X_test, y_train, y_test = train_test_split(dataset.data, dataset.target, test_size=float(test_size), random_state=42)
@@ -83,8 +87,8 @@ def create_model(params, train_data):
         Returns a trained Logistic Regression model
 
         @params
-        :params dict params: Dictionary of hyperparameters
-        :params tuple train_data: The training data (X_train, y_train)
+        :param dict params: Dictionary of hyperparameters
+        :param tuple train_data: The training data (X_train, y_train)
     '''
 
     # Load train data
@@ -100,3 +104,18 @@ def create_model(params, train_data):
     clf.fit(X_train, y_train)
 
     return clf
+
+def create_profile_report(dataset):
+    '''
+        Create a profile report of a given dataset
+
+        :param np.array dataset: The dataset to be profiled
+    '''
+    # concatenate target and features
+    data = np.hstack([dataset.data, dataset.target.reshape(dataset.data.shape[0], -1)])
+    # create dataframe
+    df = pd.DataFrame(data=data, columns=dataset.feature_names+['target'])
+    # create profile report
+    pr = df.profile_report()
+    return pr, df
+
