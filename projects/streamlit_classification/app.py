@@ -36,3 +36,24 @@ max_iter = st.sidebar.text_input('Number of iterations: (default = 50)', '50')
 
 # Parameters
 params = {'penalty': penalty, 'tol': tol, 'max_iter': max_iter, 'solver': solver}
+
+
+# --- HELPER FUNCTIONS --- #
+@st.cache_data
+def load_data(dataset):
+    '''
+        Loads a sklearn dataset
+
+        @params
+        :param str dataset: The name of the dataset to be loaded
+    '''
+    if dataset == 'Iris':
+        data = sklearn.datasets.load_iris()
+    elif dataset == 'Wine':
+        data = sklearn.datasets.load_wine()
+    else:
+        data = sklearn.datasets.load_breast_cancer()
+
+    return data
+
+
