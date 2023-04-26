@@ -19,7 +19,7 @@ from streamlit_pandas_profiling import st_profile_report
 # Title bar
 st.title(f"ML Classification with Logistic Regression")
 
-# Side bar
+# --- SIDEBAR --- #
 st.sidebar.subheader("**Select a dataset**")
 # Dataset selection
 dataset = st.sidebar.selectbox('Dataset', ['Iris 💮', 'Wine 🍷', 'Breast Cancer 🎗️'])
@@ -86,9 +86,10 @@ def create_model(params, train_data):
     '''
         Returns a trained Logistic Regression model
 
-        @params
         :param dict params: Dictionary of hyperparameters
         :param tuple train_data: The training data (X_train, y_train)
+
+        :return  Trained LR model
     '''
 
     # Load train data
@@ -110,6 +111,8 @@ def create_profile_report(dataset):
         Create a profile report of a given dataset
 
         :param np.array dataset: The dataset to be profiled
+
+        :return profile report of dataset
     '''
     # concatenate target and features
     data = np.hstack([dataset.data, dataset.target.reshape(dataset.data.shape[0], -1)])
