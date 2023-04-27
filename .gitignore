@@ -36,3 +36,5 @@ deep_learning/deep_learning_spec/convolutional_neural_nets/week_03/autonomous_dr
 /deep_learning/deep_learning_spec/sequence_models/week_02/emojify/data/glove.6B.50d.txt
 
 
+projects/streamlit_classification/.vscode/launch.json
+projects/streamlit_classification/helpers/__pycache__/hp.cpython-39.pyc
