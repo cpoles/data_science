@@ -77,6 +77,7 @@ def create_model(params, train_data):
 
     return clf
 
+@st.cache_data
 def create_profile_report(dataset):
     '''
         Create a profile report of a given dataset
