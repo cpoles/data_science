@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score
-from streamlit_pandas_profiling import st_profile_report
+
 
 
 # --- HELPER FUNCTIONS --- #
@@ -87,7 +87,7 @@ def create_profile_report(dataset):
     # concatenate target and features
     data = np.hstack([dataset.data, dataset.target.reshape(dataset.data.shape[0], -1)])
     # create dataframe
-    df = pd.DataFrame(data=data, columns=dataset.feature_names+['target'])
+    df = pd.DataFrame(data=data, columns=list(dataset.feature_names)+['target'])
     # create profile report
     pr = df.profile_report()
     return pr, df
