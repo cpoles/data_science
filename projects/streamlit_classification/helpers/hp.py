@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import sklearn.datasets
-import ydata_profiling
+from ydata_profiling import ProfileReport
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -20,15 +20,16 @@ def load_data(dataset):
 
         :return: sklearn dataset
     '''
-    if dataset == 'Iris':
+    if dataset == 'Iris 💮':
         data = sklearn.datasets.load_iris()
-    elif dataset == 'Wine':
+    elif dataset == 'Wine 🍷':
         data = sklearn.datasets.load_wine()
     else:
         data = sklearn.datasets.load_breast_cancer()
 
     return data
 
+@st.cache_data
 def data_preprocess(dataset, test_size):
     '''
         Preprocesses the dataset for training
@@ -85,11 +86,11 @@ def create_profile_report(dataset):
         :return profile report of dataset
     '''
     # concatenate target and features
-    data = np.hstack([dataset.data, dataset.target.reshape(dataset.data.shape[0], -1)])
+    data = np.column_stack([dataset.data, dataset.target])
     # create dataframe
     df = pd.DataFrame(data=data, columns=list(dataset.feature_names)+['target'])
     # create profile report
-    pr = df.profile_report()
+    pr = ProfileReport(df)
     return pr, df
 
 def get_model_metrics(model, test_set):
