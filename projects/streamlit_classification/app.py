@@ -9,8 +9,6 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 from helpers import hp
-import ydata_profiling
-from streamlit_pandas_profiling import st_profile_report
 
 # --- SIDEBAR --- #
 st.sidebar.subheader("**Select a dataset**")
@@ -29,32 +27,29 @@ st.sidebar.subheader("**Hyperparameters Configuration**")
 # Train/Test ratio
 test_size = st.sidebar.slider('Test Size', 0.2, 0.9, 0.3)
 
+# --- Logistic Regression --- #
 if sel_model == 'Logistic Regression':
-    # --- Logistic Regression --- #
-    # Solver
     solver = st.sidebar.selectbox('Algorithm', ['liblinear', 'saga', 'newton-cg', 'lbfgs'])
-    # Regularization
     penalty = st.sidebar.radio('Regularization:', ['l1', 'l2', 'elasticnet'])
-    # Tolerance
     tol = st.sidebar.text_input('Tolerance for stopping criteria (default = 1e-4):', '1e-4')
-    # Max Iterations
     max_iter = st.sidebar.text_input('Number of iterations: (default = 50)', '50')
-   
 
     # Parameters
     params = {'penalty': penalty, 'tol': float(tol), 'max_iter': int(max_iter), 'solver': solver}
 
+# -- Support Vector Machine -- #
 if sel_model == 'Support Vector Machine':
     C = st.sidebar.number_input("C (Regularization parameter)", 0.01, 10.0, step=0.01, key="C")
     kernel = st.sidebar.radio("Kernel", ("rbf", "linear"), key="kernel") 
     gamma = st.sidebar.radio("Gamma (Kernal coefficient", ("scale", "auto"), key="gamma")
+    # Parameters
     params = {'C': C, 'kernel': kernel, 'gamma': gamma}
 
 # --- Model Info --- #
 # Load data
 data, df = hp.load_data(dataset)
 st.subheader(f'Dataset {dataset}')
-
+# Split data into Train and Test sets
 X_train, X_test, y_train, y_test = hp.data_preprocess(data, test_size)
 
 # -- Profile Report --- #
@@ -76,6 +71,7 @@ train_button = st.sidebar.button('Train model')
 
 # --- Model Training --- #
 if train_button:
+    # -- Metrics -- #
     st.header(f'{sel_model} results')
     # Create Model
     with st.spinner('Training model'):
@@ -92,3 +88,5 @@ if train_button:
     c2.metric('Precision', metrics['precision'].round(2))
     c3.metric('Recall', metrics['recall'].round(2))
     c4.metric('F1 Score:', metrics['f1_score'].round(2))
+
+    # -- Plots -- #
