@@ -5,6 +5,7 @@ import sklearn.datasets
 from ydata_profiling import ProfileReport
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, recall_score, precision_score, f1_score
 
@@ -18,7 +19,7 @@ def load_data(dataset):
 
         :param str dataset: The name of the dataset to be loaded
 
-        :return: sklearn dataset
+        :return: sklearn dataset and pandas dataframe version of the dataset
     '''
     if dataset == 'Iris 💮':
         data = sklearn.datasets.load_iris()
@@ -27,7 +28,12 @@ def load_data(dataset):
     else:
         data = sklearn.datasets.load_breast_cancer()
 
-    return data
+    # concatenate target and features
+    df = np.column_stack([data.data, data.target])
+    # create dataframe
+    df = pd.DataFrame(data=df, columns=list(data.feature_names)+['target'])
+
+    return data, df
 
 @st.cache_data
 def data_preprocess(dataset, test_size):
@@ -53,7 +59,7 @@ def data_preprocess(dataset, test_size):
 
     return X_train, X_test, y_train, y_test
 
-def create_model(params, train_data):
+def create_model(sel_model, params, train_data):
     '''
         Returns a trained Logistic Regression model
 
@@ -66,11 +72,11 @@ def create_model(params, train_data):
     # Load train data
     X_train, y_train = train_data
 
-    # Create LR Clf Model
-    clf = LogisticRegression(solver=params['solver'],
-                             max_iter=params['max_iter'],
-                             penalty=params['penalty'],
-                             tol=params['tol']) 
+    if sel_model == 'Logistic Regression':
+        # Create LR Clf Model
+        clf = LogisticRegression(**params)
+    if sel_model == 'Support Vector Machine':
+        clf = SVC(**params)
     
     # Fit the Model
     clf.fit(X_train, y_train)
@@ -78,21 +84,17 @@ def create_model(params, train_data):
     return clf
 
 @st.cache_data
-def create_profile_report(dataset):
+def create_profile_report(df):
     '''
-        Create a profile report of a given dataset
+        Create a profile report of a given a pandas dataframe
 
-        :param np.array dataset: The dataset to be profiled
+        :param pd.DataFrame df: The dataframe to be profiled
 
-        :return profile report of dataset
+        :return profile report of dataframe
     '''
-    # concatenate target and features
-    data = np.column_stack([dataset.data, dataset.target])
-    # create dataframe
-    df = pd.DataFrame(data=data, columns=list(dataset.feature_names)+['target'])
     # create profile report
-    pr = ProfileReport(df)
-    return pr, df
+    pr = ProfileReport(df, explorative=True)
+    return pr
 
 def get_model_metrics(model, test_set):
     '''
