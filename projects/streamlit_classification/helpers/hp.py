@@ -8,6 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, recall_score, precision_score, f1_score
+from sklearn.metrics import ConfusionMatrixDisplay, RocCurveDisplay
 
 
 
@@ -33,7 +34,7 @@ def load_data(dataset):
     # create dataframe
     df = pd.DataFrame(data=df, columns=list(data.feature_names)+['target'])
 
-    return data, df
+    return data, df, data.target_names
 
 @st.cache_data
 def data_preprocess(dataset, test_size):
@@ -128,3 +129,15 @@ def get_model_metrics(model, test_set):
             'precision': precision,
             'f1_score': f1,
             'c_matrix': c_matrix}
+
+def plot_metrics(model, test_set, labels):
+    X_test, y_test = test_set
+
+    cm = ConfusionMatrixDisplay.from_estimator(model, X_test, y_test, display_labels=labels)
+
+    if len(labels) > 2:
+        return cm
+    else:
+        roc = RocCurveDisplay.from_estimator(model, X_test, y_test, pos_label=1)
+        return roc
+

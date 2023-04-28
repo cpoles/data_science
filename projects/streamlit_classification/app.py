@@ -10,6 +10,9 @@ import streamlit as st
 import streamlit.components.v1 as components
 from helpers import hp
 
+# suppress message
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 # --- SIDEBAR --- #
 st.sidebar.subheader("**Select a dataset**")
 # Dataset selection
@@ -47,7 +50,8 @@ if sel_model == 'Support Vector Machine':
 
 # --- Model Info --- #
 # Load data
-data, df = hp.load_data(dataset)
+data, df, labels = hp.load_data(dataset)
+
 st.subheader(f'Dataset {dataset}')
 # Split data into Train and Test sets
 X_train, X_test, y_train, y_test = hp.data_preprocess(data, test_size)
@@ -89,4 +93,6 @@ if train_button:
     c3.metric('Recall', metrics['recall'].round(2))
     c4.metric('F1 Score:', metrics['f1_score'].round(2))
 
-    # -- Plots -- #
+    # -- Plot Confusion Matrix for Multiclass and ROC for Binary Class -- #
+    cm = hp.plot_metrics(model, (X_test, y_test), labels)
+    st.pyplot()
