@@ -66,8 +66,9 @@ if train_button:
     # Model output and metrics
     metrics = hp.get_model_metrics(model, (X_test, y_test))
 
-    c1, c2, c3 = st.columns(3)
+    c1, c2, c3, c4 = st.columns(4)
     
-    c1.metric('Accuracy', metrics['accuracy'])    
-    c2.metric('Precision', metrics['precision'])
-    c3.metric('Recall', metrics['recall'])
+    c1.metric('Accuracy', round(metrics['accuracy'], 2))   
+    c2.metric('Precision', round(metrics['precision'], 2))
+    c3.metric('Recall', round(metrics['recall'], 2))
+    c4.metric('F1 Score:', round(metrics['f1_score']))
