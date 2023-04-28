@@ -64,12 +64,10 @@ if train_button:
         st.success('Model trained.')
 
     # Model output and metrics
-    predictions, accuracy, c_matrix = hp.get_model_metrics(model, (X_test, y_test))
+    metrics = hp.get_model_metrics(model, (X_test, y_test))
 
-    c1, c2 = st.columns(2)
+    c1, c2, c3 = st.columns(3)
     
-    with c1:
-        st.subheader('Confusion Matrix')
-        st.write(c_matrix)
-    
-    c2.metric('Accuracy', accuracy)
+    c1.metric('Accuracy', metrics['accuracy'])    
+    c2.metric('Precision', metrics['precision'])
+    c3.metric('Recall', metrics['recall'])
