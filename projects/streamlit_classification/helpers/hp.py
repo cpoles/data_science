@@ -116,7 +116,7 @@ def get_model_metrics(model, test_set):
     # Precision
     precision = precision_score(y_test, predictions, average='weighted')
     # F1 Score
-    f1 = f1_score(y_test, predictions)
+    f1 = f1_score(y_test, predictions, average='weighted')
     # Confusion Matrix
     c_matrix = confusion_matrix(y_test, predictions)
 

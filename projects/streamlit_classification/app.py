@@ -71,4 +71,4 @@ if train_button:
     c1.metric('Accuracy', round(metrics['accuracy'], 2))   
     c2.metric('Precision', round(metrics['precision'], 2))
     c3.metric('Recall', round(metrics['recall'], 2))
-    c4.metric('F1 Score:', round(metrics['f1_score']))
+    c4.metric('F1 Score:', round(metrics['f1_score'], 2))
