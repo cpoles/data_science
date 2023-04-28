@@ -6,7 +6,7 @@ from ydata_profiling import ProfileReport
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.metrics import confusion_matrix, accuracy_score, recall_score, precision_score
 
 
 
@@ -111,7 +111,15 @@ def get_model_metrics(model, test_set):
     predictions = model.predict(X_test)
     # Accuracy
     accuracy = accuracy_score(y_test, predictions)
+    # Recall
+    recall = recall_score(y_test, predictions)
+    # Precision
+    precision = precision_score(y_test, predictions)
     # Confusion Matrix
     c_matrix = confusion_matrix(y_test, predictions)
 
-    return predictions, accuracy, c_matrix
+    return {'predictions': predictions,
+            'accuracy': accuracy,
+            'recall': recall,
+            'precision': precision,
+            'c_matrix': c_matrix}
