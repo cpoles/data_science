@@ -33,12 +33,25 @@ test_size = st.sidebar.slider('Test Size', 0.2, 0.9, 0.3)
 # --- Logistic Regression --- #
 if sel_model == 'Logistic Regression':
     solver = st.sidebar.selectbox('Algorithm', ['liblinear', 'saga', 'newton-cg', 'lbfgs'])
-    penalty = st.sidebar.radio('Regularization:', ['l1', 'l2', 'elasticnet'])
+    penalty = st.sidebar.radio('Regularization:', ['l1', 'l2', 'elasticnet', 'none'])
     tol = st.sidebar.text_input('Tolerance for stopping criteria (default = 1e-4):', '1e-4')
     max_iter = st.sidebar.text_input('Number of iterations: (default = 50)', '50')
 
-    # Parameters
-    params = {'penalty': penalty, 'tol': float(tol), 'max_iter': int(max_iter), 'solver': solver}
+    # Validate algorithm and penalty
+    algo_pen = {
+        'liblinear': ['l1', 'l2'],
+        'saga': ['elasticnet', 'l1', 'l2'], 
+        'newton-cg': ['l2', 'none'], 
+        'lbfgs': ['l2', 'none']
+    }
+
+    if penalty not in algo_pen[solver]:
+        pens = ', '.join(algo_pen[solver])
+        st.error(f'''The **{solver}** algorithm only supports **{pens}** penalties.''')
+    
+    else:
+        # Parameters
+        params = {'penalty': penalty, 'tol': float(tol), 'max_iter': int(max_iter), 'solver': solver}
 
 # -- Support Vector Machine -- #
 if sel_model == 'Support Vector Machine':
