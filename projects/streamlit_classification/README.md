@@ -1,6 +1,6 @@
 # Streamlit ML Classification
 
-<p>A Streamlit App to help ML learners to observe how changing hyperparaters affects an ML classification model results<p>
+<p>A Streamlit App to help ML learners to observe how changing hyperparameters affects an ML classification model results<p>
 
 
 [Live version 🌎️](https://cpoles-data-science-projectsstreamlit-classificationapp-v7dll7.streamlit.app/)
