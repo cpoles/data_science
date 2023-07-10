@@ -48,10 +48,12 @@ if sel_model == 'Logistic Regression':
     if penalty not in algo_pen[solver]:
         pens = ', '.join(algo_pen[solver])
         st.error(f'''The **{solver}** algorithm only supports **{pens}** penalties.''')
-    
+        train_button = st.sidebar.button('Train model', disabled=True)
     else:
         # Parameters
         params = {'penalty': penalty, 'tol': float(tol), 'max_iter': int(max_iter), 'solver': solver}
+         # --- Train Button --- #
+        train_button = st.sidebar.button('Train model')
 
 # -- Support Vector Machine -- #
 if sel_model == 'Support Vector Machine':
@@ -60,6 +62,7 @@ if sel_model == 'Support Vector Machine':
     gamma = st.sidebar.radio("Gamma (Kernal coefficient", ("scale", "auto"), key="gamma")
     # Parameters
     params = {'C': C, 'kernel': kernel, 'gamma': gamma}
+    train_button = st.sidebar.button('Train model')
 
 # --- Model Info --- #
 # Load data
@@ -83,8 +86,6 @@ if eda:
 if display_df:
     st.write(df)
 
- # --- Train Button --- #
-train_button = st.sidebar.button('Train model')
 
 # --- Model Training --- #
 if train_button:
