@@ -32,15 +32,15 @@ test_size = st.sidebar.slider('Test Size', 0.2, 0.9, 0.3)
 
 # --- Logistic Regression --- #
 if sel_model == 'Logistic Regression':
-    solver = st.sidebar.selectbox('Algorithm', ['liblinear', 'saga', 'newton-cg', 'lbfgs'])
-    penalty = st.sidebar.radio('Regularization:', ['l1', 'l2', 'elasticnet', 'none'])
+    solver = st.sidebar.selectbox('Algorithm', ['liblinear', 'sag', 'newton-cg', 'lbfgs'])
+    penalty = st.sidebar.radio('Regularization:', ['l1', 'l2', 'none'])
     tol = st.sidebar.text_input('Tolerance for stopping criteria (default = 1e-4):', '1e-4')
     max_iter = st.sidebar.text_input('Number of iterations: (default = 50)', '50')
 
     # Validate algorithm and penalty
     algo_pen = {
         'liblinear': ['l1', 'l2'],
-        'saga': ['elasticnet', 'l1', 'l2'], 
+        'sag': ['l2', 'none'], 
         'newton-cg': ['l2', 'none'], 
         'lbfgs': ['l2', 'none']
     }
