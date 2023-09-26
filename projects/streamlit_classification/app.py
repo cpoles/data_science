@@ -59,7 +59,7 @@ if sel_model == 'Logistic Regression':
 if sel_model == 'Support Vector Machine':
     C = st.sidebar.number_input("C (Regularization parameter)", 0.01, 10.0, step=0.01, key="C")
     kernel = st.sidebar.radio("Kernel", ("rbf", "linear"), key="kernel") 
-    gamma = st.sidebar.radio("Gamma (Kernal coefficient)", ("scale", "auto"), key="gamma")
+    gamma = st.sidebar.radio("Gamma (Kernel coefficient)", ("scale", "auto"), key="gamma")
     # Parameters
     params = {'C': C, 'kernel': kernel, 'gamma': gamma}
     train_button = st.sidebar.button('Train model')
