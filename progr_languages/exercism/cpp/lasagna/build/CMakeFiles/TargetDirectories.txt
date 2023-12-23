@@ -1,0 +1,4 @@
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build/CMakeFiles/lasagna.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build/CMakeFiles/test_lasagna.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build/CMakeFiles/edit_cache.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build/CMakeFiles/rebuild_cache.dir

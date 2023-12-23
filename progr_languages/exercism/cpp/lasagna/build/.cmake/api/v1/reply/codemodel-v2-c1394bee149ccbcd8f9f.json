@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lasagna",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lasagna::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lasagna-Debug-f4e88eebdbc4bc00e197.json",
+					"name" : "lasagna",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_lasagna::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_lasagna-Debug-457e196853f9db66f500.json",
+					"name" : "test_lasagna",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build",
+		"source" : "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

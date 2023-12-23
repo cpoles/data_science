@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/lasagna.dir/lasagna_test.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/lasagna_test.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/lasagna_test.cpp"
+},
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/lasagna.dir/test/tests-main.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/test/tests-main.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/lasagna/test/tests-main.cpp"
+}
+]
