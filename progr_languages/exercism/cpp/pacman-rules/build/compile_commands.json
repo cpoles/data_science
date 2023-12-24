@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/pacman-rules.dir/pacman_rules_test.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/pacman_rules_test.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/pacman_rules_test.cpp"
+},
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/pacman-rules.dir/test/tests-main.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/test/tests-main.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/pacman-rules/test/tests-main.cpp"
+}
+]

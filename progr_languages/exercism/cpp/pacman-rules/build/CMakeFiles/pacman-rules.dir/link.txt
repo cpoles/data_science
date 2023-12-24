@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/pacman-rules.dir/pacman_rules_test.cpp.o CMakeFiles/pacman-rules.dir/test/tests-main.cpp.o -o pacman-rules 
