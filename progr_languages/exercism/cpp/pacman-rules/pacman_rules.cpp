@@ -9,7 +9,7 @@ bool can_eat_ghost(bool power_pellet_active, bool touching_ghost) {
 // The function should return true if Pac-Man is touching a power pellet or a
 // dot.
 bool scored(bool touching_power_pellet, bool touching_dot) {
-    return (touching_dot || touching_power_pellet);
+    return touching_dot || touching_power_pellet;
 }
 
 // lost returns a boolean value if Pac-Man loses.
