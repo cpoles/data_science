@@ -1,0 +1,4 @@
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build/CMakeFiles/reverse-string.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build/CMakeFiles/test_reverse-string.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build/CMakeFiles/edit_cache.dir
+/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build/CMakeFiles/rebuild_cache.dir

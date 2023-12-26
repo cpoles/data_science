@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/reverse_string_test.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/reverse_string_test.cpp"
+},
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/reverse_string.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/reverse_string.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/reverse_string.cpp"
+},
+{
+  "directory": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/test/tests-main.cpp.o -c /home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/test/tests-main.cpp",
+  "file": "/home/krusty/Programming/data_science/progr_languages/exercism/cpp/reverse-string/test/tests-main.cpp"
+}
+]

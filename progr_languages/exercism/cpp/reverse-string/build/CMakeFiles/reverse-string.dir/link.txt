@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o CMakeFiles/reverse-string.dir/reverse_string.cpp.o CMakeFiles/reverse-string.dir/test/tests-main.cpp.o -o reverse-string 
