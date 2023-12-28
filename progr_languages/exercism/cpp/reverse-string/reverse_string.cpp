@@ -1,8 +1,11 @@
 #include "reverse_string.h"
 
+#include <algorithm>
+
 namespace reverse_string {
 
-   std::string reverse_string(const std::string& str) {
-        return std::string(str.rbegin(), str.rend());
+   std::string reverse_string(std::string str) {
+        reverse(str.begin(), str.end());
+        return str;
    }
 }  // namespace reverse_string
